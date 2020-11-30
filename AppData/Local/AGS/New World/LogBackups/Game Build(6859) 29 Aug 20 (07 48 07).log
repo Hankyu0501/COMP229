@@ -1,0 +1,1558 @@
+<07:48:08> [Info]: BackupNameAttachment=" Build(6859) 29 Aug 20 (07 48 07)"  -- used by backup system
+
+<07:48:08> [Info]: Log Started at Sat Aug 29 07:48:07 2020
+<07:48:08> [Info]: Built on Thu Aug 27 04:16:17 2020
+
+<07:48:08> [Info]: Running 64 bit Windows version
+<07:48:08> [Info]: Executable: Javelin_x64.exe [AZ_RETAIL_CONFIG]
+<07:48:08> [Info]: Executable Folder: SteamLibrary
+<07:48:08> [Info]: FileVersion: 1.0.17.6859
+<07:48:08> [Info]: ProductVersion: 1.0.17.6859
+<07:48:08> [Info]: Using Microsoft (tm) C++ Standard Library implementation
+
+<07:48:08> [Info] (AZCore): [System] Loading system configuration from system_windows_pc.cfg...
+<07:48:08> [Info] (AZCore): [System] GameDir: Assets
+
+<07:48:15> [Info]: 
+<07:48:15> [Info]: Total number of logical processors: 12
+<07:48:15> [Info]: Number of available logical processors: 12
+<07:48:15> [Info]: Total number of system cores: 6
+<07:48:15> [Info]: Number of cores available to process: 6
+<07:48:15> [Info]:  
+<07:48:15> [Info]: Processor 0:
+<07:48:15> [Info]:   CPU: Intel Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:48:15> [Info]:   Family: 6, Model: 14, Stepping: 10
+<07:48:15> [Info]:   FPU: On-Chip
+<07:48:15> [Info]:   3DNow!: not present
+<07:48:15> [Info]:   MMX: not present
+<07:48:15> [Info]:   SSE: present
+<07:48:15> [Info]:   SSE2: present
+<07:48:15> [Info]:   SSE3: present
+<07:48:15> [Info]:   Serial number not present or disabled
+<07:48:15> [Info]:  
+<07:48:15> [Info]: Processor 1:
+<07:48:15> [Info]:   CPU: Intel Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:48:15> [Info]:   Family: 6, Model: 14, Stepping: 10
+<07:48:15> [Info]:   FPU: On-Chip
+<07:48:15> [Info]:   3DNow!: not present
+<07:48:15> [Info]:   MMX: not present
+<07:48:15> [Info]:   SSE: present
+<07:48:15> [Info]:   SSE2: present
+<07:48:15> [Info]:   SSE3: present
+<07:48:15> [Info]:   Serial number not present or disabled
+<07:48:15> [Info]:  
+<07:48:15> [Info]: Processor 2:
+<07:48:15> [Info]:   CPU: Intel Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:48:15> [Info]:   Family: 6, Model: 14, Stepping: 10
+<07:48:15> [Info]:   FPU: On-Chip
+<07:48:15> [Info]:   3DNow!: not present
+<07:48:15> [Info]:   MMX: not present
+<07:48:15> [Info]:   SSE: present
+<07:48:15> [Info]:   SSE2: present
+<07:48:15> [Info]:   SSE3: present
+<07:48:15> [Info]:   Serial number not present or disabled
+<07:48:15> [Info]:  
+<07:48:15> [Info]: Processor 3:
+<07:48:15> [Info]:   CPU: Intel Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:48:15> [Info]:   Family: 6, Model: 14, Stepping: 10
+<07:48:15> [Info]:   FPU: On-Chip
+<07:48:15> [Info]:   3DNow!: not present
+<07:48:15> [Info]:   MMX: not present
+<07:48:15> [Info]:   SSE: present
+<07:48:15> [Info]:   SSE2: present
+<07:48:15> [Info]:   SSE3: present
+<07:48:15> [Info]:   Serial number not present or disabled
+<07:48:15> [Info]:  
+<07:48:15> [Info]: Processor 4:
+<07:48:15> [Info]:   CPU: Intel Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:48:15> [Info]:   Family: 6, Model: 14, Stepping: 10
+<07:48:15> [Info]:   FPU: On-Chip
+<07:48:15> [Info]:   3DNow!: not present
+<07:48:15> [Info]:   MMX: not present
+<07:48:15> [Info]:   SSE: present
+<07:48:15> [Info]:   SSE2: present
+<07:48:15> [Info]:   SSE3: present
+<07:48:15> [Info]:   Serial number not present or disabled
+<07:48:15> [Info]:  
+<07:48:15> [Info]: Processor 5:
+<07:48:15> [Info]:   CPU: Intel Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:48:15> [Info]:   Family: 6, Model: 14, Stepping: 10
+<07:48:15> [Info]:   FPU: On-Chip
+<07:48:15> [Info]:   3DNow!: not present
+<07:48:15> [Info]:   MMX: not present
+<07:48:15> [Info]:   SSE: present
+<07:48:15> [Info]:   SSE2: present
+<07:48:15> [Info]:   SSE3: present
+<07:48:15> [Info]:   Serial number not present or disabled
+<07:48:15> [Info]:  
+<07:48:15> [Info]: Windows 10 64 bit (build 10.0.18362)
+<07:48:15> [Info]: System language: Korean
+<07:48:15> [Info]: Windows Directory: "C:\WINDOWS"
+<07:48:15> [Info]: Local time is 07:48:15 08/29/20, system running for 2391 minutes
+<07:48:15> [Info]: 8037MB physical memory installed, 3144MB available, 134217727MB virtual memory installed, 60 percent of memory in use
+<07:48:15> [Info]: PageFile usage: 154MB, Working Set: 217MB, Peak PageFile usage: 305MB,
+<07:48:15> [Info]: Current display mode is 1920x1080x32, (Unknown graphics card)
+<07:48:15> [Info]: Unknown keyboard and 16+ button mouse installed
+<07:48:15> [Info]: --------------------------------------------------------------------------------
+<07:48:15> [Info] (AZCore): [System] Stream Engine Initialization
+<07:48:15> [Info]: GameName: New World
+<07:48:15> [Info]: BuildTime: Thu Aug 27 04:16:17 2020
+
+<07:48:15> [Info] (AZCore): [System] Physics initialization
+<07:48:16> [Info] (AZCore): [System] Renderer initialization
+<07:48:16> [Info]: Logging video adapters:
+<07:48:16> [Info]: - NVIDIA GeForce GTX 1050 Ti (vendor = 0x10de, device = 0x1c8c)
+<07:48:16> [Info]:   - Adapter index: 0
+<07:48:16> [Info]:   - Dedicated video memory: 4021 MB
+<07:48:16> [Info]:   - Feature level: DX11 (SM 5.0)
+<07:48:16> [Info]:   - Displays connected: yes
+<07:48:16> [Info]:   - Suitable rendering device: yes
+<07:48:18> [Info]: - Intel(R) UHD Graphics 630 (vendor = 0x8086, device = 0x3e9b)
+<07:48:18> [Info]:   - Adapter index: 1
+<07:48:18> [Info]:   - Dedicated video memory: 128 MB
+<07:48:18> [Info]:   - Feature level: DX11 (SM 5.0)
+<07:48:18> [Info]:   - Displays connected: no
+<07:48:18> [Info]:   - Suitable rendering device: no
+<07:48:18> [Info]: - Microsoft Basic Render Driver (vendor = 0x1414, device = 0x008c)
+<07:48:18> [Info]:   - Adapter index: 2
+<07:48:18> [Info]:   - Dedicated video memory: 0 MB
+<07:48:18> [Info]:   - Feature level: DX11 (SM 5.0)
+<07:48:18> [Info]:   - Displays connected: no
+<07:48:18> [Info]:   - Suitable rendering device: no
+<07:48:20> [Info]: Active GPUs: 1
+<07:48:33> [Info] (AZCore): [System] Font initialization
+<07:48:33> [Info]: Using FreeType 2.5.0
+<07:48:34> [Info] (AZCore): [System] Time initialization
+<07:48:34> [Info] (AZCore): [System] Input initialization
+<07:48:34> [Info] (AZCore): [System] UI system initialization
+<07:48:34> [Info] (AZCore): [System] Initializing Animation System
+<07:48:34> [Info] (AZCore): [System] Initializing 3D Engine
+<07:48:34> [Info]: Sky light: Optical lookup tables loaded off disc.
+<07:48:34> [Info] (AZCore): [System] Script System Initialization
+<07:48:34> [Info] (AZCore): [System] Entity system initialization
+<07:48:34> [Info] (AZCore): [System] Initializing additional systems
+<07:48:34> [Info] (AZCore): [System] Dynamic Response System initialization
+<07:48:34> [Info] (AZCore): [System] No Dynamic Response System was loaded from a module, the system will use the NULL DynamicResponseSystem.
+<07:48:34> [Info]: Running machine spec auto detect (64 bit)...
+<07:48:34> [Info]: - Windows 10 64 bit (build 10.0.18362)
+<07:48:34> [Info]: - System memory
+<07:48:34> [Info]: --- 8036 MB
+<07:48:34> [Info]: - Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:48:34> [Info]: --- Number of available cores: 6 (out of 6)
+<07:48:34> [Info]: --- Number of logical processors: 12
+<07:48:34> [Info]: - NVIDIA GeForce GTX 1050 Ti (vendor = 0x10de, device = 0x1c8c)
+<07:48:34> [Info]: --- Dedicated video memory: 4021 MB
+<07:48:34> [Info]: --- Feature level: DX11 (SM 5.0)
+<07:48:34> [Info]: - Final rating: Machine class 2
+<07:48:38> [Info] (AZCore): [Script] Warning: ScriptedEntityTweener cacheAnimation doesn't support FromTo animations
+
+<07:48:38> [Info] (AZCore): [Script] stack traceback:
+	...ipts/scriptedentitytweener/scriptedentitytweener.lua:203: in function 'CacheAnimation'
+	lyshineui/_common/scriptedentitytweenercommon.lua:121: in function 'OnActivate'
+	lyshineui/globals.lua:72: in function <lyshineui/globals.lua:59>
+
+<07:48:38> [Info] (AZCore): [Script] Warning: ScriptedEntityTweener cacheAnimation doesn't support FromTo animations
+
+<07:48:38> [Info] (AZCore): [Script] stack traceback:
+	...ipts/scriptedentitytweener/scriptedentitytweener.lua:203: in function 'CacheAnimation'
+	lyshineui/_common/scriptedentitytweenercommon.lua:122: in function 'OnActivate'
+	lyshineui/globals.lua:72: in function <lyshineui/globals.lua:59>
+
+<07:48:38> [Info] (AZCore): [System] == Version Info ===============================================================
+
+<07:48:38> [Info] (AZCore): [System] [RETAIL].Javelin.2008270350.1139168
+
+<07:48:38> [Info] (AZCore): [System] ===============================================================================
+
+<07:48:44> [Info]: Client config override file not found: @assets@/ClientOverride.json
+<07:48:45> [Info] (AZCore): [Game] Steam Initialized!
+<07:48:45> [Info]: Channel service uri: https://d2c74t4zimux3r.cloudfront.net/STEAM_APP_ID.1205550.json
+<07:48:48> [Info]: Channel name: ConfidentialTestLive
+<07:48:48> [Info]: Found cluster data for cluster id: fra-prod
+<07:48:48> [Info]: Display Name: EU Central
+<07:48:48> [Info]: Auth Stack: https://2mfrik7h83.execute-api.us-east-1.amazonaws.com/Prod
+<07:48:48> [Info]: Auth Stack Region: us-east-1
+<07:48:48> [Info]: Gateway Stack: u433g9r00c.execute-api.eu-central-1.amazonaws.com
+<07:48:48> [Info]: Gateway Stack Region: eu-central-1
+<07:48:48> [Info]: Found cluster data for cluster id: gru-prod
+<07:48:48> [Info]: Display Name: SA East
+<07:48:48> [Info]: Auth Stack: https://kqqt5twsi7.execute-api.us-east-1.amazonaws.com/Prod
+<07:48:48> [Info]: Auth Stack Region: us-east-1
+<07:48:48> [Info]: Gateway Stack: j4n6whncmi.execute-api.sa-east-1.amazonaws.com
+<07:48:48> [Info]: Gateway Stack Region: sa-east-1
+<07:48:48> [Info]: Found cluster data for cluster id: iad-prod
+<07:48:48> [Info]: Display Name: US East
+<07:48:48> [Info]: Gateway Stack: 0prplal5u1.execute-api.us-east-1.amazonaws.com
+<07:48:48> [Info]: Gateway Stack Region: us-east-1
+<07:48:48> [Info]: Auth Stack: https://eudbjx6mig.execute-api.us-east-1.amazonaws.com/Prod
+<07:48:48> [Info]: Auth Stack Region: us-east-1
+<07:48:48> [Info]: Found cluster data for cluster id: pdx-prod
+<07:48:48> [Info]: Display Name: US West
+<07:48:48> [Info]: Auth Stack: https://q8hqllbg6k.execute-api.us-east-1.amazonaws.com/Prod
+<07:48:48> [Info]: Auth Stack Region: us-east-1
+<07:48:48> [Info]: Gateway Stack: v7irlu1nrl.execute-api.us-west-2.amazonaws.com
+<07:48:48> [Info]: Gateway Stack Region: us-west-2
+<07:48:48> [Info]: Found platform metadata for key: ENTITLEMENTS.STEAM_APP_ID.1205550
+<07:48:48> [Info]: Found platform metadata for key: PERSONA.STEAM_APP_ID.1205550
+<07:48:48> [Info]: Found persona role for cluster id: fra-prod - arn:aws:iam::093607389475:role/AgsLiveResources-AllowPersonaAccessRole-1U24RJQDKWS63
+<07:48:48> [Info]: Found persona role for cluster id: gru-prod - arn:aws:iam::845253724667:role/AgsLiveResources-AllowPersonaAccessRole-SLHVYULH7U5
+<07:48:48> [Info]: Found persona role for cluster id: iad-prod - arn:aws:iam::819349112573:role/AgsLiveResources-AllowPersonaAccessRole-1PHH0BI346X75
+<07:48:48> [Info]: Found persona role for cluster id: pdx-devo - arn:aws:iam::166847089677:role/AgsLiveResources-AllowPersonaAccessRole-15NKM8MRPA2BX
+<07:48:48> [Info]: Found persona role for cluster id: pdx-prod - arn:aws:iam::458929010575:role/AgsLiveResources-AllowPersonaAccessRole-QYL4I8P12BEA
+<07:48:48> [Info]: Found persona role for cluster id: pdx-qa - arn:aws:iam::379061375310:role/AgsLiveResources-AllowPersonaAccessRole-116SW3GWSL7P1
+<07:48:48> [Info]: Found persona role for cluster id: syd-prod - arn:aws:iam::018141801470:role/AgsLiveResources-AllowPersonaAccessRole-1CPZ9EG8SYMOQ
+<07:48:48> [Info]: Found cluster data for cluster id: syd-prod
+<07:48:48> [Info]: Display Name: AP Southeast
+<07:48:48> [Info]: Auth Stack: https://hhf8nn71vb.execute-api.us-east-1.amazonaws.com/Prod
+<07:48:48> [Info]: Auth Stack Region: us-east-1
+<07:48:48> [Info]: Gateway Stack: ep1m9qoir8.execute-api.ap-southeast-2.amazonaws.com
+<07:48:48> [Info]: Gateway Stack Region: ap-southeast-2
+<07:48:58> [Info]: Failure in initializing Fuel::Iap::IapClient: 14
+<07:48:58> [Info] (AZCore): [Game] LogEnvironmentString: ClusterId: iad-prod
+<07:48:58> [Info] (AZCore): [Game] LogEnvironmentString: ProductId: STEAM_APP_ID.1205550
+<07:48:58> [Info] (AZCore): [AuthManager] Initializing Steam Auth Manager.
+<07:48:58> [Info] (AZCore): [SteamAuth] Initializing Persona.
+<07:48:59> [Info]: [EasyAntiCheat] Initializing EAC game client module...
+<07:48:59> [Info]: [EasyAntiCheat] ...EAC game client module initialized successfully.
+<07:49:01> [Info]: Initializing default materials...
+<07:49:03> [Info] (AZCore): [AsyncMapUnload] No previous level to unload, so not starting async.  Just loading this map now: ("frontend")
+<07:49:03> [Info]: ============================ Loading level frontend ============================
+<07:49:08> [Info]: Loading Seen Entitlements Data failed.
+<07:49:14> [Info] (AZCore): [Script] CharacterInfoCard: Lua property GuildCrestForeground is not set
+
+<07:49:14> [Info] (AZCore): [Script] CharacterInfoCard: Lua property GuildCrestBackground is not set
+
+<07:49:14> [Info] (AZCore): [Script] CharacterInfoCard: Lua property GuildCrestForeground is not set
+
+<07:49:14> [Info] (AZCore): [Script] CharacterInfoCard: Lua property GuildCrestBackground is not set
+
+<07:49:19> [Info]: SerializeOptions: Success
+<07:49:19> [Info]: SerializeOptions: Moving to C:/Users/USER/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<07:49:20> [Info] (AZCore): [Script] Tooltip: Lua property SimpleTooltip is not set
+
+<07:49:20> [Info] (AZCore): [Script] Tooltip: Lua property SimpleTooltipText is not set
+
+<07:49:25> [Info]: CryAnimation: character-definition not found: objects/characters/player/male/player_female.cdf
+<07:49:25> [Info] (AZCore): [Game] 0x441F4C03(user) attempting sign-in.
+<07:49:25> [Info] (AZCore): [Game] LogEnvironmentString: Auth mode: user
+<07:49:25> [Info] (AZCore): [SteamAuth] Attempting to log in to Steam
+<07:49:25> [Info] (AZCore): [SteamAuth] Getting steam auth session ticket.
+<07:49:26> [Info] (AZCore): [SteamAuth] OnAuthSessionTicket: Authenticating using steam auth session ticket: 2
+<07:49:26> [Info] (AZCore): [SteamAuth] CreateSteamSessionJob: Calling Persona to create steam session
+<07:49:28> [Info] (AZCore): [SteamAuth] OnCreatedSteamSession: Created steam session for persona id: amzn1.developerPersonaId.f5c2ae6a-2b16-16f5-023f-8b74e2ee7e17.
+<07:49:28> [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed gateway AWS credentials, next attempt will start after 2020-08-29T10:44:28Z
+<07:49:29> [Info] (AZCore): [SteamAuth] AssumePersonaRoleJob: Assume role success
+<07:49:29> [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed persona AWS credentials, next attempt will start after 2020-08-28T23:44:29Z
+<07:49:29> [Info] (AZCore): [Game] CGame::OnCampfireLoginComplete, login successful.
+<07:49:29> [Info] (AZCore): [GameConnection] ConfigureLogin gateway mode is 'gateway'
+<07:49:29> [Info] (AZCore): [GameConnection] ConfigureLogin MODE_GATEWAY: endpoint=0prplal5u1.execute-api.us-east-1.amazonaws.com, region=us-east-1
+<07:49:29> [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.ProductId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1205550/versionless"
+<07:49:30> [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.public.ProductId" blocking remote config, with S3 key: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1205550/versionless" successfully, size: 420
+
+<07:49:30> [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.ProductIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/ProductId/STEAM_APP_ID.1205550/2008270350;1139168"
+<07:49:30> [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.ProductId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1205550/versionless"
+<07:49:30> [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.ProductIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/ProductId/STEAM_APP_ID.1205550/2008270350;1139168"
+<07:49:30> [Info] (AZCore): [Game] LogEnvironmentString: Auth Mode: user
+<07:49:30> [Info] (AZCore): [Game] LogEnvironmentString: Auth Backend: persona
+<07:49:30> [Info] (AZCore): [Game] LogEnvironmentString: Gateway Mode: gateway
+<07:49:30> [Info] (AZCore): [Game] LogEnvironmentString: Gateway Address: 0prplal5u1.execute-api.us-east-1.amazonaws.com
+<07:49:30> [Info] (AZCore): [Game] LogEnvironmentString: Auth Username: HSP
+<07:49:30> [Info] (AZCore): [Game] LogEnvironmentString: Persona ID: amzn1.developerPersonaId.f5c2ae6a-2b16-16f5-023f-8b74e2ee7e17
+<07:49:31> [Info]: 
+<07:49:31> [Info]: Total number of logical processors: 12
+<07:49:31> [Info]: Number of available logical processors: 12
+<07:49:31> [Info]: Total number of system cores: 6
+<07:49:31> [Info]: Number of cores available to process: 6
+<07:49:31> [Info]:  
+<07:49:31> [Info]: Processor 0:
+<07:49:31> [Info]:   CPU: Intel Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:49:31> [Info]:   Family: 6, Model: 14, Stepping: 10
+<07:49:31> [Info]:   FPU: On-Chip
+<07:49:31> [Info]:   3DNow!: not present
+<07:49:31> [Info]:   MMX: not present
+<07:49:31> [Info]:   SSE: present
+<07:49:31> [Info]:   SSE2: present
+<07:49:31> [Info]:   SSE3: present
+<07:49:31> [Info]:   Serial number not present or disabled
+<07:49:31> [Info]:  
+<07:49:31> [Info]: Processor 1:
+<07:49:31> [Info]:   CPU: Intel Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:49:31> [Info]:   Family: 6, Model: 14, Stepping: 10
+<07:49:31> [Info]:   FPU: On-Chip
+<07:49:31> [Info]:   3DNow!: not present
+<07:49:31> [Info]:   MMX: not present
+<07:49:31> [Info]:   SSE: present
+<07:49:31> [Info]:   SSE2: present
+<07:49:31> [Info]:   SSE3: present
+<07:49:31> [Info]:   Serial number not present or disabled
+<07:49:31> [Info]:  
+<07:49:31> [Info]: Processor 2:
+<07:49:31> [Info]:   CPU: Intel Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:49:31> [Info]:   Family: 6, Model: 14, Stepping: 10
+<07:49:31> [Info]:   FPU: On-Chip
+<07:49:31> [Info]:   3DNow!: not present
+<07:49:31> [Info]:   MMX: not present
+<07:49:31> [Info]:   SSE: present
+<07:49:31> [Info]:   SSE2: present
+<07:49:31> [Info]:   SSE3: present
+<07:49:31> [Info]:   Serial number not present or disabled
+<07:49:31> [Info]:  
+<07:49:31> [Info]: Processor 3:
+<07:49:31> [Info]:   CPU: Intel Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:49:31> [Info]:   Family: 6, Model: 14, Stepping: 10
+<07:49:31> [Info]:   FPU: On-Chip
+<07:49:31> [Info]:   3DNow!: not present
+<07:49:31> [Info]:   MMX: not present
+<07:49:31> [Info]:   SSE: present
+<07:49:31> [Info]:   SSE2: present
+<07:49:31> [Info]:   SSE3: present
+<07:49:31> [Info]:   Serial number not present or disabled
+<07:49:31> [Info]:  
+<07:49:31> [Info]: Processor 4:
+<07:49:31> [Info]:   CPU: Intel Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:49:31> [Info]:   Family: 6, Model: 14, Stepping: 10
+<07:49:31> [Info]:   FPU: On-Chip
+<07:49:31> [Info]:   3DNow!: not present
+<07:49:31> [Info]:   MMX: not present
+<07:49:31> [Info]:   SSE: present
+<07:49:31> [Info]:   SSE2: present
+<07:49:31> [Info]:   SSE3: present
+<07:49:31> [Info]:   Serial number not present or disabled
+<07:49:31> [Info]:  
+<07:49:31> [Info]: Processor 5:
+<07:49:31> [Info]:   CPU: Intel Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<07:49:31> [Info]:   Family: 6, Model: 14, Stepping: 10
+<07:49:31> [Info]:   FPU: On-Chip
+<07:49:31> [Info]:   3DNow!: not present
+<07:49:31> [Info]:   MMX: not present
+<07:49:31> [Info]:   SSE: present
+<07:49:31> [Info]:   SSE2: present
+<07:49:31> [Info]:   SSE3: present
+<07:49:31> [Info]:   Serial number not present or disabled
+<07:49:31> [Info]:  
+<07:49:31> [Info]: Change detected in analytics configuration. Re-instantiating network traffic reporter
+<07:49:57> [Info] (AZCore): [Game] CGame::ActorContainerConnect
+<07:49:57> [Info] (AZCore): [GameConnection] GameConnectionWrapper::Connect: playerName = Hankyu
+<07:49:57> [Info] (AZCore): [GameConnection] Queueing login for world () and character (6f62bc1d-6da2-4832-bca1-a966ca6ba6e5)
+<07:49:58> [Info] (AZCore): [GameConnection] Received login ticket: 652a15bd-6726-4923-9740-65b69c20747a_d87bdb6e-922c-4349-b2fc-84b321115e81
+<07:50:01> [Info] (AZCore): [Game] LogEnvironmentString: World ID: 652a15bd-6726-4923-9740-65b69c20747a
+<07:50:01> [Info] (AZCore): [Game] LogEnvironmentString: World Name: preview-2-0011
+<07:50:01> [Info] (AZCore): [Game] LogEnvironmentString: Character ID: 6f62bc1d-6da2-4832-bca1-a966ca6ba6e5
+<07:50:01> [Info] (AZCore): [Game] LogEnvironmentString: REP Address: 3.91.222.183
+<07:50:01> [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/RegionId/iad-prod/versionless"
+<07:50:02> [Info] (AZCore): [StackConfig] Retrieved layer's "remoteCfg.public.RegionId" async remote config, with S3 key: "applications/public/configuration-sets/RegionId/iad-prod/versionless" successfully, size: 115
+
+<07:50:02> [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.RegionIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/RegionId/iad-prod/2008270350;1139168"
+<07:50:02> [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.WorldId" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/WorldId/652a15bd-6726-4923-9740-65b69c20747a/versionless"
+<07:50:02> [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.public.WorldIdv" S3 key (old: ""), reset to new value: "applications/public/configuration-sets/WorldId/652a15bd-6726-4923-9740-65b69c20747a/2008270350;1139168"
+<07:50:02> [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/iad-prod/versionless"
+<07:50:02> [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.RegionIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/RegionId/iad-prod/2008270350;1139168"
+<07:50:02> [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.WorldId" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/WorldId/652a15bd-6726-4923-9740-65b69c20747a/versionless"
+<07:50:02> [Info] (AZCore): [StackConfig] LayerS3(): layer's "remoteCfg.publicGameplay.WorldIdv" S3 key (old: ""), reset to new value: "applications/publicGameplay/configuration-sets/WorldId/652a15bd-6726-4923-9740-65b69c20747a/2008270350;1139168"
+<07:50:02> [Info] (AZCore): [GameConnection] GameConnectionWrapper: start REP connection, repAddress = 3.91.222.183, worldId = 652a15bd-6726-4923-9740-65b69c20747a
+<07:50:05> [Info] (AZCore): [GameConnection] GameConnectionWrapper: REP socket connection established, now waiting to register
+<07:50:05> [Info] (AZCore): [GameConnection] GameConnectionWrapper: received registration response from REP
+<07:50:05> [Info] (AZCore): [Game] LogEnvironmentString: Server version: [RELEASE].Javelin.2008270350.1139168
+<07:50:05> [Info] (AZCore): [GameConnection] GameConnectionWrapper: start actor game connection
+<07:50:05> [Info] (AZCore): [GameConnection] GameConnectionWrapper: actor game connection succeeds
+<07:50:05> [Info] (AZCore): [GameConnection] GameConnectionWrapper: AOI client available
+<07:50:05> [Info] (AZCore): [ClientContext] Initialize()
+<07:50:05> [Info] (AZCore): [ClientContext] Cleanup()
+<07:50:11> [Info] (AZCore): [streamingGDEManager] Initialize()
+<07:50:11> [Info] (AZCore): [AsyncMapUnload] Loading of map "NewWorld_VitaeEterna" deferred in order to async unload previous level "frontend": starting async unload...
+<07:50:11> [Info] (AZCore): [AsyncMapUnload] Lumberyard Connection State: "WaitingForPlayerSpawn"
+<07:50:11> [Info] (AZCore): [AsyncMapUnload] waiting... numJobs 0, AssetBus::context.m_queue.size(): 32, waitingRefs (from bus): 0
+<07:50:11> [Info] (AZCore): [AsyncMapUnload] DONE waiting... numJobs 0, AssetBus::context.m_queue.size(): 0, waitingRefs (from bus): 0
+<07:50:11> [Info] (AZCore): [AsyncMapUnload] ...allowing map change
+<07:50:11> [Info]: ============================ Loading level NewWorld_VitaeEterna ============================
+<07:50:17> [Info]: CGame::InitCoatlicueTerrain
+<07:50:24> [Info] (AZCore): [GDERenderManager] Init()
+<07:50:29> [Info] (AZCore): [Game] LogEnvironmentString: Player Name: Hankyu
+<07:50:29> [Info] (AZCore): [Game] LogEnvironmentString: Player Actor: FE3C3245D03C4A0E8C57B8D3E71B1D17
+<07:50:29> [Info] (AZCore): [Script] Initializing ambient audio
+
+<07:50:29> [Info] (AZCore): [Script] Initializing Cattail
+
+<07:50:29> [Info] (AZCore): [Script] SetAmbientSource
+
+<07:50:29> [Info] (AZCore): [Script] Initializing Bush
+
+<07:50:29> [Info] (AZCore): [Script] SetAmbientSource
+
+<07:50:29> [Info] (AZCore): [Script] Initializing BeechTree
+
+<07:50:29> [Info] (AZCore): [Script] SetAmbientSource
+
+<07:50:29> [Info] (AZCore): [Script] Initializing PoplarTree
+
+<07:50:29> [Info] (AZCore): [Script] SetAmbientSource
+
+<07:50:29> [Info] (AZCore): [Script] Initializing OakTree
+
+<07:50:29> [Info] (AZCore): [Script] SetAmbientSource
+
+<07:50:29> [Info] (AZCore): [Script] Initializing DeadTree
+
+<07:50:29> [Info] (AZCore): [Script] SetAmbientSource
+
+<07:50:29> [Info] (AZCore): [Script] Initializing PineTree
+
+<07:50:29> [Info] (AZCore): [Script] SetAmbientSource
+
+<07:50:29> [Info] (AZCore): [Script] Initialize audio control
+
+<07:50:29> [Info] (AZCore): [GameConnection] GameConnectionWrapper: player spawn succeeds, in game
+<07:50:29> [Info] (AZCore): [Game] CGame::OnConnectionSucceed
+<07:50:31> [Info]: SerializeOptions: Success
+<07:50:31> [Info]: SerializeOptions: Moving to C:/Users/USER/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<07:50:35> [Info]: [Vivox] VoiceChatSystemComponent: connected to server
+<07:50:36> [Info]: [Vivox] VoiceChatClientState: Attempting login as '.amzpnw.6f62bc1d-6da2-4832-bca1-a966ca6ba6e5.'...
+<07:50:39> [Info]: [Vivox] VoiceChatSystemComponent: logged in to server
+<07:50:42> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<07:50:45> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<07:50:47> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com (019001)'...
+<07:50:48> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<07:50:48> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<07:50:50> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<07:50:50> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com (018001)'...
+<07:50:50> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<07:50:51> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<07:50:51> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<07:50:52> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAw!p-20-5-1.000-2@nwxp.vivox.com (019000)'...
+<07:50:52> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<07:50:53> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<07:51:00> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<07:51:00> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com (018000)'...
+<07:51:00> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<07:51:01> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<07:51:03> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018000
+<07:51:03> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019000
+<07:51:03> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018001
+<07:51:03> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<07:51:03> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<07:51:03> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<07:51:03> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<07:51:03> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<07:51:03> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<07:51:03> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<07:51:03> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<07:51:03> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<07:51:16> [Info] (AZCore): [Script] Tooltip: Lua property SimpleTooltip is not set
+
+<07:51:16> [Info] (AZCore): [Script] Tooltip: Lua property SimpleTooltipText is not set
+
+<07:51:18> [Info] (AZCore): [Script] 
+lyshineui/inventory/dynamicitemlist.lua(605): WARNING: Cloning 78 draggable item in DynamicItemList in 'MagicMap' canvas. Consider increasing cache size.
+
+<07:51:24> [Info] (AZCore): [Script] 
+lyshineui/_common/entitlementsdatahandler.lua(87): ERROR: EntitlementsDataHandler:OnEntitlementError
+
+<07:51:57> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<07:51:57> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<07:51:57> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<07:51:57> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com (017999)'...
+<07:51:57> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com' left
+<07:51:57> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com' left
+<07:51:58> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<07:51:58> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<07:51:58> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com' joined
+<07:51:58> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<07:51:58> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4OTk5!p-20-5-1.000-2@nwxp.vivox.com (018999)'...
+<07:51:58> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<07:51:59> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4OTk5!p-20-5-1.000-2@nwxp.vivox.com' joined
+<07:52:00> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018999
+<07:52:00> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019000
+<07:52:00> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018000
+<07:52:00> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<07:52:00> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<07:52:00> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<07:52:00> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<07:52:00> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<07:52:00> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<07:52:00> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<07:52:00> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<07:52:00> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<07:53:49> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<07:53:49> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<07:53:49> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<07:53:49> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com (019001)'...
+<07:53:49> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<07:53:49> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com' left
+<07:53:49> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4OTk5!p-20-5-1.000-2@nwxp.vivox.com' left
+<07:53:49> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<07:53:49> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<07:53:50> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<07:53:50> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<07:53:50> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com (018001)'...
+<07:53:50> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<07:53:51> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<07:53:51> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018001
+<07:53:51> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019000
+<07:53:51> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018000
+<07:53:51> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<07:53:51> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<07:53:51> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<07:53:51> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<07:53:51> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<07:53:51> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<07:53:51> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<07:53:51> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<07:53:51> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<07:54:28> [Info] (AZCore): [Script] self.showPerks =false
+
+<07:57:46> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:03:05> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:03:16> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:16> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:16> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:16> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com (017999)'...
+<08:03:16> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:03:16> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:03:16> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:03:16> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:03:17> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:03:17> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:17> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4OTk5!p-20-5-1.000-2@nwxp.vivox.com (018999)'...
+<08:03:17> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:03:18> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4OTk5!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:03:18> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018999
+<08:03:18> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019000
+<08:03:18> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018000
+<08:03:18> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:03:18> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<08:03:18> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<08:03:18> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:18> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:18> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:18> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:18> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:18> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:37> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:37> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:37> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:37> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com (019999)'...
+<08:03:37> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:03:37> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:03:37> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:03:37> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:03:38> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:03:38> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:38> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com (020000)'...
+<08:03:38> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:03:39> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:39> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:39> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:39> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com (020000)'...
+<08:03:39> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:03:39> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:03:39> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018999
+<08:03:39> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019000
+<08:03:39> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:03:39> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:03:39> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:03:39> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:39> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:39> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:39> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:40> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:40> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com (019999)'...
+<08:03:40> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:03:40> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:41> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:03:41> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 020000
+<08:03:41> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018999
+<08:03:41> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019000
+<08:03:41> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:03:41> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<08:03:41> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<08:03:41> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:41> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:41> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:41> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:41> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:41> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:48> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:48> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:48> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:48> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com (017999)'...
+<08:03:48> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:03:48> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:03:48> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:03:48> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:03:49> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:03:49> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:49> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com (018000)'...
+<08:03:49> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:03:50> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:03:50> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018000
+<08:03:50> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018999
+<08:03:50> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019000
+<08:03:50> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:03:50> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<08:03:50> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<08:03:50> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:50> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:50> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:50> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:50> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:50> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:52> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:52> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:52> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:52> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com (019999)'...
+<08:03:52> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:03:52> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:03:53> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:03:53> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:03:53> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:03:53> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:53> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com (020000)'...
+<08:03:53> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:03:54> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:03:54> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 020000
+<08:03:54> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018999
+<08:03:54> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019000
+<08:03:54> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:03:54> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<08:03:54> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<08:03:54> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:54> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:54> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:54> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:54> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:03:54> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:55> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:55> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:55> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:03:55> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:03:58> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:58> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com (019999)'...
+<08:03:58> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:03:58> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:03:59> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:03:59> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:03:59> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com (020000)'...
+<08:03:59> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:03:59> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:04:00> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:04:00> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 020000
+<08:04:00> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018999
+<08:04:00> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019000
+<08:04:00> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:04:00> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<08:04:00> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:04:00> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<08:04:00> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:04:00> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:04:00> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:04:00> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:04:00> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:05:14> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:14> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:14> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:14> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com (017999)'...
+<08:05:14> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:05:14> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:05:14> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:05:14> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5OTk5!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:05:14> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:05:14> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:14> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com (018000)'...
+<08:05:14> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:05:16> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:05:16> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018000
+<08:05:16> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018999
+<08:05:16> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019000
+<08:05:16> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:05:16> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<08:05:16> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com
+<08:05:16> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:05:16> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:05:16> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:05:16> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:05:16> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:05:16> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:05:17> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:17> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:17> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:17> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:17> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com (019001)'...
+<08:05:17> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:05:17> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4OTk5!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:05:17> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:05:17> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:05:17> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3OTk5!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:05:18> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:05:18> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:18> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com (020000)'...
+<08:05:18> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:05:19> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:05:19> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:19> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAx!p-20-5-1.000-2@nwxp.vivox.com (020001)'...
+<08:05:19> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:05:20> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:05:20> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 020001
+<08:05:20> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 020000
+<08:05:20> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019000
+<08:05:20> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:05:20> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:05:20> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:05:20> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:05:20> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:05:20> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:05:20> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:05:20> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:05:20> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:05:29> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:29> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:29> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:29> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com (018001)'...
+<08:05:29> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:05:29> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDIwMDAx!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:05:29> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:05:29> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:05:30> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:05:30> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:05:30> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com (018000)'...
+<08:05:30> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:05:30> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:05:31> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:05:31> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018000
+<08:05:31> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018001
+<08:05:31> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 019000
+<08:05:31> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:05:31> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:05:31> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:05:31> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:05:31> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:05:31> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:05:31> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:05:31> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:05:31> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:06:38> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:17:49> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:17:49> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:17:49> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:17:49> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com (017000)'...
+<08:17:49> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:17:49> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:17:49> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:17:49> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE5MDAx!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:17:50> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:17:50> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:17:50> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAx!p-20-5-1.000-2@nwxp.vivox.com (017001)'...
+<08:17:50> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:17:51> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:17:51> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018000
+<08:17:51> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:17:51> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017000
+<08:17:51> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:17:51> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:17:51> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:17:51> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:17:51> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:17:51> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:17:51> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:17:51> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:17:51> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:21:29> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:21:29> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:21:29> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:21:29> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:21:29> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:21:29> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:21:29> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:13> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:21> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:21> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:21> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:22:21> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:22:22> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:22:22> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com (016000)'...
+<08:22:22> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:22:22> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:22:22> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:22:22> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:22:23> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:22:23> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:22:23> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com (016001)'...
+<08:22:23> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:22:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:24> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:22:24> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016001
+<08:22:24> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:22:24> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017000
+<08:22:24> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:22:25> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:22:25> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:22:25> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:22:25> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:22:25> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:22:25> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:22:25> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:22:25> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:22:40> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:40> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:22:50> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:23:14> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:24:30> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:24:30> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:24:30> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:24:34> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:24:34> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:24:34> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:12> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:12> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:12> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:16> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:17> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:17> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:17> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:28> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:28> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:28> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:51> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:25:52> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:25:52> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:25:53> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:25:53> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:25:53> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com (017002)'...
+<08:25:53> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:25:53> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:25:53> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:25:54> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:25:54> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:25:54> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com (016002)'...
+<08:25:54> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:25:55> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:25:55> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017002
+<08:25:55> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:25:55> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016002
+<08:25:55> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:25:55> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:25:55> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:25:55> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:25:55> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:25:55> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:25:55> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:25:55> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:25:55> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:26:11> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:18> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:26:18> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:26:18> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:26:18> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com (016000)'...
+<08:26:18> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:26:18> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:26:18> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:26:18> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:26:19> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:26:19> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:26:19> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com (017000)'...
+<08:26:19> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:26:19> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:26:20> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:26:20> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017000
+<08:26:20> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016001
+<08:26:20> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:26:20> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:26:20> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:26:20> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:26:20> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:26:20> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:26:20> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:26:20> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:26:20> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:26:20> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:26:22> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:25> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:25> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:25> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:50> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:56> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:58> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:58> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:58> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:58> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:58> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:58> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:26:58> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:27:32> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:28:52> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:28:52> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:28:59> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=2700 actorId=AC0E10008AB7D1B203753370B877B953}
+<08:30:26> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:30:42> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:32:42> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=1619 actorId=E2D953D22E7F1B3E46DED37414A0D4C3}
+<08:32:45> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:32:45> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:32:45> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:32:49> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:32:49> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:33:14> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:33:22> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=2160 actorId=1E5470DE381144784FE43680728C691B}
+<08:33:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:34:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:34:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:34:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:34:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:35:45> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:35:52> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=1351 actorId=2AD863715A433A4C5A20BE097C811CCD}
+<08:35:57> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=2655 actorId=7E9FB0253ED6E298D498306C23FBD941}
+<08:36:30> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:36:31> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:36:31> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:36:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:36:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:36:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:36:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:36:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:36:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:36:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:37:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:38:45> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=2655 actorId=DA2A8045F6B55DCACEC21CB88AC656A9}
+<08:39:58> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:41:05> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:41:37> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=2700 actorId=1CD8D15137EA6B4BFA8443413F85DEF9}
+<08:42:01> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=223 actorId=08103835E035947105268EFED020E25B}
+<08:42:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:42:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:42:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:42:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:42:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:42:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:42:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:43:30> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=1433 actorId=F47BFB06531C6A263386D2C291453CCD}
+<08:43:53> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=1171 actorId=B81C18D22EC7A42348463DCC03D34736}
+<08:44:29> [Info] (AZCore): [SteamAuth] Attempting to refresh AWS credentials
+<08:44:29> [Info] (AZCore): [SteamAuth] Getting steam auth session ticket.
+<08:44:29> [Info] (AZCore): [SteamAuth] OnAuthSessionTicket: Authenticating using steam auth session ticket: 3
+<08:44:29> [Info] (AZCore): [SteamAuth] CreateSteamSessionJob: Calling Persona to create steam session
+<08:44:31> [Info] (AZCore): [SteamAuth] OnCreatedSteamSession: Created steam session for persona id: amzn1.developerPersonaId.f5c2ae6a-2b16-16f5-023f-8b74e2ee7e17.
+<08:44:31> [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed gateway AWS credentials, next attempt will start after 2020-08-29T11:39:31Z
+<08:44:32> [Info] (AZCore): [SteamAuth] AssumePersonaRoleJob: Assume role success
+<08:44:32> [Info] (AZCore): [AuthStackCredentialsProvider] Successfully refreshed persona AWS credentials, next attempt will start after 2020-08-29T00:39:32Z
+<08:44:32> [Info] (AZCore): [SteamAuth] Successfully refreshed AWS credentials
+<08:45:25> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:45:25> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:45:25> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:45:25> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:45:25> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:45:25> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:45:25> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:47:21> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=1350 actorId=F6C599BD3714EDD819EB15EC677EA2E8}
+<08:47:21> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:47:23> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:47:23> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:47:23> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:47:27> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:47:27> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:47:27> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:48:03> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:48:03> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:48:03> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:48:03> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com (018001)'...
+<08:48:03> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:48:03> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:48:03> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:48:03> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:48:04> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:48:04> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:48:04> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com (018000)'...
+<08:48:04> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:48:04> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:48:05> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:48:05> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018001
+<08:48:05> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:48:05> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018000
+<08:48:05> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:48:05> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:48:05> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:48:05> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:48:05> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:48:05> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:48:05> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:48:05> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:48:05> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:48:09> [Info] (AZCore): [Script] 
+lyshineui/flyoutmenu/flyoutmenu.lua(624): [FlyoutMenu] Cloning LyShineUI\FlyoutMenu\FlyoutRow_Subheader. Add another copy of this slice to the FlyoutMenu canvas to prevent spikes.
+
+<08:48:09> [Info] (AZCore): [Script] 
+lyshineui/flyoutmenu/flyoutmenu.lua(624): [FlyoutMenu] Cloning LyShineUI\FlyoutMenu\FlyoutRow_Button. Add another copy of this slice to the FlyoutMenu canvas to prevent spikes.
+
+<08:48:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:48:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:48:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:48:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:48:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:48:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:48:47> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:48:48> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:48:48> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:48:48> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:48:53> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:48:53> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:48:53> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:48:53> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:48:54> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:48:54> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com (018001)'...
+<08:48:55> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:48:55> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:48:55> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:48:55> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:48:55> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com (018000)'...
+<08:48:55> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:48:55> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:48:56> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:48:56> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018001
+<08:48:56> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:48:56> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018000
+<08:48:56> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:48:56> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:48:56> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:48:56> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:48:56> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:48:56> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:48:56> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:48:56> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:48:56> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:49:09> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:49:09> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:49:09> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:49:12> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:49:12> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:49:13> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:49:13> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com (016000)'...
+<08:49:13> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:49:13> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:49:13> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:49:13> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:49:14> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:49:14> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<08:49:14> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com (016001)'...
+<08:49:14> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:49:14> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:49:15> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:49:15> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016001
+<08:49:15> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017000
+<08:49:15> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:49:15> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:49:15> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:49:15> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:49:15> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:49:15> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:49:15> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:49:15> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:49:15> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:49:15> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:49:37> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:49:37> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:49:37> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:49:37> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:50:44> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:50:51> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:50:59> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:50:59> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:50:59> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:50:59> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:51:08> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:51:12> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:51:12> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:51:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:51:28> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:51:28> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:51:55> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=1471 actorId=1A7A580861BA0B49E64FDC6C79E2A504}
+<08:52:04> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:52:17> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:52:17> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:52:20> [Info]: Running machine spec auto detect (64 bit)...
+<08:52:20> [Info]: - Windows 10 64 bit (build 10.0.18362)
+<08:52:20> [Info]: - System memory
+<08:52:20> [Info]: --- 8036 MB
+<08:52:20> [Info]: - Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+<08:52:20> [Info]: --- Number of available cores: 6 (out of 6)
+<08:52:20> [Info]: --- Number of logical processors: 12
+<08:52:21> [Info]: - NVIDIA GeForce GTX 1050 Ti (vendor = 0x10de, device = 0x1c8c)
+<08:52:21> [Info]: --- Dedicated video memory: 4021 MB
+<08:52:21> [Info]: --- Feature level: DX11 (SM 5.0)
+<08:52:21> [Info]: - Final rating: Machine class 2
+<08:52:25> [Info]: SerializeOptions: Success
+<08:52:25> [Info]: SerializeOptions: Moving to C:/Users/USER/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<08:52:27> [Info]: SerializeOptions: Success
+<08:52:27> [Info]: SerializeOptions: Moving to C:/Users/USER/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<08:52:53> [Info]: SerializeOptions: Success
+<08:52:53> [Info]: SerializeOptions: Moving to C:/Users/USER/AppData/Roaming/AGS/New World/savedata/temp_usersettings.javsave
+<08:53:04> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:53:04> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:53:04> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:53:04> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com (017002)'...
+<08:53:04> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:53:04> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:53:04> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:53:04> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:53:05> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:53:05> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:53:05> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com (016002)'...
+<08:53:05> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:53:06> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:53:06> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017002
+<08:53:06> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:53:06> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016002
+<08:53:06> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:53:06> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:53:06> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:53:06> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:53:06> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:53:06> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:53:06> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:53:06> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:53:06> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:53:13> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:53:15> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:53:15> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:53:15> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:53:15> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com (016000)'...
+<08:53:15> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:53:15> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:53:15> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:53:15> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:53:16> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:53:16> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:53:16> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com (017000)'...
+<08:53:16> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:53:16> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:53:17> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:53:17> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017000
+<08:53:17> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016001
+<08:53:17> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:53:17> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:53:17> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:53:17> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:53:17> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:53:17> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:53:17> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:53:17> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:53:17> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:53:17> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:53:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:53:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:53:28> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:53:31> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:53:35> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:53:39> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:53:42> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:53:42> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=1344 actorId=44B8A96938D771B2B5771B5D034475FE}
+<08:53:46> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:54:23> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:54:54> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:55:17> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:55:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:55:26> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:26> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:26> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:26> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com (017002)'...
+<08:55:26> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:55:26> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:55:26> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:55:26> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:55:27> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:55:27> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:27> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com (016002)'...
+<08:55:27> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:55:28> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:55:28> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017002
+<08:55:28> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:55:28> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016002
+<08:55:28> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:55:28> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:55:28> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:55:28> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:55:28> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:55:28> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:28> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:55:28> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:28> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:33> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:33> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:33> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:33> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com (016000)'...
+<08:55:33> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:55:34> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:55:34> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:34> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:55:35> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:55:35> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:35> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com (017000)'...
+<08:55:35> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:55:35> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:36> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:55:36> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017000
+<08:55:36> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016001
+<08:55:36> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:55:36> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:55:36> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:55:36> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:55:36> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:55:36> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:36> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:55:36> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:36> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:55:36> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:39> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:39> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:39> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:39> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com (017002)'...
+<08:55:39> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:55:40> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:55:40> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:55:40> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:55:41> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:41> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com (016002)'...
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017002
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016002
+<08:55:41> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:55:41> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:55:41> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:44> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:55:45> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:45> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:45> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:45> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com (016000)'...
+<08:55:46> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:55:46> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:55:46> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:55:46> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:47> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:55:47> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:55:47> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com (017000)'...
+<08:55:47> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:55:47> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:48> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:55:48> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017000
+<08:55:48> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016001
+<08:55:48> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:55:48> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:55:48> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:55:48> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:55:48> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:55:48> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:48> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:55:48> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:48> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:55:48> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:55:50> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=3478 actorId=C091A821AB0DC05898A2298EA9B315B7}
+<08:55:56> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:55:56> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:55:56> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:56:03> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:56:03> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:56:04> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:56:04> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com (017002)'...
+<08:56:04> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:56:04> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:56:04> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:56:04> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<08:56:05> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:56:05> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:56:05> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com (016002)'...
+<08:56:05> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:56:06> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:56:06> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017002
+<08:56:06> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:56:06> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016002
+<08:56:06> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:56:06> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:56:06> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<08:56:06> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:56:06> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:56:06> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:56:06> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:56:06> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:56:06> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:56:09> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:56:09> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<08:56:10> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:56:10> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:56:10> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com (016000)'...
+<08:56:10> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com' left
+<08:56:10> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:56:10> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:56:11> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:56:11> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<08:56:11> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com (017000)'...
+<08:56:11> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<08:56:11> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:56:11> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:56:11> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:56:11> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:56:11> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:56:12> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<08:56:12> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017000
+<08:56:12> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016001
+<08:56:12> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<08:56:12> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<08:56:12> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:56:12> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<08:56:12> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:56:12> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:56:12> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:56:12> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:56:12> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<08:56:12> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<08:56:16> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:56:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:56:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:56:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:57:16> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:57:19> [Info] (AZCore): [Script] self.showPerks =true
+
+<08:58:10> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:58:24> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:59:06> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=2322 actorId=886CB1ADE90426DB43E0D8AB76F81708}
+<08:59:42> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:59:42> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:59:42> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:59:53> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:59:54> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:59:54> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:59:54> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<08:59:54> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:00:10> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=651 actorId=CC86539A1D12FAC564F7916D6341EC91}
+<09:00:11> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:01:02> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:02:25> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<09:02:25> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<09:02:25> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<09:02:25> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com (017002)'...
+<09:02:25> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<09:02:25> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<09:02:25> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<09:02:25> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<09:02:26> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com' joined
+<09:02:26> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<09:02:26> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com (016002)'...
+<09:02:26> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<09:02:27> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com' joined
+<09:02:27> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017002
+<09:02:27> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<09:02:27> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016002
+<09:02:27> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<09:02:27> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<09:02:27> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com
+<09:02:27> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<09:02:27> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:02:27> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<09:02:27> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:02:27> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<09:02:27> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:04:50> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:06:51> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:08:16> [Info] (AZCore): [Script] ##### Impact Tables - Unable to find function Regurgitator_VomitballResist
+
+<09:08:21> [Info] (AZCore): [Script] ##### Impact Tables - Unable to find function Regurgitator_VomitballResist
+
+<09:08:30> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:09:07> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:09:17> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:10:08> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:11:01> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:11:45> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:11:45> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:11:53> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:12:29> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:12:29> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=1044 actorId=E2D953D22E7F1B3E46DED37414A0D4C3}
+<09:12:31> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=3523 actorId=F403F494E586CCECC2F271D8EF9E0D28}
+<09:12:31> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:12:43> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:12:45> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<09:12:45> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com'
+<09:12:45> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<09:12:45> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com (016000)'...
+<09:12:45> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAy!p-20-5-1.000-2@nwxp.vivox.com' left
+<09:12:45> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAy!p-20-5-1.000-2@nwxp.vivox.com' left
+<09:12:45> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<09:12:45> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:12:46> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<09:12:46> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<09:12:46> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com (017000)'...
+<09:12:46> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<09:12:46> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:12:47> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<09:12:47> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017000
+<09:12:47> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016001
+<09:12:47> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<09:12:47> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<09:12:47> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<09:12:47> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<09:12:47> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<09:12:47> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<09:12:47> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:12:47> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<09:12:47> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:12:47> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:13:03> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:13:06> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:13:06> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:13:06> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:13:06> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:13:06> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:13:06> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:13:06> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:13:47> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=345 actorId=ECB701E200A23D864C9543975FB5AA77}
+<09:14:22> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<09:14:22> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<09:14:22> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<09:14:22> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com (018001)'...
+<09:14:22> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com' left
+<09:14:22> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:14:22> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<09:14:22> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<09:14:22> [Info]: [Vivox] VoiceChatSystemComponent: failed to transmit to channel sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com due to error 1001 (Target Object Does Not Exist; (null))
+<09:14:23> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<09:14:23> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<09:14:23> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com (018000)'...
+<09:14:23> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<09:14:24> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<09:14:24> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018001
+<09:14:24> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<09:14:24> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 018000
+<09:14:24> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<09:14:24> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<09:14:24> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE3MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<09:14:24> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<09:14:24> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:14:24> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<09:14:24> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:14:24> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<09:14:24> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:14:27> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:14:30> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:15:14> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:15:14> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:15:14> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:15:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:15:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:15:18> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:15:20> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:16:05> [Info]: [WARNING] StateReplication: Received stop replication for unknown InterestId: 654
+<09:16:43> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:13> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:13> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:13> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:33> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:38> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:38> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:38> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:38> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:38> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:57> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:57> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:57> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:57> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:17:57> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:18:00> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:18:32> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:18:32> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:18:32> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:19:48> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:19:54> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:19:58> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<09:19:58> [Info]: [Vivox] VoiceChatClientState: leaving channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<09:19:58> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com'
+<09:19:58> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com (016000)'...
+<09:19:58> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAx!p-20-5-1.000-2@nwxp.vivox.com' left
+<09:19:58> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE4MDAw!p-20-5-1.000-2@nwxp.vivox.com' left
+<09:19:58> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<09:19:58> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:19:59> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com' joined
+<09:19:59> [Info]: [Vivox] VoiceChatClientState: joining new channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com'
+<09:19:59> [Info]: [Vivox] VoiceChatClientState: Attempting to join 3d channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com (016001)'...
+<09:19:59> [Info]: [Vivox] VoiceChatSystemComponent: setting all channel transmission complete
+<09:19:59> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:20:00> [Info]: [Vivox] VoiceChatSystemComponent: channel 'sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAx!p-20-5-1.000-2@nwxp.vivox.com' joined
+<09:20:00> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 016001
+<09:20:00> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017000
+<09:20:00> [Info]: [Vivox] VoiceChatSystemComponent: removing transmission to 017001
+<09:20:00> [Info]: [Vivox] VoiceChatClientState: transmitting to no channels
+<09:20:00> [Info]: [Vivox] VoiceChatSystemComponent: transmitting only to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<09:20:00> [Info]: [Vivox] VoiceChatClientState: transmitting to sip:confctl-d-amzpnw.jav-652a15bd-6726-4923-9740-65b69c20747a-MDE2MDAw!p-20-5-1.000-2@nwxp.vivox.com
+<09:20:00> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<09:20:00> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:20:00> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<09:20:00> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:20:00> [Info]: [Vivox] VoiceChatSystemComponent: setting no channel transmission complete
+<09:20:00> [Info]: [Vivox] VoiceChatSystemComponent: setting specific channel transmission complete
+<09:20:05> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:05> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:05> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:05> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:05> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:05> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:05> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:05> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:22> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=3404 actorId=1C02C0A997B1643BC1DA60FE9203E9F8}
+<09:20:25> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:27> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:40> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:41> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:44> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:55> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:56> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:56> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:20:57> [Info]: [WARNING] StateReplication: Received repeated metadata: {interestId=1835 actorId=6C77291EE80455ED5857DB80B1F7F7E4}
+<09:21:06> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:21:07> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:21:10> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:21:12> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:21:17> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:21:42> [Info]: [ERROR] ClientSDK: Failed to unmarshal message {num_bytes=24}
+<09:22:41> [Info] (AZCore): [Game] CGame::ActorContainerDisconnect
+<09:22:41> [Info] (AZCore): [GameConnection] GameConnectionWrapper::Disconnect
+<09:22:41> [Info] (AZCore): [Game] CGame::OnDisconnection: Disconnected from REP
+<09:22:41> [Info] (AZCore): [GameConnection] GameConnectionWrapper: disconnected from REP
+<09:22:41> [Info]: [ERROR] ClientSDK: @mm_csdkerr_disconnect

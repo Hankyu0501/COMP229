@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.fx.ide.mvnosgi.launching;singleton:=t
+ rue
+Bundle-Name: Launching
+Bundle-Version: 3.5.0.201907240300
+Built-By: default
+Require-Bundle: org.eclipse.debug.core;bundle-version="3.11.0",org.ecl
+ ipse.core.runtime;bundle-version="3.13.0",org.eclipse.m2e.jdt,org.ecl
+ ipse.jdt.core,org.eclipse.jdt.launching,org.eclipse.m2e.core;bundle-v
+ ersion="1.8.0",org.eclipse.m2e.maven.runtime;bundle-version="1.8.0",o
+ rg.eclipse.fx.core;bundle-version="3.5.0"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/efxcli
+ pse/org.eclipse.efxclipse.git;path="bundles/tooling/org.eclipse.fx.id
+ e.mvnosgi.launching";commitId=324ae0d2a8fcacc35bf89526652084e4ad6d7fe
+ 0
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_202
+
+Name: plugin.xml
+SHA-256-Digest: wwSCqtTFCAkt40uFuJymCzOpJip8IjoMUtfwCe/jQww=
+
+Name: org/eclipse/fx/ide/mvnosgi/launching/MVNSourcePathProvider.class
+SHA-256-Digest: x22MMMHFu5IJ6RmJFp4vA7wURySWm9L+7sIWuvzVeLQ=
+
+Name: org/eclipse/fx/ide/mvnosgi/launching/MVNOSGiApplicationLaunchCon
+ figuration.class
+SHA-256-Digest: sy5Gm7Ty3atyOA8MLn7Hpj6swie2JKlNi18SM+hqp1Y=
+
+Name: org/eclipse/fx/ide/mvnosgi/launching/MVNOSGiApplicationLaunchCon
+ figuration$Bundle.class
+SHA-256-Digest: diAgFrM5K4/by0y5f4LTCMTbOE85KzvjA1xN31vpOwI=
+
+Name: org/eclipse/fx/ide/mvnosgi/launching/MVNSourcePathLocator.class
+SHA-256-Digest: ksb/XfVUwgEbvL24alL0mVUKOdV3bKZyhJxtvoBamqw=
+

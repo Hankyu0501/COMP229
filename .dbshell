@@ -1,0 +1,39 @@
+show dbs
+show collections
+db.compoments.  elar
+clear
+cs
+show dbs
+use config
+use admin
+show dbs
+show collections
+clear
+cs
+show dbs
+use book_store
+show collections
+db.vooks.insert({"name": "Dune", "author":"Frank Herbert", "published": "1965", "description": "story", "price": 9.95})
+db.books.find()
+db.vooks.find()
+db.vooks.find().pretty()
+db.vooks.insert({"name": "Blood Music", "author": "Greg bear", "published": "1985", "description": "story", "price":19.95})
+db.vooks.find()
+db.vooks.drop
+db.vooks.find()
+db.vooks.drop
+db.vooks.delete({"name":"Dune"})
+db.vooks.delete({name":"Blood Music"})
+db.vooks.find()
+db.vooks.delete({"name": "Dune"})
+db.vooks.remove{("name": "Dune"})
+db.vooks.remove({"name": "Dune"})
+db.vooks.remove({"name": "Blood Music"})
+db.vooks.find()
+db.books.insert({"name": "Dune", "author": "Greg Bear", "published": "1965", "description":"story", "price":9.95})
+db.books.insert({"name": "Blood Music", "author": "Greg Bear", "published": "1985", "desription": "story", "price": 19.95})
+db.books.updateOne({"name": "Dune"},{$set: {"author": "Frank Herbert"}})
+db.books.find().pretty()
+db.books.remove({"name": "Blood Music"})
+db.books.insert({"name": "Blood Music", "author": "Greg Bear", "published": "1985", "description": "story", "price": 19.95})
+db.books.insert({"name": "Splinter of the Mind's Eye", "author": "Alan Dean Foster", "published": "1978", "description": "story", "price": 29.95})
