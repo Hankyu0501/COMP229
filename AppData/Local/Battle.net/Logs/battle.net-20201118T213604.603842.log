@@ -1,0 +1,709 @@
+I 2020-11-18 21:36:04.610580 [Main] {Main} Logging started for Battle.net build 1.28.0.12476
+I 2020-11-18 21:36:04.611023 [Configuration] {Main} SharedConfigRoot: C:\ProgramData\Battle.net
+I 2020-11-18 21:36:04.611506 [Configuration] {Main} RoamingConfigRoot: C:\Users\USER\AppData\Roaming\Battle.net
+I 2020-11-18 21:36:04.611516 [Configuration] {Main} LocalConfigRoot: C:\Users\USER\AppData\Local\Battle.net
+D 2020-11-18 21:36:04.611969 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.12476\Battle.net.config
+D 2020-11-18 21:36:04.612058 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.config
+D 2020-11-18 21:36:04.620020 [Configuration] {Main} User Configuration File: C:\Users\USER\AppData\Roaming\Battle.net\Battle.net.config
+I 2020-11-18 21:36:04.621499 [Main] {Main} Command line arguments: {[0]=--game=hs_beta, [1]=--gamepath=D:\Hearthstone}
+I 2020-11-18 21:36:04.625804 [Main] {Main} Opening IPC shared memory. queueName=User:USER:Battle.net IPC ShMem mode=server
+I 2020-11-18 21:36:04.647003 [CommandQueue] {Main} Dispatching Command: register hs_beta D:\Hearthstone  
+I 2020-11-18 21:36:04.720154 [Frontend] {Main} Supplying list of renderers: d3d11,warp,desktop
+I 2020-11-18 21:36:05.134451 [LocalizationData] {Main} 21 language(s) loaded from languages.xml, default=enUS
+D 2020-11-18 21:36:05.258310 [Main] {Main} Adding application font: resources/fonts/BlizzardReg.ttf
+D 2020-11-18 21:36:05.261498 [Main] {Main} Adding application font: resources/fonts/BlizzardLig.ttf
+D 2020-11-18 21:36:05.263420 [Main] {Main} Adding application font: resources/fonts/BlizzardBol.ttf
+D 2020-11-18 21:36:05.264570 [Main] {Main} Adding application font: resources/fonts/NotoSans-Bold.ttf
+D 2020-11-18 21:36:05.268601 [Main] {Main} Adding application font: resources/fonts/NotoSans-BoldItalic.ttf
+D 2020-11-18 21:36:05.272249 [Main] {Main} Adding application font: resources/fonts/NotoSans-Italic.ttf
+D 2020-11-18 21:36:05.276038 [Main] {Main} Adding application font: resources/fonts/NotoSans-Regular.ttf
+D 2020-11-18 21:36:05.280020 [Main] {Main} Adding application font: resources/fonts/ObjectSans-Bold.ttf
+D 2020-11-18 21:36:05.281998 [Main] {Main} Adding application font: resources/fonts/ObjectSans-Medium.ttf
+D 2020-11-18 21:36:05.931290 [Main] {Main} Setting font to: Malgun Gothic
+I 2020-11-18 21:36:05.932219 [CacheManager] {Main} Local storage cache at: C:\Users\USER\AppData\Local\Battle.net\Cache
+I 2020-11-18 21:36:05.938904 [Main] {Main} Opened database at: C:\Users\USER\AppData\Local\Battle.net\CachedData.db
+D 2020-11-18 21:36:05.940441 [Agent] {Agent} PolicyHandlerThreadProc: I shall in all my best obey you.
+D 2020-11-18 21:36:05.940447 [Agent] {Main} PolicyHandler Thread STARTED
+I 2020-11-18 21:36:05.986223 [Agent] {Agent} Agent has different session: 17303996653749108325
+I 2020-11-18 21:36:05.986244 [Agent] {Agent} Agent Version is now: 2.22.3.7220 (retail)
+I 2020-11-18 21:36:06.125131 [DIAG_BNL_Voice] {Main} Audio device monitor using already-initialized COM
+I 2020-11-18 21:36:06.126371 [VoiceSessionBroker] {Main} Global voice is on
+I 2020-11-18 21:36:06.126589 [Main] {Main} Execution environment changed. environment=EE_STANDARD
+I 2020-11-18 21:36:06.127133 [CatalogManager] {Main} Loaded catalog hash from the database cache. hash=bdd520070bdabd05060a2d969d99741e
+I 2020-11-18 21:36:06.127624 [CatalogManager] {Main} Built-in catalog hash (catalog/digesthash.txt): 50285bcad6207b7a967b294a1e38a91d
+I 2020-11-18 21:36:06.127788 [CatalogManager] {Main} Built-in catalog hash (catalog/signaturehash.txt): 6ab2c7e53998f229e5626216c9d43673
+I 2020-11-18 21:36:06.127808 [CatalogLoader] {Main} *** LOAD STARTED default: Context(LocalCAS: bdd520070bdabd05060a2d969d99741e I) ***
+D 2020-11-18 21:36:06.175311 [Agent] {Agent} GameResource created for uid: agent
+D 2020-11-18 21:36:06.175363 [Agent] {Agent} GameResource created for uid: battle.net
+D 2020-11-18 21:36:06.175374 [Agent] {Agent} GameResource created for uid: heroes
+D 2020-11-18 21:36:06.175382 [Agent] {Agent} GameResource created for uid: hs_beta
+D 2020-11-18 21:36:06.175391 [Agent] {Agent} GameResource created for uid: s1
+D 2020-11-18 21:36:06.175398 [Agent] {Agent} GameResource created for uid: s2
+I 2020-11-18 21:36:06.987246 [FeatureManager] {Main} Moving feature record from active to inactive: whisper_voice
+I 2020-11-18 21:36:06.987263 [FeatureManager] {Main} Moving feature record from active to inactive: trace_route
+I 2020-11-18 21:36:06.987270 [FeatureManager] {Main} Feature changed: warcraft_iii_upgrade_c93909c5=true
+I 2020-11-18 21:36:06.991968 [FeatureManager] {Main} Feature changed: clear_chat_history=true
+I 2020-11-18 21:36:06.991982 [FeatureManager] {Main} Feature changed: mentions=true
+I 2020-11-18 21:36:06.991986 [FeatureManager] {Main} Feature changed: notification_center=true
+I 2020-11-18 21:36:06.991991 [FeatureManager] {Main} Feature changed: shop_wish_list=true
+I 2020-11-18 21:36:06.991995 [FeatureManager] {Main} Feature changed: activision_auto_account_creation=true
+I 2020-11-18 21:36:06.991998 [FeatureManager] {Main} Feature changed: suggested_group_members=true
+I 2020-11-18 21:36:06.992001 [FeatureManager] {Main} Feature changed: appear_offline=true
+I 2020-11-18 21:36:06.992005 [FeatureManager] {Main} Feature changed: refresh_toast=true
+I 2020-11-18 21:36:06.992008 [FeatureManager] {Main} Feature changed: app_feedback_dialog=true
+I 2020-11-18 21:36:06.992011 [FeatureManager] {Main} Feature changed: auto_update_optimization=true
+I 2020-11-18 21:36:06.992015 [FeatureManager] {Main} Feature changed: social_tab=true
+I 2020-11-18 21:36:06.992018 [FeatureManager] {Main} Feature changed: blizzard_profiles=true
+I 2020-11-18 21:36:06.992021 [FeatureManager] {Main} Feature changed: chat_giphy=true
+I 2020-11-18 21:36:06.992025 [FeatureManager] {Main} Feature changed: content_ui=true
+I 2020-11-18 21:36:06.992028 [FeatureManager] {Main} Feature changed: multichats=true
+I 2020-11-18 21:36:06.992031 [FeatureManager] {Main} Feature changed: friend_request_management=true
+I 2020-11-18 21:36:06.992035 [FeatureManager] {Main} Feature changed: link_previews=true
+I 2020-11-18 21:36:06.992038 [FeatureManager] {Main} Feature changed: sms_protect_requirements=true
+I 2020-11-18 21:36:06.992041 [FeatureManager] {Main} Feature changed: gift_inventory=true
+I 2020-11-18 21:36:06.992045 [FeatureManager] {Main} Feature changed: global_legendary_promos=true
+I 2020-11-18 21:36:06.992048 [FeatureManager] {Main} Feature changed: refresh_friend_tooltip=true
+I 2020-11-18 21:36:06.992051 [FeatureManager] {Main} Feature changed: group_privacy_settings=true
+I 2020-11-18 21:36:06.992055 [FeatureManager] {Main} Feature changed: install_packages=true
+I 2020-11-18 21:36:06.992058 [FeatureManager] {Main} Feature changed: modify_install=true
+I 2020-11-18 21:36:06.992062 [FeatureManager] {Main} Feature changed: non_friend_whispers=true
+I 2020-11-18 21:36:06.992065 [FeatureManager] {Main} Feature changed: playscreen_migrate_cms=true
+I 2020-11-18 21:36:06.992068 [FeatureManager] {Main} Feature changed: shared_container_installs=true
+I 2020-11-18 21:36:06.992071 [FeatureManager] {Main} Feature changed: sc2_account_selection_dialog=true
+I 2020-11-18 21:36:06.992076 [FeatureManager] {Main} Feature changed: suggested_facebook_friends=true
+I 2020-11-18 21:36:06.992080 [FeatureManager] {Main} Feature changed: whisper_voice=true
+D 2020-11-18 21:36:06.992154 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.12476\Environments.yaml
+D 2020-11-18 21:36:06.992238 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Environments.yaml
+I 2020-11-18 21:36:06.992300 [EnvironmentManager] {Main} Login parameters changed: address=kr.actual.battle.net:1119 region=KR
+D 2020-11-18 21:36:06.998893 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationVersion=6
+D 2020-11-18 21:36:06.998919 [CatalogVarStorage] {Main} Setting var from catalog Client.ActivisionAutoAccountCreation.Games=ODIN,ZEUS
+D 2020-11-18 21:36:06.998925 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationEnabled=false
+D 2020-11-18 21:36:06.998931 [CatalogVarStorage] {Main} Setting var from catalog Client.OwlScreen.LiveCheckIntervalMS=300000
+D 2020-11-18 21:36:06.998946 [CatalogVarStorage] {Main} Setting var from catalog Client.NewProfileWindowLayout=true
+D 2020-11-18 21:36:06.998954 [CatalogVarStorage] {Main} Setting var from catalog Client.PromotedScreenVersion=2
+D 2020-11-18 21:36:06.998961 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaAccessOverride=enabled
+I 2020-11-18 21:36:06.998967 [VersionManager] {Main} Beta Access: enabled
+D 2020-11-18 21:36:06.998973 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaBranchOverride=beta
+D 2020-11-18 21:36:06.998979 [CatalogVarStorage] {Main} Setting var from catalog Services.WhisperChannels.InactivityTimeoutMS=0
+I 2020-11-18 21:36:07.000609 [CatalogLoader] {Main} *** LOAD COMPLETE default ***
+I 2020-11-18 21:36:07.000621 [CatalogManager] {Main} Loaded initial catalog: hash=bdd520070bdabd05060a2d969d99741e
+I 2020-11-18 21:36:07.082826 [WebServer] {Backend:0} Listening on port 22885
+I 2020-11-18 21:36:07.095564 [Main] {Main} d3d11: selected adapter: Intel(R) UHD Graphics 630
+I 2020-11-18 21:36:07.095604 [Main] {Main} d3d11: selected feature level: 0xb100
+I 2020-11-18 21:36:07.469584 [Main] {Main} Attempting to fetch WidevineCDM: 1
+D 2020-11-18 21:36:07.477603 [UI] {Main} Fixup allowed regions and locales. installedRegion=KR allowedRegions= allowedLocales=
+I 2020-11-18 21:36:07.477924 [ToastManager] {Main} Toasts are enabled in ClientSettings
+D 2020-11-18 21:36:07.481725 [ProductState] {Main} Game product state created: uid=
+D 2020-11-18 21:36:07.481769 [ProductState] {Main} InstallState (): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:07.499155 [Main] {Main} Application path is: C:\Program Files (x86)\Battle.net\Battle.net.exe
+D 2020-11-18 21:36:07.600706 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/legendary-promos?targetRegion=KR
+D 2020-11-18 21:36:07.600791 [Announcements] {Main} Skipped adding slide to zeus because it has expired.
+I 2020-11-18 21:36:07.601054 [ClientServiceAlertMonitor] {Main} Breaking News url has changed. url=https://nydus.battle.net/App/koKR/client/App/alert?targetRegion=KR
+D 2020-11-18 21:36:07.601194 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/App/alert?targetRegion=KR
+I 2020-11-18 21:36:07.601218 [ClientServiceAlertMonitor] {Main} Maintenance url has changed. url=https://nydus.battle.net/App/koKR/client/App/maintenance?targetRegion=KR
+D 2020-11-18 21:36:07.601384 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/App/maintenance?targetRegion=KR
+I 2020-11-18 21:36:07.604171 [Frontend] {Main} Public Computer state changed. is_public=false
+D 2020-11-18 21:36:07.604192 [Frontend] {Main} Session id changed. session_id=3045851395869915964
+D 2020-11-18 21:36:07.604276 [Frontend] {Main} Tracking info changed. client_id=1899781214.1576003818, user_agent=
+I 2020-11-18 21:36:07.631881 [HighDpiManager] {Main} High dpi support available changed: 0
+I 2020-11-18 21:36:07.631898 [Frontend] {Main} High dpi support: disabled
+D 2020-11-18 21:36:07.632481 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Battle.net\Setup depth=-1
+D 2020-11-18 21:36:07.634858 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Battle.net\Agent depth=1
+D 2020-11-18 21:36:07.636736 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Battle.net\Agent\Agent.7212 depth=1
+D 2020-11-18 21:36:07.637225 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Battle.net\Agent\Agent.7220 depth=1
+D 2020-11-18 21:36:07.637683 [Main] {WorkerPool:3} Checking permissions on path: C:\ProgramData\Blizzard Entertainment depth=2
+D 2020-11-18 21:36:07.847181 [Frontend] {Main} Session id changed. session_id=17303996653749108325
+I 2020-11-18 21:36:07.847692 [Agent] {Main} AgentManager is now initialized
+I 2020-11-18 21:36:07.847703 [InstallManager] {Main} Install manager is now initialized
+D 2020-11-18 21:36:07.847708 [InstallManager] {Main} Selecting best game install data for game battle.net: savedUid=battle.net originalUid=<none> newUid=battle.net
+D 2020-11-18 21:36:07.847714 [InstallInfo] {Main} InstallInfo agent association has been changed: uid=battle.net agentUid=battle.net
+D 2020-11-18 21:36:07.847721 [InstallManager] {Main} Selecting best game install data for game heroes: savedUid=heroes originalUid=<none> newUid=heroes
+D 2020-11-18 21:36:07.847725 [InstallInfo] {Main} InstallInfo agent association has been changed: uid=heroes agentUid=heroes
+D 2020-11-18 21:36:07.847733 [InstallManager] {Main} Selecting best game install data for game hs_beta: savedUid=hs_beta originalUid=<none> newUid=hs_beta
+D 2020-11-18 21:36:07.847737 [InstallInfo] {Main} InstallInfo agent association has been changed: uid=hs_beta agentUid=hs_beta
+D 2020-11-18 21:36:07.847745 [InstallManager] {Main} Selecting best game install data for game s1: savedUid=s1 originalUid=<none> newUid=s1
+D 2020-11-18 21:36:07.847749 [InstallInfo] {Main} InstallInfo agent association has been changed: uid=s1 agentUid=s1
+D 2020-11-18 21:36:07.847755 [InstallManager] {Main} Selecting best game install data for game s2: savedUid=s2 originalUid=<none> newUid=s2
+D 2020-11-18 21:36:07.847758 [InstallInfo] {Main} InstallInfo agent association has been changed: uid=s2 agentUid=s2
+D 2020-11-18 21:36:07.847770 [VersionManager] {Main} Branch change from Agent detected. activeBranch= branches={[0]=beta, [1]=cn, [2]=eu, [3]=kr, [4]=sg, [5]=tw, [6]=us}
+D 2020-11-18 21:36:07.847781 [VersionManager] {Main} Beta branch is available: true
+D 2020-11-18 21:36:07.847814 [ProductState] {Main} Game product state created: uid=heroes
+D 2020-11-18 21:36:07.847852 [ProductState] {Main} InstallState (heroes): currentOperation=UpToDate currentOperationStatus=Paused installed=1 installPath=D:/Heroes of the Storm playable=1 canCreateShortcut=1 selectedRegion=us activeConfigKey=ffdd7eeb4c1b612d3c514aaf37d4c3c9 regionalVersions=(cn: {playable:true config_key:ffdd7eeb4c1b612d3c514aaf37d4c3c9}, eu: {playable:true config_key:ffdd7eeb4c1b612d3c514aaf37d4c3c9}, kr: {playable:true config_key:ffdd7eeb4c1b612d3c514aaf37d4c3c9}, sg: {playable:true config_key:ffdd7eeb4c1b612d3c514aaf37d4c3c9}, tw: {playable:true config_key:ffdd7eeb4c1b612d3c514aaf37d4c3c9}, us: {playable:true config_key:ffdd7eeb4c1b612d3c514aaf37d4c3c9}) localVersion=2.52.2.82624 latestVersion=82624 progress=1 currentStage=Complete
+D 2020-11-18 21:36:07.847876 [ProductState] {Main} Game product state created: uid=hs_beta
+D 2020-11-18 21:36:07.847907 [ProductState] {Main} InstallState (hs_beta): currentOperation=UpToDate currentOperationStatus=Paused installed=1 installPath=D:/Hearthstone playable=1 canCreateShortcut=1 selectedRegion=kr activeConfigKey=27e1561b38eeddd1f9397270c26ea07c regionalVersions=(android_amazon: {playable:true config_key:27e1561b38eeddd1f9397270c26ea07c}, android_cn: {playable:false config_key:12c67cb290a8517149785b1719408fcf}, android_cn_huawei: {playable:false config_key:12c67cb290a8517149785b1719408fcf}, android_google: {playable:true config_key:27e1561b38eeddd1f9397270c26ea07c}, cn: {playable:true config_key:27e1561b38eeddd1f9397270c26ea07c}, eu: {playable:true config_key:27e1561b38eeddd1f9397270c26ea07c}, ios: {playable:true config_key:27e1561b38eeddd1f9397270c26ea07c}, ios_cn: {playable:true config_key:27e1561b38eeddd1f9397270c26ea07c}, kr: {playable:true config_key:27e1561b38eeddd1f9397270c26ea07c}, us: {playable:true config_key:27e1561b38eeddd1f9397270c26ea07c}) localVersion=19.0.0.65614 latestVersion=65614 progress=1 currentStage=Complete
+D 2020-11-18 21:36:07.847929 [ProductState] {Main} Game product state created: uid=s1
+D 2020-11-18 21:36:07.847950 [ProductState] {Main} InstallState (s1): currentOperation=UpToDate currentOperationStatus=Paused installed=1 installPath=D:/StarCraft playable=1 canCreateShortcut=1 selectedRegion=us activeConfigKey=10c37660ca921866622854f0cff35c9f regionalVersions=(cn: {playable:true config_key:10c37660ca921866622854f0cff35c9f}, eu: {playable:true config_key:10c37660ca921866622854f0cff35c9f}, kr: {playable:true config_key:10c37660ca921866622854f0cff35c9f}, sg: {playable:true config_key:10c37660ca921866622854f0cff35c9f}, tw: {playable:true config_key:10c37660ca921866622854f0cff35c9f}, us: {playable:true config_key:10c37660ca921866622854f0cff35c9f}) localVersion=1.23.6.8974 latestVersion=8974 progress=1 currentStage=Complete
+D 2020-11-18 21:36:07.847968 [ProductState] {Main} Game product state created: uid=s2
+D 2020-11-18 21:36:07.847989 [ProductState] {Main} InstallState (s2): currentOperation=UpToDate currentOperationStatus=Paused installed=1 installPath=D:/StarCraft II playable=1 canCreateShortcut=1 selectedRegion=kr activeConfigKey=f47228063601f0b2e0a12dffe2281777 regionalVersions=(cn: {playable:true config_key:f47228063601f0b2e0a12dffe2281777}, eu: {playable:true config_key:f47228063601f0b2e0a12dffe2281777}, kr: {playable:true config_key:f47228063601f0b2e0a12dffe2281777}, tw: {playable:true config_key:f47228063601f0b2e0a12dffe2281777}, us: {playable:true config_key:f47228063601f0b2e0a12dffe2281777}) supports_multibox=true localVersion=5.0.4.82457 latestVersion=82457 progress=1 currentStage=Complete
+D 2020-11-18 21:36:07.848003 [Agent] {Main} Versioning is now enabled
+D 2020-11-18 21:36:07.848015 [Agent] {Main} Triggering game versioning: battle.net
+D 2020-11-18 21:36:07.848033 [Agent] {Main} Triggering game versioning: heroes
+D 2020-11-18 21:36:07.848042 [Agent] {Main} Triggering game versioning: hs_beta
+D 2020-11-18 21:36:07.848049 [Agent] {Main} Triggering game versioning: s1
+D 2020-11-18 21:36:07.848054 [Agent] {Main} Triggering game versioning: s2
+D 2020-11-18 21:36:07.859884 [InstallManager] {Main} Command_RegisterGame uid: hs_beta path: D:\Hearthstone productcode:  subfolder: 
+D 2020-11-18 21:36:07.859917 [InstallManager] {Main} PerformRegisterInstall uid= productCode=* installDir=D:\Hearthstone subfolder= region=KR
+I 2020-11-18 21:36:07.859959 [CatalogLoader] {Main} *** LOAD STARTED default: Context(LocalCAS: bdd520070bdabd05060a2d969d99741e I) ***
+I 2020-11-18 21:36:08.238484 [FeatureManager] {Main} Moving feature record from active to inactive: overwatch_league_tab
+I 2020-11-18 21:36:08.238512 [FeatureManager] {Main} Moving feature record from active to inactive: blizzcon_tab
+D 2020-11-18 21:36:08.245343 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationVersion=6
+D 2020-11-18 21:36:08.245378 [CatalogVarStorage] {Main} Setting var from catalog Client.ActivisionAutoAccountCreation.Games=ODIN,ZEUS
+D 2020-11-18 21:36:08.245387 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationEnabled=false
+D 2020-11-18 21:36:08.245396 [CatalogVarStorage] {Main} Setting var from catalog Client.OwlScreen.LiveCheckIntervalMS=300000
+D 2020-11-18 21:36:08.245421 [CatalogVarStorage] {Main} Setting var from catalog Client.NewProfileWindowLayout=true
+D 2020-11-18 21:36:08.245431 [CatalogVarStorage] {Main} Setting var from catalog Client.PromotedScreenVersion=2
+D 2020-11-18 21:36:08.245445 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaAccessOverride=enabled
+D 2020-11-18 21:36:08.245453 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaBranchOverride=beta
+D 2020-11-18 21:36:08.245462 [CatalogVarStorage] {Main} Setting var from catalog Services.WhisperChannels.InactivityTimeoutMS=0
+I 2020-11-18 21:36:08.247073 [CatalogLoader] {Main} *** LOAD COMPLETE default ***
+I 2020-11-18 21:36:08.400488 [UnifiedAuth] {Main} UAuth: setting url: https://kr.battle.net/login/ko/logout?ref=https://kr.battle.net/login/ko/login.app?app=app reason: reset
+D 2020-11-18 21:36:08.417795 [ClientServiceAlertMonitor] {Main} Service alert monitor force update requested
+D 2020-11-18 21:36:08.417820 [ClientServiceAlertMonitor] {Main} Breaking News update requested
+D 2020-11-18 21:36:08.417835 [ClientServiceAlertMonitor] {Main} Maintenance update requested
+D 2020-11-18 21:36:08.494271 [InstallManager] {Main} Registration complete for agentUid=hs_beta and region=kr
+D 2020-11-18 21:36:08.494422 [InstallManager] {Main} Game finished versioning heroes
+I 2020-11-18 21:36:08.495208 [Main] {Main} Cached WidevineCDM is up-to-date: 4.10.1582.2
+I 2020-11-18 21:36:08.744679 [CacheManager] {Main} CacheManager is now initialized
+I 2020-11-18 21:36:08.744854 [TactVersionWatcher] {Main} Fetched new tact metadata. productCode=catalogs region=kr branch=PUB-29 version=1840 seq=69 buildConfig=c606710d15115ace0417d43f1de306a1
+I 2020-11-18 21:36:09.068874 [GameSessionList] {Agent} Reporting process: TrackingInfo(uid=battle.net, type=game, opStatus=On, reqId=0, running=2, oldRunning=0)
+I 2020-11-18 21:36:09.074061 [InstallManager] {Main} Setting Process Running: true uid=battle.net binaryType=game any=true
+D 2020-11-18 21:36:09.074098 [InstallInfo] {Main} Operation status changed: opType=Execute oldStatus=Off newStatus=On agentUid=battle.net
+I 2020-11-18 21:36:09.143971 [DIAG_BuildConfig] {Main} no 'encoding' key in build configuration 'c606710d15115ace0417d43f1de306a1', selecting plain-data mode
+I 2020-11-18 21:36:09.144004 [CatalogLoader] {Main} *** LOAD STARTED default: Context(RemoteCAS: f9f8f53700e084624a96ffccf3913674|tpr/catalogs/data) ***
+D 2020-11-18 21:36:09.627431 [ProductNode] {Main} ProductInfo modified: WTCG_retail
+I 2020-11-18 21:36:09.627557 [GameProduct] {Main} Changes to GameProduct(WTCG): ChangeFlags(524288)
+D 2020-11-18 21:36:09.627570 [ProductManager] {Main} Product modified: D3 ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627592 [ProductManager] {Main} Product modified: D3CN ProductChangeFlags(quick_links)
+D 2020-11-18 21:36:09.627599 [ProductManager] {Main} Product modified: D3X0 ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627604 [ProductManager] {Main} Product modified: D3X1 ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627609 [ProductManager] {Main} Product modified: Hero ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627615 [ProductManager] {Main} Product modified: LAZR ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627619 [ProductManager] {Main} Product modified: ODIN ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627624 [ProductManager] {Main} Product modified: ODIN_MW ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627628 [ProductManager] {Main} Product modified: Pro ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627633 [ProductManager] {Main} Product modified: S1 ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627638 [ProductManager] {Main} Product modified: S2 ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627642 [ProductManager] {Main} Product modified: VIPR ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627647 [ProductManager] {Main} Product modified: W3 ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627652 [ProductManager] {Main} Product modified: WTCG ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627658 [ProductManager] {Main} Product modified: WoW ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627662 [ProductManager] {Main} Product modified: WoWX7 ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627667 [ProductManager] {Main} Product modified: WoWX8 ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627671 [ProductManager] {Main} Product modified: ZEUS ProductChangeFlags(quick_links,starter_items)
+D 2020-11-18 21:36:09.627682 [ProductManager] {Main} Products updated
+I 2020-11-18 21:36:09.628745 [FeatureManager] {Main} Feature changed: test_feature=true tags=test_feature
+D 2020-11-18 21:36:09.634992 [ProductManager] {Main} Product modified: AUKS ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635027 [ProductManager] {Main} Product modified: D3 ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635035 [ProductManager] {Main} Product modified: D3CN ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635040 [ProductManager] {Main} Product modified: D3X0 ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635045 [ProductManager] {Main} Product modified: D3X1 ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635050 [ProductManager] {Main} Product modified: FORE ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635056 [ProductManager] {Main} Product modified: Fen ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635062 [ProductManager] {Main} Product modified: Hero ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635067 [ProductManager] {Main} Product modified: LAZR ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635072 [ProductManager] {Main} Product modified: ODIN ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635077 [ProductManager] {Main} Product modified: ODIN_MW ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635082 [ProductManager] {Main} Product modified: Pro ProductChangeFlags(name_style,type_name,selector_display_name,uid,rank,play_disabled_message,supported_regions,region_permission_flags,65)
+D 2020-11-18 21:36:09.635185 [ProductManager] {Main} Product modified: S1 ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635194 [ProductManager] {Main} Product modified: S2 ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635200 [ProductManager] {Main} Product modified: VIPR ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635206 [ProductManager] {Main} Product modified: W3 ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635211 [ProductManager] {Main} Product modified: WTCG ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635216 [ProductManager] {Main} Product modified: WoW ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635222 [ProductManager] {Main} Product modified: WoWX7 ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635227 [ProductManager] {Main} Product modified: WoWX8 ProductChangeFlags(name_style,type_name,rank,65)
+D 2020-11-18 21:36:09.635232 [ProductManager] {Main} Product modified: ZEUS ProductChangeFlags(name,name_style,type_name,selector_display_name,uid,rank,supports_starter_mode,supported_regions,region_permission_flags,65)
+D 2020-11-18 21:36:09.635308 [ProductManager] {Main} Products updated
+D 2020-11-18 21:36:09.635915 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationVersion=6
+D 2020-11-18 21:36:09.635949 [CatalogVarStorage] {Main} Setting var from catalog Client.ActivisionAutoAccountCreation.Games=ODIN,ZEUS
+D 2020-11-18 21:36:09.635959 [CatalogVarStorage] {Main} Setting var from catalog Client.Shop.SaleNotificationEnabled=false
+D 2020-11-18 21:36:09.635968 [CatalogVarStorage] {Main} Setting var from catalog Client.OwlScreen.LiveCheckIntervalMS=300000
+D 2020-11-18 21:36:09.635990 [CatalogVarStorage] {Main} Setting var from catalog Client.NewProfileWindowLayout=true
+D 2020-11-18 21:36:09.636006 [CatalogVarStorage] {Main} Setting var from catalog Client.PromotedScreenVersion=2
+D 2020-11-18 21:36:09.636017 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaAccessOverride=enabled
+D 2020-11-18 21:36:09.636023 [CatalogVarStorage] {Main} Setting var from catalog Client.Version.BetaBranchOverride=beta
+D 2020-11-18 21:36:09.636029 [CatalogVarStorage] {Main} Setting var from catalog Services.WhisperChannels.InactivityTimeoutMS=0
+I 2020-11-18 21:36:09.643009 [CatalogLoader] {Main} *** LOAD COMPLETE default ***
+D 2020-11-18 21:36:10.653930 [InstallManager] {Main} Game finished versioning battle.net
+D 2020-11-18 21:36:10.673917 [InstallManager] {Main} Game finished versioning hs_beta
+D 2020-11-18 21:36:10.673938 [InstallManager] {Main} Game finished versioning hs_beta
+D 2020-11-18 21:36:11.104161 [InstallManager] {Main} Game finished versioning s2
+D 2020-11-18 21:36:11.426550 [UnifiedAuth] {} UAuth: browser state changed: Login
+D 2020-11-18 21:36:11.436904 [UnifiedAuth] {Main} UAuth: begin loading: https://kr.battle.net/login/ko/login.app?app=app
+D 2020-11-18 21:36:11.436946 [UnifiedAuth] {Main} UAuth: set size from headers: 344x226 popup=0
+D 2020-11-18 21:36:11.723578 [InstallManager] {Main} Game finished versioning s1
+E 2020-11-18 21:36:11.753158 [BrowserAppImpl] {Main} Uncaught JS Exception: |name=Login|url=https://kr.battle.net/login/ko/login.app?app=app|frameURL=https://kr.battle.net/login/ko/login.app?app=app|msg=Uncaught TypeError: Cannot set property 'value' of null|stackTrace=
+	fillAccountName (https://bnetkr-a.akamaihd.net/login/static/js/login/login.min.2BF9V.js:1:7080)
+	 (resources://client/js/phoenix-client.min.js?Ae6No:19:95992)
+	a.emit (resources://client/js/phoenix-client.min.js?Ae6No:1:5392)
+	value (resources://client/js/phoenix-client.min.js?Ae6No:19:82571)
+	value (resources://client/js/phoenix-client.min.js?Ae6No:19:83338)
+	handleListenerEvent (resources://client/js/phoenix-client.min.js?Ae6No:19:151627)
+	value (resources://client/js/phoenix-client.min.js?Ae6No:19:25714)
+I 2020-11-18 21:36:12.078944 [GameSessionList] {Agent} Reporting process: TrackingInfo(uid=battle.net, type=game, opStatus=On, reqId=0, running=4, oldRunning=2)
+I 2020-11-18 21:36:12.083638 [InstallManager] {Main} Setting Process Running: true uid=battle.net binaryType=game any=true
+D 2020-11-18 21:36:12.604197 [UnifiedAuth] {Main} UAuth: finished loading. statusCode=200 state=Login
+D 2020-11-18 21:36:14.464131 [UnifiedAuth] {Main} UAuth: status changed: RequestingToken
+D 2020-11-18 21:36:14.464150 [UnifiedAuth] {Main} UAuth: login submitted
+D 2020-11-18 21:36:14.873718 [UnifiedAuth] {Main} UAuth: browser state changed: None
+D 2020-11-18 21:36:15.173669 [UnifiedAuth] {Main} UAuth: status changed: ReceivedToken
+D 2020-11-18 21:36:15.173700 [UnifiedAuth] {Main} UAuth: web login complete, beginning connection.
+I 2020-11-18 21:36:15.180357 [Main] {Main} Connecting to server. address=kr.actual.battle.net port=1119
+D 2020-11-18 21:36:15.181983 [UnifiedAuth] {Main} UAuth: browser state changed: Done
+D 2020-11-18 21:36:17.583283 [LoginController] {Main} Login_QueueUpdate (position=1,clientWaitTime=-00:00:00.048189,skipLoginQueueUi=true)
+I 2020-11-18 21:36:17.596154 [Main] {Main} Opened database at: C:\Users\USER\AppData\Local\Battle.net\Account\12382595\account.db
+I 2020-11-18 21:36:19.312085 [GSAccountProvider] {Main} Login triggered. entityId=1:0:bcf183
+I 2020-11-18 21:36:19.312147 [GSStateTracker] {Main} State changed to: WaitingForAccountState
+I 2020-11-18 21:36:19.312207 [AccountManager] {Main} Account manager state has changed to: Loading
+D 2020-11-18 21:36:19.313986 [GSAccountProvider] {Main} Querying account level info for account: 1:0:bcf183
+D 2020-11-18 21:36:19.314081 [GSAccountProvider] {Main} Querying parental control info for account: 1:0:bcf183
+D 2020-11-18 21:36:19.314130 [GSAccountProvider] {Main} Querying game accounts for region: US
+D 2020-11-18 21:36:19.314154 [GSAccountProvider] {Main} Querying game accounts for region: EU
+D 2020-11-18 21:36:19.314171 [GSAccountProvider] {Main} Querying game accounts for region: KR
+D 2020-11-18 21:36:19.314191 [GSAccountProvider] {Main} Querying game accounts for region: SG
+D 2020-11-18 21:36:19.314202 [GSAccountProvider] {Main} Querying game accounts for region: XX
+D 2020-11-18 21:36:19.314218 [GSAccountProvider] {Main} Querying game accounts for region: GLOBAL
+D 2020-11-18 21:36:19.314233 [GSAccountProvider] {Main} Querying parental control info for account: 1:0:bcf183
+D 2020-11-18 21:36:19.314355 [GSAccountProvider] {Main} Querying program level information for program: Fen
+D 2020-11-18 21:36:19.314404 [GSAccountProvider] {Main} Querying program level information for program: D3
+D 2020-11-18 21:36:19.314429 [GSAccountProvider] {Main} Querying program level information for program: S2
+D 2020-11-18 21:36:19.314452 [GSAccountProvider] {Main} Querying program level information for program: S1
+D 2020-11-18 21:36:19.314472 [GSAccountProvider] {Main} Querying program level information for program: FORE
+D 2020-11-18 21:36:19.314490 [GSAccountProvider] {Main} Querying program level information for program: W3
+D 2020-11-18 21:36:19.314508 [GSAccountProvider] {Main} Querying program level information for program: WoW
+D 2020-11-18 21:36:19.314534 [GSAccountProvider] {Main} Querying program level information for program: Pro
+D 2020-11-18 21:36:19.314554 [GSAccountProvider] {Main} Querying program level information for program: Hero
+D 2020-11-18 21:36:19.314576 [GSAccountProvider] {Main} Querying program level information for program: AUKS
+D 2020-11-18 21:36:19.314594 [GSAccountProvider] {Main} Querying program level information for program: D3CN
+D 2020-11-18 21:36:19.314612 [GSAccountProvider] {Main} Querying program level information for program: LAZR
+D 2020-11-18 21:36:19.314629 [GSAccountProvider] {Main} Querying program level information for program: ODIN
+D 2020-11-18 21:36:19.314646 [GSAccountProvider] {Main} Querying program level information for program: VIPR
+D 2020-11-18 21:36:19.314667 [GSAccountProvider] {Main} Querying program level information for program: WTCG
+D 2020-11-18 21:36:19.314694 [GSAccountProvider] {Main} Querying program level information for program: ZEUS
+D 2020-11-18 21:36:19.315222 [GSAccountProvider] {Main} Received AccountLevelInfo for account. entityId=1:0:bcf183 accountLevelInfo=|licenses:|id=274|id=10107|id=10433|id=11318|id=11366|id=11455|id=17161|id=17294|id=17759|id=20023|id=20024|id=20025|id=25362|id=37396|id=50336|:licenses|default_currency=4936279|country=KOR|preferred_region=3
+I 2020-11-18 21:36:19.315388 [AccountManager] {Main} Account site region code changed: KR
+I 2020-11-18 21:36:19.315407 [AccountManager] {Main} Account country changed: KOR
+D 2020-11-18 21:36:19.315496 [GSAccountProvider] {Main} Parental control info for account (1:0:bcf183) resulted in cache miss.
+D 2020-11-18 21:36:19.315521 [GSAccountProvider] {Main} Received 0 game accounts from region 'US'
+D 2020-11-18 21:36:19.315540 [GSAccountProvider] {Main} Game account list for region 'EU' resulted in cache miss.
+I 2020-11-18 21:36:19.315554 [GSStateTracker] {Main} State changed to: Loading
+D 2020-11-18 21:36:19.315591 [GSAccountProvider] {Main} Querying game level information for entity: (Game: KR-D3-27731467)
+D 2020-11-18 21:36:19.315621 [GSAccountProvider] {Main} Querying game time info for entity Id: (Game: KR-D3-27731467)
+D 2020-11-18 21:36:19.315661 [GSAccountProvider] {Main} Querying game level information for entity: (Game: KR-DST2-85936386)
+D 2020-11-18 21:36:19.315688 [GSAccountProvider] {Main} Querying game time info for entity Id: (Game: KR-DST2-85936386)
+D 2020-11-18 21:36:19.315710 [GSAccountProvider] {Main} Querying program level information for program: DST2
+D 2020-11-18 21:36:19.315744 [GSAccountProvider] {Main} Querying game level information for entity: (Game: KR-Hero-38220112)
+D 2020-11-18 21:36:19.315765 [GSAccountProvider] {Main} Querying game time info for entity Id: (Game: KR-Hero-38220112)
+D 2020-11-18 21:36:19.315803 [GSAccountProvider] {Main} Querying game level information for entity: (Game: KR-Pro-48101895)
+D 2020-11-18 21:36:19.315823 [GSAccountProvider] {Main} Querying game time info for entity Id: (Game: KR-Pro-48101895)
+D 2020-11-18 21:36:19.315865 [GSAccountProvider] {Main} Querying game level information for entity: (Game: KR-S2-2789092)
+D 2020-11-18 21:36:19.315885 [GSAccountProvider] {Main} Querying game time info for entity Id: (Game: KR-S2-2789092)
+D 2020-11-18 21:36:19.315923 [GSAccountProvider] {Main} Querying game level information for entity: (Game: KR-WTCG-27238682)
+D 2020-11-18 21:36:19.315999 [GSAccountProvider] {Main} Querying game time info for entity Id: (Game: KR-WTCG-27238682)
+D 2020-11-18 21:36:19.316041 [GSAccountProvider] {Main} Querying game level information for entity: (Game: KR-WoW-24121194)
+D 2020-11-18 21:36:19.316062 [GSAccountProvider] {Main} Querying game time info for entity Id: (Game: KR-WoW-24121194)
+D 2020-11-18 21:36:19.316080 [GSAccountProvider] {Main} Received 7 game accounts from region 'KR'
+D 2020-11-18 21:36:19.316097 [GSAccountProvider] {Main} Game account list for region 'SG' resulted in cache miss.
+D 2020-11-18 21:36:19.316132 [GSAccountProvider] {Main} Querying game level information for entity: (Game: XX-S2-8672347)
+D 2020-11-18 21:36:19.316157 [GSAccountProvider] {Main} Querying game time info for entity Id: (Game: XX-S2-8672347)
+D 2020-11-18 21:36:19.316174 [GSAccountProvider] {Main} Received 1 game accounts from region 'XX'
+D 2020-11-18 21:36:19.316188 [GSAccountProvider] {Main} Game account list for region 'GLOBAL' resulted in cache miss.
+D 2020-11-18 21:36:19.316200 [GSAccountProvider] {Main} Parental control info for account (1:0:bcf183) resulted in cache miss.
+D 2020-11-18 21:36:19.316219 [GSAccountProvider] {Main} Received program level info. programId=Fen programLevelInfo=|program=4613486
+D 2020-11-18 21:36:19.316266 [GSAccountProvider] {Main} Received program level info. programId=D3 programLevelInfo=|program=17459
+D 2020-11-18 21:36:19.316285 [GSAccountProvider] {Main} Received program level info. programId=S2 programLevelInfo=|program=21298
+D 2020-11-18 21:36:19.316299 [GSAccountProvider] {Main} Received program level info. programId=S1 programLevelInfo=|program=21297
+D 2020-11-18 21:36:19.316318 [GSAccountProvider] {Main} Received program level info. programId=FORE programLevelInfo=|program=1179603525
+D 2020-11-18 21:36:19.316334 [GSAccountProvider] {Main} Received program level info. programId=W3 programLevelInfo=|program=22323
+D 2020-11-18 21:36:19.316349 [GSAccountProvider] {Main} Received program level info. programId=WoW programLevelInfo=|program=5730135|licenses:|id=274|:licenses|licenses:|id=11318|:licenses
+D 2020-11-18 21:36:19.316396 [GSAccountProvider] {Main} Received program level info. programId=Pro programLevelInfo=|program=5272175
+D 2020-11-18 21:36:19.316413 [GSAccountProvider] {Main} Received program level info. programId=Hero programLevelInfo=|is_beta=1|program=1214607983|licenses:|id=10107|:licenses|licenses:|id=10433|:licenses|licenses:|id=17759|:licenses
+D 2020-11-18 21:36:19.316468 [GSAccountProvider] {Main} Cache miss for program level info. programId=AUKS
+D 2020-11-18 21:36:19.316482 [GSAccountProvider] {Main} Cache miss for program level info. programId=D3CN
+D 2020-11-18 21:36:19.316496 [GSAccountProvider] {Main} Received program level info. programId=LAZR programLevelInfo=|program=1279351378
+D 2020-11-18 21:36:19.316512 [GSAccountProvider] {Main} Received program level info. programId=ODIN programLevelInfo=|program=1329875278
+D 2020-11-18 21:36:19.316528 [GSAccountProvider] {Main} Received program level info. programId=VIPR programLevelInfo=|program=1447645266
+D 2020-11-18 21:36:19.316543 [GSAccountProvider] {Main} Received program level info. programId=WTCG programLevelInfo=|program=1465140039|licenses:|id=11455|:licenses|licenses:|id=17161|:licenses|licenses:|id=17294|:licenses|licenses:|id=20023|:licenses|licenses:|id=20024|:licenses|licenses:|id=20025|:licenses|licenses:|id=25362|:licenses|licenses:|id=37396|:licenses|licenses:|id=50336|:licenses
+D 2020-11-18 21:36:19.316608 [GSAccountProvider] {Main} Received program level info. programId=ZEUS programLevelInfo=|program=1514493267
+D 2020-11-18 21:36:19.324494 [GSAccountProvider] {Main} Received GameLevelInfo: (Game: KR-D3-27731467) info=|name="D31"|program=17459|realm_permissions=1|last_logout_time_ms=1446289905000
+D 2020-11-18 21:36:19.324665 [GSAccountProvider] {Main} Received GameTimeInfo: (Game: KR-D3-27731467) info=
+D 2020-11-18 21:36:19.324723 [GSAccountProvider] {Main} Received GameLevelInfo: (Game: KR-DST2-85936386) info=|name="DST21"|program=1146311730|realm_permissions=1|last_logout_time_ms=1537781805000
+D 2020-11-18 21:36:19.324766 [GSAccountProvider] {Main} Received GameTimeInfo: (Game: KR-DST2-85936386) info=
+D 2020-11-18 21:36:19.324787 [GSAccountProvider] {Main} Cache miss for program level info. programId=DST2
+D 2020-11-18 21:36:19.324809 [GSAccountProvider] {Main} Received GameLevelInfo: (Game: KR-Hero-38220112) info=|name="Hero1"|program=1214607983|licenses:|id=20313|:licenses|licenses:|id=20434|:licenses|realm_permissions=1|last_logout_time_ms=1537277869000
+D 2020-11-18 21:36:19.324863 [GSAccountProvider] {Main} Received GameTimeInfo: (Game: KR-Hero-38220112) info=
+D 2020-11-18 21:36:19.324885 [GSAccountProvider] {Main} Received GameLevelInfo: (Game: KR-Pro-48101895) info=|name="Pro1"|program=5272175|realm_permissions=1|last_logout_time_ms=1547282412000
+D 2020-11-18 21:36:19.324921 [GSAccountProvider] {Main} Received GameTimeInfo: (Game: KR-Pro-48101895) info=
+D 2020-11-18 21:36:19.324940 [GSAccountProvider] {Main} Received GameLevelInfo: (Game: KR-S2-2789092) info=|is_trial=0|is_restricted=0|name="S21"|program=21298|realm_permissions=1|last_logout_time_ms=1461382869000
+D 2020-11-18 21:36:19.324984 [GSAccountProvider] {Main} Received GameTimeInfo: (Game: KR-S2-2789092) info=
+D 2020-11-18 21:36:19.325007 [GSAccountProvider] {Main} Received GameLevelInfo: (Game: KR-WTCG-27238682) info=|name="WTCG1"|program=1465140039|licenses:|id=10444|:licenses|licenses:|id=11340|:licenses|licenses:|id=17015|:licenses|licenses:|id=17016|:licenses|licenses:|id=17023|:licenses|licenses:|id=17292|:licenses|licenses:|id=17733|:licenses|licenses:|id=17734|:licenses|licenses:|id=20733|:licenses|licenses:|id=25055|:licenses|licenses:|id=26701|:licenses|licenses:|id=26717|:licenses|licenses:|id=26718|:licenses|licenses:|id=26719|:licenses|licenses:|id=26859|:licenses|licenses:|id=27523|:licenses|licenses:|id=28699|:licenses|licenses:|id=37716|:licenses|licenses:|id=37817|:licenses|licenses:|id=37836|:licenses|licenses:|id=37837|:licenses|licenses:|id=38556|:licenses|licenses:|id=46376|:licenses|licenses:|id=46396|:licenses|licenses:|id=46397|:licenses|licenses:|id=46398|:licenses|licenses:|id=46416|:licenses|licenses:|id=49336|:licenses|licenses:|id=49396|:licenses|licenses:|id=49397|:licenses|licenses:|id=50236|:licenses|licenses:|id=50237|:licenses|licenses:|id=50238|:licenses|licenses:|id=50256|:licenses|licenses:|id=50257|:licenses|licenses:|id=50258|:licenses|licenses:|id=50259|:licenses|licenses:|id=50260|:licenses|licenses:|id=52396|:licenses|licenses:|id=52421|:licenses|licenses:|id=52422|:licenses|licenses:|id=52438|:licenses|licenses:|id=52439|:licenses|licenses:|id=52440|:licenses|licenses:|id=52738|:licenses|licenses:|id=52739|:licenses|licenses:|id=53804|:licenses|licenses:|id=53805|:licenses|licenses:|id=53806|:licenses|licenses:|id=53807|:licenses|licenses:|id=53808|:licenses|licenses:|id=53809|:licenses|licenses:|id=53810|:licenses|licenses:|id=53819|:licenses|licenses:|id=53820|:licenses|licenses:|id=53821|:licenses|realm_permissions=1|last_logout_time_ms=1602622205000
+D 2020-11-18 21:36:19.325324 [GSAccountProvider] {Main} Received GameTimeInfo: (Game: KR-WTCG-27238682) info=
+D 2020-11-18 21:36:19.325344 [GSAccountProvider] {Main} Received GameLevelInfo: (Game: KR-WoW-24121194) info=|is_trial=0|is_restricted=0|name="WoW1"|program=5730135|licenses:|id=11003|:licenses|licenses:|id=11488|:licenses|licenses:|id=253|:licenses|realm_permissions=3|last_logout_time_ms=1404619586000
+D 2020-11-18 21:36:19.325427 [GSAccountProvider] {Main} Received GameTimeInfo: (Game: KR-WoW-24121194) info=
+D 2020-11-18 21:36:19.325455 [GSAccountProvider] {Main} Received GameLevelInfo: (Game: XX-S2-8672347) info=|is_trial=0|is_restricted=0|name="S21"|program=21298|realm_permissions=1
+D 2020-11-18 21:36:19.325492 [GSAccountProvider] {Main} Received GameTimeInfo: (Game: XX-S2-8672347) info=
+I 2020-11-18 21:36:20.056018 [ScreenController] {Main} Changing screen to: Games
+D 2020-11-18 21:36:20.371720 [InventoryController] {Main} Updating inventory
+D 2020-11-18 21:36:20.371735 [InventoryController] {Main} GetInventoryInfo request
+I 2020-11-18 21:36:20.371810 [Clubs] {Main} Subscribing to club membership.
+I 2020-11-18 21:36:20.371888 [ChannelV2] {Main} Subscribing to channelv2 membership service. |agentId=|id=27193756|program=4288624|region=3
+I 2020-11-18 21:36:20.371927 [BNLogin] {Main} Logged into Battle.net successfully. |bnet=1:0:bcf183|game=2:300417070:19ef19c
+D 2020-11-18 21:36:20.593171 [GSAccountProvider] {Main} Received program level info. programId=AUKS programLevelInfo=|program=1096108883
+D 2020-11-18 21:36:20.593210 [GSAccountProvider] {Main} Subscription has been activated. entityId=(BNet: 1:0:bcf183)
+D 2020-11-18 21:36:20.593221 [GSAccountProvider] {Main} Querying game accounts for region: EU
+D 2020-11-18 21:36:20.593228 [GSAccountProvider] {Main} Querying game accounts for region: SG
+D 2020-11-18 21:36:20.593232 [GSAccountProvider] {Main} Querying game accounts for region: GLOBAL
+D 2020-11-18 21:36:20.593252 [GSAccountProvider] {Main} Received GameLevelInfo: (Game: KR-WTCG-27238682) info=|name="WTCG1"|program=1465140039|licenses:|id=10444|:licenses|licenses:|id=11340|:licenses|licenses:|id=17015|:licenses|licenses:|id=17016|:licenses|licenses:|id=17023|:licenses|licenses:|id=17292|:licenses|licenses:|id=17733|:licenses|licenses:|id=17734|:licenses|licenses:|id=20733|:licenses|licenses:|id=25055|:licenses|licenses:|id=26701|:licenses|licenses:|id=26717|:licenses|licenses:|id=26718|:licenses|licenses:|id=26719|:licenses|licenses:|id=26859|:licenses|licenses:|id=27523|:licenses|licenses:|id=28699|:licenses|licenses:|id=37716|:licenses|licenses:|id=37817|:licenses|licenses:|id=37836|:licenses|licenses:|id=37837|:licenses|licenses:|id=38556|:licenses|licenses:|id=46376|:licenses|licenses:|id=46396|:licenses|licenses:|id=46397|:licenses|licenses:|id=46398|:licenses|licenses:|id=46416|:licenses|licenses:|id=49336|:licenses|licenses:|id=49396|:licenses|licenses:|id=49397|:licenses|licenses:|id=50236|:licenses|licenses:|id=50237|:licenses|licenses:|id=50238|:licenses|licenses:|id=50256|:licenses|licenses:|id=50257|:licenses|licenses:|id=50258|:licenses|licenses:|id=50259|:licenses|licenses:|id=50260|:licenses|licenses:|id=52396|:licenses|licenses:|id=52421|:licenses|licenses:|id=52422|:licenses|licenses:|id=52438|:licenses|licenses:|id=52439|:licenses|licenses:|id=52440|:licenses|licenses:|id=52738|:licenses|licenses:|id=52739|:licenses|licenses:|id=53804|:licenses|licenses:|id=53805|:licenses|licenses:|id=53806|:licenses|licenses:|id=53807|:licenses|licenses:|id=53808|:licenses|licenses:|id=53809|:licenses|licenses:|id=53810|:licenses|licenses:|id=53819|:licenses|licenses:|id=53820|:licenses|licenses:|id=53821|:licenses|realm_permissions=1|last_logout_time_ms=1604260529000
+D 2020-11-18 21:36:20.593344 [GSAccountProvider] {Main} Subscription has been activated. entityId=(Game: KR-WTCG-27238682)
+D 2020-11-18 21:36:20.593351 [GSAccountProvider] {Main} Received GameTimeRemainingInfo: (Game: KR-WTCG-27238682) info=
+D 2020-11-18 21:36:20.593358 [GSAccountProvider] {Main} Subscription has been activated. entityId=(Game: KR-Pro-48101895)
+D 2020-11-18 21:36:20.593363 [GSAccountProvider] {Main} Subscription has been activated. entityId=(Game: KR-DST2-85936386)
+D 2020-11-18 21:36:20.593367 [GSAccountProvider] {Main} Received GameTimeRemainingInfo: (Game: KR-S2-2789092) info=
+D 2020-11-18 21:36:20.593371 [GSAccountProvider] {Main} Received GameTimeRemainingInfo: (Game: KR-DST2-85936386) info=
+D 2020-11-18 21:36:20.593378 [GSAccountProvider] {Main} Subscription has been activated. entityId=(Game: KR-Hero-38220112)
+D 2020-11-18 21:36:20.593383 [GSAccountProvider] {Main} Subscription has been activated. entityId=(Game: KR-S2-2789092)
+D 2020-11-18 21:36:20.593388 [GSAccountProvider] {Main} Received GameTimeRemainingInfo: (Game: KR-Pro-48101895) info=
+D 2020-11-18 21:36:20.593392 [GSAccountProvider] {Main} Subscription has been activated. entityId=(Game: KR-D3-27731467)
+D 2020-11-18 21:36:20.593396 [GSAccountProvider] {Main} Received GameTimeRemainingInfo: (Game: KR-Hero-38220112) info=
+D 2020-11-18 21:36:20.593401 [GSAccountProvider] {Main} Subscription has been activated. entityId=(Game: KR-WoW-24121194)
+D 2020-11-18 21:36:20.593405 [GSAccountProvider] {Main} Received GameTimeRemainingInfo: (Game: KR-D3-27731467) info=
+D 2020-11-18 21:36:20.593409 [GSAccountProvider] {Main} Received GameTimeRemainingInfo: (Game: KR-WoW-24121194) info=
+D 2020-11-18 21:36:20.593414 [GSAccountProvider] {Main} Subscription has been activated. entityId=(Game: XX-S2-8672347)
+D 2020-11-18 21:36:20.612999 [GSAccountProvider] {Main} Region 'EU' has no game accounts.
+D 2020-11-18 21:36:20.613030 [GSAccountProvider] {Main} Region 'SG' has no game accounts.
+D 2020-11-18 21:36:20.613036 [GSAccountProvider] {Main} Region 'GLOBAL' has no game accounts.
+I 2020-11-18 21:36:20.613042 [GSStateTracker] {Main} All region requests have been completed!
+I 2020-11-18 21:36:20.613049 [GSStateTracker] {Main} State changed to: WaitingForEntitlements
+D 2020-11-18 21:36:20.613080 [GSAccountProvider] {Main} Completed initial load.
+D 2020-11-18 21:36:20.613088 [GSAccountProvider] {Main} Querying game status for program id: D3
+D 2020-11-18 21:36:20.613101 [GSAccountProvider] {Main} Querying game status for program id: S1
+D 2020-11-18 21:36:20.613106 [GSAccountProvider] {Main} Querying game status for program id: S2
+D 2020-11-18 21:36:20.613111 [GSAccountProvider] {Main} Querying game status for program id: W3
+D 2020-11-18 21:36:20.613114 [GSAccountProvider] {Main} Querying game status for program id: Fen
+D 2020-11-18 21:36:20.613119 [GSAccountProvider] {Main} Querying game status for program id: Pro
+D 2020-11-18 21:36:20.613123 [GSAccountProvider] {Main} Querying game status for program id: AUKS
+D 2020-11-18 21:36:20.613127 [GSAccountProvider] {Main} Querying game status for program id: D3CN
+D 2020-11-18 21:36:20.613130 [GSAccountProvider] {Main} Querying game status for program id: DST2
+D 2020-11-18 21:36:20.613134 [GSAccountProvider] {Main} Querying game status for program id: FORE
+D 2020-11-18 21:36:20.613137 [GSAccountProvider] {Main} Querying game status for program id: Hero
+D 2020-11-18 21:36:20.613142 [GSAccountProvider] {Main} Querying game status for program id: LAZR
+D 2020-11-18 21:36:20.613146 [GSAccountProvider] {Main} Querying game status for program id: ODIN
+D 2020-11-18 21:36:20.613149 [GSAccountProvider] {Main} Querying game status for program id: VIPR
+D 2020-11-18 21:36:20.613152 [GSAccountProvider] {Main} Querying game status for program id: WTCG
+D 2020-11-18 21:36:20.613156 [GSAccountProvider] {Main} Querying game status for program id: ZEUS
+D 2020-11-18 21:36:20.613230 [GSAccountProvider] {Main} Querying game status for entity Id: (Game: KR-WoW-24121194)
+D 2020-11-18 21:36:20.613243 [GSAccountProvider] {Main} Querying game status for entity Id: (Game: KR-WoW-24121194)
+I 2020-11-18 21:36:20.613761 [GSStateTracker] {Main} State changed to: Ready
+I 2020-11-18 21:36:20.613775 [GSAccountProvider] {Main} Loaded accounts: 11
+I 2020-11-18 21:36:20.613782 [GSAccountProvider] {Main} [D3-D3:retail]
+I 2020-11-18 21:36:20.613785 [GSAccountProvider] {Main} [S2-S2:ptr]
+I 2020-11-18 21:36:20.613788 [GSAccountProvider] {Main} [S2-S2:retail]
+I 2020-11-18 21:36:20.613790 [GSAccountProvider] {Main} [WoW-WoW:retail r:KR n:WoW1 e:2:300576f57:1700f6a]
+I 2020-11-18 21:36:20.613799 [GSAccountProvider] {Main} [S1-S1:ptr]
+I 2020-11-18 21:36:20.613802 [GSAccountProvider] {Main} [WoW-WoW:wow_classic r:KR n:WoW1 e:2:300576f57:1700f6a]
+I 2020-11-18 21:36:20.613809 [GSAccountProvider] {Main} [Hero-Hero:retail]
+I 2020-11-18 21:36:20.613812 [GSAccountProvider] {Main} [ODIN-ODIN_MW:beta]
+I 2020-11-18 21:36:20.613814 [GSAccountProvider] {Main} [Hero-Hero:ptr]
+I 2020-11-18 21:36:20.613817 [GSAccountProvider] {Main} [WTCG-WTCG:retail]
+I 2020-11-18 21:36:20.613820 [GSAccountProvider] {Main} [ZEUS-ZEUS:beta]
+I 2020-11-18 21:36:20.613823 [AccountManager] {Main} Account manager state has changed to: Ready
+I 2020-11-18 21:36:20.613884 [GameProvider] {Main} Beginning GameProvider initialization.
+D 2020-11-18 21:36:20.613909 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=Hero_retail
+D 2020-11-18 21:36:20.613938 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=AUKS_retail
+D 2020-11-18 21:36:20.614017 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=D3_retail
+D 2020-11-18 21:36:20.614102 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=D3CN_retail
+D 2020-11-18 21:36:20.614162 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=FORE_retail
+D 2020-11-18 21:36:20.614225 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=Fen_retail
+D 2020-11-18 21:36:20.614328 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=LAZR_retail
+D 2020-11-18 21:36:20.614404 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=ODIN_retail
+D 2020-11-18 21:36:20.614486 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=Pro_retail
+D 2020-11-18 21:36:20.614497 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=S1_retail
+D 2020-11-18 21:36:20.614503 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=S2_retail
+D 2020-11-18 21:36:20.614509 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=VIPR_retail
+D 2020-11-18 21:36:20.614606 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=W3_retail
+D 2020-11-18 21:36:20.614661 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=WTCG_retail
+D 2020-11-18 21:36:20.614671 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=WoW_retail
+D 2020-11-18 21:36:20.614735 [GameProvider] {Main} Inserting new unbound entity because no suitable match was found. uniqueId=ZEUS_retail
+D 2020-11-18 21:36:20.614754 [GameProvider] {Main} Tried to insert an unbound entity that already exists. productCode=Hero_retail bound=0
+D 2020-11-18 21:36:20.614761 [GameProvider] {Main} Tried to insert an unbound entity that already exists. productCode=WTCG_retail bound=0
+D 2020-11-18 21:36:20.614766 [GameProvider] {Main} Tried to insert an unbound entity that already exists. productCode=S1_retail bound=0
+D 2020-11-18 21:36:20.614771 [GameProvider] {Main} Tried to insert an unbound entity that already exists. productCode=S2_retail bound=0
+D 2020-11-18 21:36:20.614789 [GameProvider] {Main} Binding account info to available unbound entity. productCode=D3_retail accountInfo=[D3-D3:retail]
+I 2020-11-18 21:36:20.614802 [GameProvider] {Main} Inserting new bound entity because no suitable match was found. accountInfo=[S2-S2:ptr] productId=S2 productType=ptr
+D 2020-11-18 21:36:20.614870 [GameProvider] {Main} Binding account info to available unbound entity. productCode=S2_retail accountInfo=[S2-S2:retail]
+D 2020-11-18 21:36:20.614884 [GameProvider] {Main} Binding account info to available unbound entity. productCode=WoW_retail accountInfo=[WoW-WoW:retail r:KR n:WoW1 e:2:300576f57:1700f6a]
+I 2020-11-18 21:36:20.614902 [GameProvider] {Main} Inserting new bound entity because no suitable match was found. accountInfo=[S1-S1:ptr] productId=S1 productType=ptr
+I 2020-11-18 21:36:20.614987 [GameProvider] {Main} Inserting new bound entity because no suitable match was found. accountInfo=[WoW-WoW:wow_classic r:KR n:WoW1 e:2:300576f57:1700f6a] productId=WoW productType=wow_classic
+D 2020-11-18 21:36:20.615131 [GameProvider] {Main} Binding account info to available unbound entity. productCode=Hero_retail accountInfo=[Hero-Hero:retail]
+I 2020-11-18 21:36:20.615145 [GameProvider] {Main} Inserting new bound entity because no suitable match was found. accountInfo=[ODIN-ODIN_MW:beta] productId=ODIN_MW productType=beta
+I 2020-11-18 21:36:20.615208 [GameProvider] {Main} Inserting new bound entity because no suitable match was found. accountInfo=[Hero-Hero:ptr] productId=Hero productType=ptr
+D 2020-11-18 21:36:20.615279 [GameProvider] {Main} Binding account info to available unbound entity. productCode=WTCG_retail accountInfo=[WTCG-WTCG:retail]
+I 2020-11-18 21:36:20.615291 [GameProvider] {Main} Inserting new bound entity because no suitable match was found. accountInfo=[ZEUS-ZEUS:beta] productId=ZEUS productType=beta
+I 2020-11-18 21:36:20.615347 [GameProvider] {Main} Game provider is now initialized
+I 2020-11-18 21:36:20.615456 [InstallFlow] {Main} FlowController is now initialized
+I 2020-11-18 21:36:20.615496 [GameController] {Main} Beginning GameController initialization
+D 2020-11-18 21:36:20.615572 [GameController] {Main} Game Family Added: id=LAZR visible=0
+D 2020-11-18 21:36:20.615651 [ProductState] {Main} Game product state created: uid=lazarus
+D 2020-11-18 21:36:20.615665 [ProductState] {Main} InstallState (lazarus): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.615737 [GameController] {Main} GameAccount added to family: family=LAZR account=GameAccount(LAZR:retail region=KR unbound)
+D 2020-11-18 21:36:20.615760 [GameController] {Main} Adding product state reference. uid=lazarus refCount=0
+D 2020-11-18 21:36:20.615817 [GameController] {Main} Visibility Changed. family=LAZR visible=1
+D 2020-11-18 21:36:20.616048 [GameController] {Main} Game Family Added: id=Hero visible=0
+I 2020-11-18 21:36:20.616184 [GameController] {Main} GameAccount added to family: family=Hero account=GameAccount(Hero:retail region=KR)
+D 2020-11-18 21:36:20.616201 [GameController] {Main} Adding product state reference. uid=heroes refCount=0
+D 2020-11-18 21:36:20.616246 [GameController] {Main} Visibility Changed. family=Hero visible=1
+D 2020-11-18 21:36:20.616480 [GameController] {Main} Game Family Added: id=D3CN visible=0
+D 2020-11-18 21:36:20.616521 [ProductState] {Main} Game product state created: uid=d3cn
+D 2020-11-18 21:36:20.616532 [ProductState] {Main} InstallState (d3cn): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.616575 [GameController] {Main} GameAccount added to family: family=D3CN account=GameAccount(D3CN:retail region=<none> unbound hidden)
+D 2020-11-18 21:36:20.616597 [GameController] {Main} Adding product state reference. uid=d3cn refCount=0
+D 2020-11-18 21:36:20.616841 [GameController] {Main} Game Family Added: id=D3 visible=0
+D 2020-11-18 21:36:20.616880 [ProductState] {Main} Game product state created: uid=diablo3
+D 2020-11-18 21:36:20.616891 [ProductState] {Main} InstallState (diablo3): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.616936 [GameController] {Main} GameAccount added to family: family=D3 account=GameAccount(D3:retail region=US)
+D 2020-11-18 21:36:20.616954 [GameController] {Main} Adding product state reference. uid=diablo3 refCount=0
+D 2020-11-18 21:36:20.616996 [GameController] {Main} Visibility Changed. family=D3 visible=1
+D 2020-11-18 21:36:20.617220 [GameController] {Main} Game Family Added: id=AUKS visible=0
+D 2020-11-18 21:36:20.617257 [ProductState] {Main} Game product state created: uid=auks
+D 2020-11-18 21:36:20.617268 [ProductState] {Main} InstallState (auks): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.617315 [GameController] {Main} GameAccount added to family: family=AUKS account=GameAccount(AUKS:retail region=KR unbound hidden)
+D 2020-11-18 21:36:20.617331 [GameController] {Main} Adding product state reference. uid=auks refCount=0
+D 2020-11-18 21:36:20.617577 [GameController] {Main} Game Family Added: id=Pro visible=0
+D 2020-11-18 21:36:20.617637 [ProductState] {Main} Game product state created: uid=prometheus
+D 2020-11-18 21:36:20.617649 [ProductState] {Main} InstallState (prometheus): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.617697 [GameController] {Main} GameAccount added to family: family=Pro account=GameAccount(Pro:retail region=KR unbound)
+D 2020-11-18 21:36:20.617715 [GameController] {Main} Adding product state reference. uid=prometheus refCount=0
+D 2020-11-18 21:36:20.617757 [GameController] {Main} Visibility Changed. family=Pro visible=1
+D 2020-11-18 21:36:20.617973 [GameController] {Main} Game Family Added: id=FORE visible=0
+D 2020-11-18 21:36:20.618005 [ProductState] {Main} Game product state created: uid=fore
+D 2020-11-18 21:36:20.618016 [ProductState] {Main} InstallState (fore): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.618059 [GameController] {Main} GameAccount added to family: family=FORE account=GameAccount(FORE:retail region=KR unbound hidden)
+D 2020-11-18 21:36:20.618074 [GameController] {Main} Adding product state reference. uid=fore refCount=0
+D 2020-11-18 21:36:20.618320 [GameController] {Main} Game Family Added: id=S1 visible=0
+I 2020-11-18 21:36:20.618452 [GameController] {Main} GameAccount added to family: family=S1 account=GameAccount(S1:retail region=KR unbound)
+D 2020-11-18 21:36:20.618468 [GameController] {Main} Adding product state reference. uid=s1 refCount=0
+D 2020-11-18 21:36:20.618506 [GameController] {Main} Visibility Changed. family=S1 visible=1
+D 2020-11-18 21:36:20.618724 [GameController] {Main} Game Family Added: id=Fen visible=0
+D 2020-11-18 21:36:20.618760 [ProductState] {Main} Game product state created: uid=fenris
+D 2020-11-18 21:36:20.618772 [ProductState] {Main} InstallState (fenris): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.618816 [GameController] {Main} GameAccount added to family: family=Fen account=GameAccount(Fen:retail region=KR unbound hidden)
+D 2020-11-18 21:36:20.618832 [GameController] {Main} Adding product state reference. uid=fenris refCount=0
+D 2020-11-18 21:36:20.619093 [GameController] {Main} Game Family Added: id=VIPR visible=0
+D 2020-11-18 21:36:20.619136 [ProductState] {Main} Game product state created: uid=viper
+D 2020-11-18 21:36:20.619147 [ProductState] {Main} InstallState (viper): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.619191 [GameController] {Main} GameAccount added to family: family=VIPR account=GameAccount(VIPR:retail region=KR unbound)
+D 2020-11-18 21:36:20.619205 [GameController] {Main} Adding product state reference. uid=viper refCount=0
+D 2020-11-18 21:36:20.619247 [GameController] {Main} Visibility Changed. family=VIPR visible=1
+D 2020-11-18 21:36:20.619475 [GameController] {Main} Game Family Added: id=ODIN visible=0
+D 2020-11-18 21:36:20.619515 [ProductState] {Main} Game product state created: uid=odin
+D 2020-11-18 21:36:20.619523 [ProductState] {Main} InstallState (odin): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.619572 [GameController] {Main} GameAccount added to family: family=ODIN account=GameAccount(ODIN:retail region=KR unbound)
+D 2020-11-18 21:36:20.619590 [GameController] {Main} Adding product state reference. uid=odin refCount=0
+D 2020-11-18 21:36:20.619633 [GameController] {Main} Visibility Changed. family=ODIN visible=1
+D 2020-11-18 21:36:20.619846 [GameController] {Main} Game Family Added: id=S2 visible=0
+I 2020-11-18 21:36:20.619980 [GameController] {Main} GameAccount added to family: family=S2 account=GameAccount(S2:retail region=KR)
+D 2020-11-18 21:36:20.619995 [GameController] {Main} Adding product state reference. uid=s2 refCount=0
+D 2020-11-18 21:36:20.620030 [GameController] {Main} Visibility Changed. family=S2 visible=1
+D 2020-11-18 21:36:20.620242 [GameController] {Main} Game Family Added: id=W3 visible=0
+D 2020-11-18 21:36:20.620279 [ProductState] {Main} Game product state created: uid=w3
+D 2020-11-18 21:36:20.620288 [ProductState] {Main} InstallState (w3): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.620334 [GameController] {Main} GameAccount added to family: family=W3 account=GameAccount(W3:retail region=KR unbound)
+D 2020-11-18 21:36:20.620350 [GameController] {Main} Adding product state reference. uid=w3 refCount=0
+D 2020-11-18 21:36:20.620408 [GameController] {Main} Visibility Changed. family=W3 visible=1
+D 2020-11-18 21:36:20.620620 [GameController] {Main} Game Family Added: id=WTCG visible=0
+I 2020-11-18 21:36:20.620642 [GameController] {Main} GameAccount added to family: family=WTCG account=GameAccount(WTCG:retail region=KR)
+D 2020-11-18 21:36:20.620654 [GameController] {Main} Adding product state reference. uid=hs_beta refCount=0
+D 2020-11-18 21:36:20.620691 [GameController] {Main} Visibility Changed. family=WTCG visible=1
+D 2020-11-18 21:36:20.620916 [GameController] {Main} Game Family Added: id=WoW visible=0
+D 2020-11-18 21:36:20.620952 [ProductState] {Main} Game product state created: uid=wow
+D 2020-11-18 21:36:20.620961 [ProductState] {Main} InstallState (wow): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.621000 [GameController] {Main} GameAccount added to family: family=WoW account=GameAccount(WoW:retail region=KR entity=2:300576f57:1700f6a name=WoW1)
+D 2020-11-18 21:36:20.621022 [GameController] {Main} Adding product state reference. uid=wow refCount=0
+D 2020-11-18 21:36:20.621062 [GameController] {Main} Visibility Changed. family=WoW visible=1
+D 2020-11-18 21:36:20.621279 [GameController] {Main} Game Family Added: id=ZEUS visible=0
+D 2020-11-18 21:36:20.621315 [ProductState] {Main} Game product state created: uid=zeus
+D 2020-11-18 21:36:20.621323 [ProductState] {Main} InstallState (zeus): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.621367 [GameController] {Main} GameAccount added to family: family=ZEUS account=GameAccount(ZEUS:retail region=KR unbound)
+D 2020-11-18 21:36:20.621381 [GameController] {Main} Adding product state reference. uid=zeus refCount=0
+D 2020-11-18 21:36:20.621419 [GameController] {Main} Visibility Changed. family=ZEUS visible=1
+D 2020-11-18 21:36:20.621646 [ProductState] {Main} Game product state created: uid=s2_ptr
+D 2020-11-18 21:36:20.621657 [ProductState] {Main} InstallState (s2_ptr): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.621696 [GameController] {Main} GameAccount added to family: family=S2 account=GameAccount(S2:ptr region=XX)
+D 2020-11-18 21:36:20.621711 [GameController] {Main} Adding product state reference. uid=s2_ptr refCount=0
+D 2020-11-18 21:36:20.621994 [ProductState] {Main} Game product state created: uid=s1_ptr
+D 2020-11-18 21:36:20.622005 [ProductState] {Main} InstallState (s1_ptr): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.622046 [GameController] {Main} GameAccount added to family: family=S1 account=GameAccount(S1:ptr region=XX)
+D 2020-11-18 21:36:20.622061 [GameController] {Main} Adding product state reference. uid=s1_ptr refCount=0
+D 2020-11-18 21:36:20.622378 [ProductState] {Main} Game product state created: uid=wow_classic
+D 2020-11-18 21:36:20.622402 [ProductState] {Main} InstallState (wow_classic): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.622473 [GameController] {Main} GameAccount added to family: family=WoW account=GameAccount(WoW:wow_classic region=KR entity=2:300576f57:1700f6a name=WoW1)
+D 2020-11-18 21:36:20.622510 [GameController] {Main} Adding product state reference. uid=wow_classic refCount=0
+D 2020-11-18 21:36:20.622812 [ProductState] {Main} Game product state created: uid=odin_beta
+D 2020-11-18 21:36:20.622838 [ProductState] {Main} InstallState (odin_beta): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.622906 [GameController] {Main} GameAccount added to family: family=ODIN account=GameAccount(ODIN:beta region=KR hidden)
+D 2020-11-18 21:36:20.622924 [GameController] {Main} Adding product state reference. uid=odin_beta refCount=0
+D 2020-11-18 21:36:20.623224 [ProductState] {Main} Game product state created: uid=heroes_ptr
+D 2020-11-18 21:36:20.623235 [ProductState] {Main} InstallState (heroes_ptr): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.623287 [GameController] {Main} GameAccount added to family: family=Hero account=GameAccount(Hero:ptr region=XX)
+D 2020-11-18 21:36:20.623308 [GameController] {Main} Adding product state reference. uid=heroes_ptr refCount=0
+D 2020-11-18 21:36:20.623712 [ProductState] {Main} Game product state created: uid=zeus_beta
+D 2020-11-18 21:36:20.623734 [ProductState] {Main} InstallState (zeus_beta): currentOperation=Install currentOperationStatus=New
+I 2020-11-18 21:36:20.623857 [GameController] {Main} GameAccount added to family: family=ZEUS account=GameAccount(ZEUS:beta region=KR hidden)
+D 2020-11-18 21:36:20.623880 [GameController] {Main} Adding product state reference. uid=zeus_beta refCount=0
+I 2020-11-18 21:36:20.633765 [GameController] {Main} Setting default selections for game controller
+D 2020-11-18 21:36:20.633794 [GameController] {Main} Picked default selection by type for product group: Hero account=GameAccount(Hero:retail region=KR)
+D 2020-11-18 21:36:20.635506 [GameController] {Main} Selected region change: GameAccount(Hero:retail region=KR)
+D 2020-11-18 21:36:20.635520 [GameController] {Main} Region changed for selected game account: GameAccount(Hero:retail region=KR)
+D 2020-11-18 21:36:20.635691 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/Hero/alert?targetRegion=KR
+D 2020-11-18 21:36:20.635716 [GameController] {Main} New selection for product group Hero: account=GameAccount(Hero:retail region=KR) selectedItem=히어로즈 오브 더 스톰
+D 2020-11-18 21:36:20.635738 [GameController] {Main} Picked default selection by type for product group: Pro account=GameAccount(Pro:retail region=KR unbound)
+D 2020-11-18 21:36:20.636911 [GameController] {Main} Selected region change: GameAccount(Pro:retail region=KR unbound)
+D 2020-11-18 21:36:20.636924 [GameController] {Main} Region changed for selected game account: GameAccount(Pro:retail region=KR unbound)
+D 2020-11-18 21:36:20.637057 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/overwatch/alert?targetRegion=KR
+D 2020-11-18 21:36:20.637075 [GameController] {Main} New selection for product group Pro: account=GameAccount(Pro:retail region=KR unbound) selectedItem=오버워치
+D 2020-11-18 21:36:20.637097 [GameController] {Main} Picked default selection by type for product group: VIPR account=GameAccount(VIPR:retail region=KR unbound)
+D 2020-11-18 21:36:20.638473 [GameController] {Main} Selected region change: GameAccount(VIPR:retail region=KR unbound)
+D 2020-11-18 21:36:20.638498 [GameController] {Main} Region changed for selected game account: GameAccount(VIPR:retail region=KR unbound)
+D 2020-11-18 21:36:20.638673 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/VIPR/alert?targetRegion=KR
+D 2020-11-18 21:36:20.638696 [GameController] {Main} New selection for product group VIPR: account=GameAccount(VIPR:retail region=KR unbound) selectedItem=콜 오브 듀티: 블랙 옵스 4
+D 2020-11-18 21:36:20.638723 [GameController] {Main} Picked default selection by type for product group: AUKS account=GameAccount(null)
+D 2020-11-18 21:36:20.638733 [GameController] {Main} Picked default selection by type for product group: D3 account=GameAccount(D3:retail region=US)
+D 2020-11-18 21:36:20.640372 [GameController] {Main} New selection for product group D3: account=GameAccount(D3:retail region=US) selectedItem=디아블로 III
+D 2020-11-18 21:36:20.640564 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/D3/alert?targetRegion=US
+D 2020-11-18 21:36:20.640594 [GameController] {Main} Picked default selection by type for product group: ZEUS account=GameAccount(ZEUS:retail region=KR unbound)
+D 2020-11-18 21:36:20.641784 [GameController] {Main} New selection for product group ZEUS: account=GameAccount(ZEUS:retail region=KR unbound) selectedItem=콜 오브 듀티: 블랙 옵스 콜드 워
+D 2020-11-18 21:36:20.641939 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/zeus/alert?targetRegion=KR
+D 2020-11-18 21:36:20.641963 [GameController] {Main} Picked default selection by type for product group: WTCG account=GameAccount(WTCG:retail region=KR)
+D 2020-11-18 21:36:20.643146 [GameController] {Main} Selected region change: GameAccount(WTCG:retail region=KR)
+D 2020-11-18 21:36:20.643159 [GameController] {Main} Region changed for selected game account: GameAccount(WTCG:retail region=KR)
+D 2020-11-18 21:36:20.643296 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/WTCG/alert?targetRegion=KR
+D 2020-11-18 21:36:20.643318 [GameController] {Main} New selection for product group WTCG: account=GameAccount(WTCG:retail region=KR) selectedItem=하스스톤
+D 2020-11-18 21:36:20.643336 [GameController] {Main} Picked default selection by type for product group: D3CN account=GameAccount(null)
+D 2020-11-18 21:36:20.643349 [GameController] {Main} Picked default selection by type for product group: S1 account=GameAccount(S1:retail region=KR unbound)
+D 2020-11-18 21:36:20.644664 [GameController] {Main} Selected region change: GameAccount(S1:retail region=KR unbound)
+D 2020-11-18 21:36:20.644676 [GameController] {Main} Region changed for selected game account: GameAccount(S1:retail region=KR unbound)
+D 2020-11-18 21:36:20.644805 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/S1/alert?targetRegion=KR
+D 2020-11-18 21:36:20.644823 [GameController] {Main} New selection for product group S1: account=GameAccount(S1:retail region=KR unbound) selectedItem=스타크래프트
+D 2020-11-18 21:36:20.644847 [GameController] {Main} Picked default selection by type for product group: ODIN account=GameAccount(ODIN:retail region=KR unbound)
+D 2020-11-18 21:36:20.646034 [GameController] {Main} Selected region change: GameAccount(ODIN:retail region=KR unbound)
+D 2020-11-18 21:36:20.646048 [GameController] {Main} Region changed for selected game account: GameAccount(ODIN:retail region=KR unbound)
+D 2020-11-18 21:36:20.646179 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/odin/alert?targetRegion=KR
+D 2020-11-18 21:36:20.646197 [GameController] {Main} New selection for product group ODIN: account=GameAccount(ODIN:retail region=KR unbound) selectedItem=콜 오브 듀티: 모던 워페어
+D 2020-11-18 21:36:20.646222 [GameController] {Main} Picked default selection by type for product group: S2 account=GameAccount(S2:retail region=KR)
+D 2020-11-18 21:36:20.647531 [GameController] {Main} Selected region change: GameAccount(S2:retail region=KR)
+D 2020-11-18 21:36:20.647544 [GameController] {Main} Region changed for selected game account: GameAccount(S2:retail region=KR)
+D 2020-11-18 21:36:20.647672 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/S2/alert?targetRegion=KR
+D 2020-11-18 21:36:20.647692 [GameController] {Main} New selection for product group S2: account=GameAccount(S2:retail region=KR) selectedItem=스타크래프트 II
+D 2020-11-18 21:36:20.647718 [GameController] {Main} Picked default selection by type for product group: WoW account=GameAccount(WoW:retail region=KR entity=2:300576f57:1700f6a name=WoW1)
+D 2020-11-18 21:36:20.648499 [GameController] {Main} New selection for product group WoW: account=GameAccount(WoW:retail region=KR entity=2:300576f57:1700f6a name=WoW1) selectedItem=
+D 2020-11-18 21:36:20.648640 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/WoW/alert?targetRegion=KR
+D 2020-11-18 21:36:20.648662 [GameController] {Main} Picked default selection by type for product group: LAZR account=GameAccount(LAZR:retail region=KR unbound)
+D 2020-11-18 21:36:20.649822 [GameController] {Main} Selected region change: GameAccount(LAZR:retail region=KR unbound)
+D 2020-11-18 21:36:20.649856 [GameController] {Main} Region changed for selected game account: GameAccount(LAZR:retail region=KR unbound)
+D 2020-11-18 21:36:20.649993 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/lazr/alert?targetRegion=KR
+D 2020-11-18 21:36:20.650010 [GameController] {Main} New selection for product group LAZR: account=GameAccount(LAZR:retail region=KR unbound) selectedItem=콜 오브 듀티: 모던 워페어 2 캠페인 리마스터
+D 2020-11-18 21:36:20.650046 [GameController] {Main} Picked default selection by type for product group: FORE account=GameAccount(null)
+D 2020-11-18 21:36:20.650065 [GameController] {Main} Picked default selection by type for product group: Fen account=GameAccount(null)
+D 2020-11-18 21:36:20.650086 [GameController] {Main} Picked default selection by type for product group: W3 account=GameAccount(W3:retail region=KR unbound)
+D 2020-11-18 21:36:20.651270 [GameController] {Main} Selected region change: GameAccount(W3:retail region=KR unbound)
+D 2020-11-18 21:36:20.651283 [GameController] {Main} Region changed for selected game account: GameAccount(W3:retail region=KR unbound)
+D 2020-11-18 21:36:20.651413 [RemoteContentCache] {Main} Found cached remote content. url=https://nydus.battle.net/App/koKR/client/war3r/alert?targetRegion=KR
+D 2020-11-18 21:36:20.651431 [GameController] {Main} New selection for product group W3: account=GameAccount(W3:retail region=KR unbound) selectedItem=워크래프트 III
+I 2020-11-18 21:36:20.651480 [GameController] {Main} Selecting game by uid. uid=hs_beta prioritizeUpdate=1
+D 2020-11-18 21:36:20.651495 [GameController] {Main} Active family set to: WTCG
+D 2020-11-18 21:36:20.673188 [GameController] {Main} Active product set to: WTCG_retail
+I 2020-11-18 21:36:20.676865 [GameController] {Main} Prioritize Update: uid=hs_beta
+I 2020-11-18 21:36:20.766522 [GameController] {Main} GameController initialization complete
+I 2020-11-18 21:36:20.778760 [StartupGameSearch] {Main} Skipping automated search for unregistered games
+W 2020-11-18 21:36:20.778781 [InstallManager] {Main} Skipping search for unregistered games.
+I 2020-11-18 21:36:20.778786 [InstallManager] {Main} Searching for unregistered games finished.
+I 2020-11-18 21:36:20.778808 [StartupGameSearch] {Main} Completed automated search for unregistered games
+I 2020-11-18 21:36:20.778814 [InstallFlow] {Main} No longer waiting for game registration search to complete.
+I 2020-11-18 21:36:20.780542 [BAPIGateway] {Main} Processing request queue, count: 2
+D 2020-11-18 21:36:20.780563 [BAPIGateway] {Main} API request: https://kr.api.blizzard.com/OptInService/v1/GetAccountLegalConsentOptIns
+D 2020-11-18 21:36:20.783755 [BAPIGateway] {Main} API request: https://kr.api.blizzard.com/AccountInventoryService/v1/GetNewInventoryItemCount
+D 2020-11-18 21:36:20.786597 [GSAccountProvider] {Main} Completed final load.
+I 2020-11-18 21:36:20.960535 [ChannelV2] {Main} ChannelV2 membership subscription created.
+I 2020-11-18 21:36:20.983229 [Clubs] {Main} Club membership subscription created: |accountId=|id=12382595
+D 2020-11-18 21:36:22.404198 [BAPIGateway] {Main} API response: Unauthorized content=
+W 2020-11-18 21:36:22.404237 [BAPIGateway] {Main} Bad or missing auth, queuing request and creating new token
+I 2020-11-18 21:36:22.404242 [BAPIGateway] {Main} Fetching new auth token
+E 2020-11-18 21:36:22.408584 [InventoryController] {Main} GetInventoryInfo error: 5300
+D 2020-11-18 21:36:22.423818 [BAPIGateway] {Main} API response: Unauthorized content=
+W 2020-11-18 21:36:22.423837 [BAPIGateway] {Main} Bad or missing auth, queuing request and creating new token
+I 2020-11-18 21:36:23.323923 [BAPIGateway] {Main} New auth token received
+I 2020-11-18 21:36:23.333211 [BAPIGateway] {Main} Processing request queue, count: 2
+D 2020-11-18 21:36:23.333242 [BAPIGateway] {Main} API request: https://kr.api.blizzard.com/AccountInventoryService/v1/GetNewInventoryItemCount
+D 2020-11-18 21:36:23.336137 [BAPIGateway] {Main} API request: https://kr.api.blizzard.com/OptInService/v1/GetAccountLegalConsentOptIns
+D 2020-11-18 21:36:23.573883 [BAPIGateway] {Main} API response: OK content={"error":null,"optInSelections":[{"typeId":21,"isOptedIn":false},{"typeId":22,"isOptedIn":false},{"typeId":24,"isOptedIn":false},{"typeId":29,"isOptedIn":false}]}
+D 2020-11-18 21:36:23.615003 [BAPIGateway] {Main} API response: OK content={"error":null,"newCount":0,"totalCount":0}
+D 2020-11-18 21:36:23.615051 [InventoryController] {Main} Inventory changed, new: 0 total: 0
+I 2020-11-18 21:36:23.618819 [GameController] {Main} LaunchBinary: uid=hs_beta selectedRegion=KR binaryType=game
+D 2020-11-18 21:36:23.625316 [InstallInfo] {Main} Operation status changed: opType=Execute oldStatus=Off newStatus=Pending agentUid=hs_beta
+D 2020-11-18 21:36:23.625379 [ProductState] {Main} InstallState (hs_beta): GameLaunching=1
+I 2020-11-18 21:36:23.895781 [InstallManager] {Main} Game launch options: programId=WTCG GAME_ACCOUNT= REGION=KR LOCALE=koKR LOCALE_AUDIO=koKR LAUNCH_64BIT=0
+I 2020-11-18 21:36:23.896330 [InstallManager] {Main} Game launch options: programId=WTCG ACCOUNT=(hidden) ACCOUNT_TS=1605735383
+I 2020-11-18 21:36:24.194210 [GameSessionList] {Agent} Reporting process: TrackingInfo(uid=battle.net, type=game, opStatus=On, reqId=0, running=4, oldRunning=4)
+I 2020-11-18 21:36:24.217768 [InstallManager] {Main} Launched D:/Hearthstone/Hearthstone.exe with args: -launch -uid hs_beta, pid: 7680
+I 2020-11-18 21:36:24.224338 [InstallManager] {Main} Setting Process Running: true uid=battle.net binaryType=game any=true
+I 2020-11-18 21:36:27.307117 [GameSessionList] {Agent} Reporting process: TrackingInfo(uid=hs_beta, type=game, opStatus=On, reqId=0, running=1, oldRunning=0)
+I 2020-11-18 21:36:27.313717 [InstallManager] {Main} Setting Process Running: true uid=hs_beta binaryType=game any=true
+D 2020-11-18 21:36:27.313757 [InstallInfo] {Main} Operation status changed: opType=Execute oldStatus=Pending newStatus=On agentUid=hs_beta
+D 2020-11-18 21:36:27.313780 [InstallManager] {Main} Game is running: hs_beta
+D 2020-11-18 21:36:27.323531 [ProductState] {Main} InstallState (hs_beta): gameRunning=1 isGameProcessRunning=1 GameLaunching=0
+I 2020-11-18 21:36:45.173653 [PresenceSubscriptions] {Main} Re-up cancelled subscription: 2:357544347:19fa11a with priority: 1002
+D 2020-11-18 21:36:56.191272 [GameController] {Main} Shutting down GameController
+D 2020-11-18 21:36:56.191465 [ProductState] {Main} Game product state destroyed: uid=
+D 2020-11-18 21:36:56.191489 [ProductState] {Main} Game product state destroyed: uid=fore
+D 2020-11-18 21:36:56.191501 [ProductState] {Main} Game product state destroyed: uid=d3cn
+D 2020-11-18 21:36:56.191509 [ProductState] {Main} Game product state destroyed: uid=auks
+D 2020-11-18 21:36:56.191528 [ProductState] {Main} Game product state destroyed: uid=fenris
+D 2020-11-18 21:36:56.191605 [ProductState] {Main} Game product state destroyed: uid=wow
+D 2020-11-18 21:36:56.191621 [ProductState] {Main} Game product state destroyed: uid=wow_classic
+D 2020-11-18 21:36:56.191672 [ProductState] {Main} Game product state destroyed: uid=prometheus
+D 2020-11-18 21:36:56.191724 [ProductState] {Main} Game product state destroyed: uid=hs_beta
+D 2020-11-18 21:36:56.191819 [ProductState] {Main} Game product state destroyed: uid=w3
+D 2020-11-18 21:36:56.191884 [ProductState] {Main} Game product state destroyed: uid=diablo3
+D 2020-11-18 21:36:56.191933 [ProductState] {Main} Game product state destroyed: uid=heroes_ptr
+D 2020-11-18 21:36:56.191952 [ProductState] {Main} Game product state destroyed: uid=heroes
+D 2020-11-18 21:36:56.191985 [ProductState] {Main} Game product state destroyed: uid=s2_ptr
+D 2020-11-18 21:36:56.192001 [ProductState] {Main} Game product state destroyed: uid=s2
+D 2020-11-18 21:36:56.192032 [ProductState] {Main} Game product state destroyed: uid=s1_ptr
+D 2020-11-18 21:36:56.192048 [ProductState] {Main} Game product state destroyed: uid=s1
+D 2020-11-18 21:36:56.192081 [ProductState] {Main} Game product state destroyed: uid=odin_beta
+D 2020-11-18 21:36:56.192095 [ProductState] {Main} Game product state destroyed: uid=odin
+D 2020-11-18 21:36:56.192122 [ProductState] {Main} Game product state destroyed: uid=viper
+D 2020-11-18 21:36:56.192155 [ProductState] {Main} Game product state destroyed: uid=lazarus
+D 2020-11-18 21:36:56.192184 [ProductState] {Main} Game product state destroyed: uid=zeus_beta
+D 2020-11-18 21:36:56.192200 [ProductState] {Main} Game product state destroyed: uid=zeus
+I 2020-11-18 21:36:56.192748 [ToastManager] {Main} Clearing toast queue
+D 2020-11-18 21:36:57.804694 [Main] {Main} Shutting down Backend
+D 2020-11-18 21:36:57.804713 [Main] {Main} Closing IPC Service
+D 2020-11-18 21:36:57.804717 [CommandQueue] {Main} IPCService is shutting down
+D 2020-11-18 21:36:57.804953 [Main] {Main} Shutting down account manager
+I 2020-11-18 21:36:57.804975 [GSStateTracker] {Main} State changed to: Incomplete
+I 2020-11-18 21:36:57.804981 [AccountManager] {Main} Account manager state has changed to: Incomplete
+I 2020-11-18 21:36:57.804998 [GameProvider] {Main} Game provider is no longer initialized and is now reset
+D 2020-11-18 21:36:57.805135 [Main] {Main} Shutting down CacheManager
+D 2020-11-18 21:36:57.805140 [Main] {Main} Shutting down analytics processor
+D 2020-11-18 21:36:57.805422 [Main] {Main} Shutting down worker pool
+D 2020-11-18 21:36:57.806118 [Main] {Main} Shutting down backend processor
+D 2020-11-18 21:36:57.807650 [Main] {Main} Shutting down data cache
+D 2020-11-18 21:36:57.808564 [Main] {Main} Shutting down catalog manager
+D 2020-11-18 21:36:57.808877 [Main] {Main} Shutting down environment manager
+D 2020-11-18 21:36:57.808898 [Main] {Main} Shutting down battle.net api gateway
+D 2020-11-18 21:36:57.808902 [Main] {Main} Shutting down suggested friends service
+D 2020-11-18 21:36:57.808907 [Main] {Main} Shutting down voice service
+D 2020-11-18 21:36:57.808910 [Main] {Main} Shutting down remote content manager
+D 2020-11-18 21:36:57.808913 [Main] {Main} Shutting down analytics session
+D 2020-11-18 21:36:57.808915 [Main] {Main} Shutting down agent manager
+D 2020-11-18 21:36:57.808921 [Agent] {Main} PolicyHandler Thread STOPPING
+D 2020-11-18 21:36:57.808931 [Agent] {Agent} PolicyHandlerThreadProc: The rest is silence.
+D 2020-11-18 21:36:57.809348 [Agent] {Main} PolicyHandler Thread STOPPED
+D 2020-11-18 21:36:57.812288 [Agent] {Main} Communicated shutdown to Agent
+D 2020-11-18 21:36:57.812542 [Main] {Main} Shutting down game provider
+D 2020-11-18 21:36:57.812574 [Main] {Main} Shutting down battle.net interface
+D 2020-11-18 21:36:58.112632 [Main] {Main} Shutting down callback queue
+D 2020-11-18 21:36:58.112714 [WebServer] {Main} Shutting down WebServerImpl
+D 2020-11-18 21:36:58.113164 [WebServer] {Main} WebServerImpl is stopped
+D 2020-11-18 21:36:58.233590 [DIAG_BNL_Voice] {Main} {3c5c} debug: Notification client reference removed: 0

@@ -1,0 +1,15 @@
+I 2020-11-21 20:31:24.649608 [Main] {Main} Logging started for Battle.net build 1.29.0.12511
+I 2020-11-21 20:31:24.649981 [Configuration] {Main} SharedConfigRoot: C:\ProgramData\Battle.net
+I 2020-11-21 20:31:24.650345 [Configuration] {Main} RoamingConfigRoot: C:\Users\USER\AppData\Roaming\Battle.net
+I 2020-11-21 20:31:24.650355 [Configuration] {Main} LocalConfigRoot: C:\Users\USER\AppData\Local\Battle.net
+D 2020-11-21 20:31:24.650509 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.12511\Battle.net.config
+D 2020-11-21 20:31:24.650570 [Configuration] {Main} Searching for config file: C:\Program Files (x86)\Battle.net\Battle.net.config
+D 2020-11-21 20:31:24.650997 [Configuration] {Main} User Configuration File: C:\Users\USER\AppData\Roaming\Battle.net\Battle.net.config
+I 2020-11-21 20:31:24.652324 [Main] {Main} Command line arguments: {[0]=--game=hs_beta, [1]=--gamepath=D:\Hearthstone}
+I 2020-11-21 20:31:24.653775 [Main] {Main} Opening IPC shared memory. queueName=User:USER:Battle.net IPC ShMem mode=client
+I 2020-11-21 20:31:24.653875 [CommandQueue] {Main} Dispatching Command: register hs_beta D:\Hearthstone  
+I 2020-11-21 20:31:24.653907 [Main] {Main} Leaving because another instance of battle.net is running
+D 2020-11-21 20:31:24.653921 [Main] {Main} Shutting down Backend
+D 2020-11-21 20:31:24.653926 [Main] {Main} Closing IPC Service
+D 2020-11-21 20:31:24.653929 [CommandQueue] {Main} IPCService is shutting down
+D 2020-11-21 20:31:24.653958 [Main] {Main} Shutting down callback queue

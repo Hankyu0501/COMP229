@@ -1,0 +1,1876 @@
+2020-04-24 23:06:30.780: Logging Unity output to: C:/Users/USER/AppData/Local/Blizzard/Hearthstone/Logs/hearthstone_2020_04_24_23_06_30.log
+2020-04-24 23:06:30.795: Command Line: -launch -uid hs_beta
+2020-04-24 23:06:31.143: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/actors0.unity3d, 17246460
+2020-04-24 23:06:31.502: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds0.unity3d, 5469889
+2020-04-24 23:06:31.503: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds1.unity3d, 5114613
+2020-04-24 23:06:31.503: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds2.unity3d, 4533111
+2020-04-24 23:06:31.504: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds3.unity3d, 5292573
+2020-04-24 23:06:31.619: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds4.unity3d, 15640941
+2020-04-24 23:06:31.710: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds5.unity3d, 12600603
+2020-04-24 23:06:31.711: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds6.unity3d, 14346948
+2020-04-24 23:06:31.711: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds7.unity3d, 9338154
+2020-04-24 23:06:31.712: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds9.unity3d, 9284468
+2020-04-24 23:06:31.712: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds10.unity3d, 5702535
+2020-04-24 23:06:31.713: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds11.unity3d, 15569017
+2020-04-24 23:06:31.714: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds12.unity3d, 7362533
+2020-04-24 23:06:31.731: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds8.unity3d, 8416879
+2020-04-24 23:06:31.734: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds13.unity3d, 5944684
+2020-04-24 23:06:31.736: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds14.unity3d, 6872214
+2020-04-24 23:06:31.737: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds15.unity3d, 12337746
+2020-04-24 23:06:31.738: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds16.unity3d, 8388985
+2020-04-24 23:06:31.739: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds17.unity3d, 18404088
+2020-04-24 23:06:31.740: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds18.unity3d, 4932324
+2020-04-24 23:06:31.756: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds19.unity3d, 5501323
+2020-04-24 23:06:31.757: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/soundskokr0.unity3d, 3856173
+2020-04-24 23:06:31.758: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/soundskokr1.unity3d, 3051151
+2020-04-24 23:06:31.759: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/soundskokr2.unity3d, 3299493
+2020-04-24 23:06:31.759: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/soundskokr3.unity3d, 7996182
+2020-04-24 23:06:31.760: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/soundskokr4.unity3d, 3576089
+2020-04-24 23:06:31.760: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/boards0.unity3d, 15427673
+2020-04-24 23:06:31.761: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/boards3.unity3d, 25585599
+2020-04-24 23:06:31.775: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/boards1.unity3d, 26333480
+2020-04-24 23:06:31.776: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/boards2.unity3d, 17333007
+2020-04-24 23:06:31.788: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/boards4.unity3d, 27144285
+2020-04-24 23:06:31.852: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardbacks0.unity3d, 52530508
+2020-04-24 23:06:31.853: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cards0.unity3d, 4482602
+2020-04-24 23:06:31.869: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials0.unity3d, 21546623
+2020-04-24 23:06:31.870: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials2.unity3d, 22648734
+2020-04-24 23:06:31.870: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials5.unity3d, 19796843
+2020-04-24 23:06:31.871: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials6.unity3d, 19641390
+2020-04-24 23:06:31.872: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials7.unity3d, 22224765
+2020-04-24 23:06:31.873: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials8.unity3d, 21361672
+2020-04-24 23:06:31.885: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials9.unity3d, 22460902
+2020-04-24 23:06:31.886: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh0.unity3d, 47557158
+2020-04-24 23:06:31.887: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh1.unity3d, 48612664
+2020-04-24 23:06:31.888: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh2.unity3d, 45215892
+2020-04-24 23:06:31.889: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh4.unity3d, 48666262
+2020-04-24 23:06:31.889: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh5.unity3d, 44297222
+2020-04-24 23:06:31.890: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh6.unity3d, 41290971
+2020-04-24 23:06:31.891: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh7.unity3d, 41392414
+2020-04-24 23:06:31.902: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials1.unity3d, 23152139
+2020-04-24 23:06:31.903: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh3.unity3d, 43874053
+2020-04-24 23:06:31.904: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh8.unity3d, 43420737
+2020-04-24 23:06:31.904: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh9.unity3d, 49979897
+2020-04-24 23:06:31.905: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh11.unity3d, 47838905
+2020-04-24 23:06:31.906: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh12.unity3d, 43253121
+2020-04-24 23:06:31.907: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh14.unity3d, 46107556
+2020-04-24 23:06:31.919: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials3.unity3d, 23116364
+2020-04-24 23:06:31.920: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh13.unity3d, 46165488
+2020-04-24 23:06:31.920: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh15.unity3d, 42274295
+2020-04-24 23:06:31.921: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh16.unity3d, 43729478
+2020-04-24 23:06:31.922: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh17.unity3d, 41746955
+2020-04-24 23:06:31.922: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh19.unity3d, 44619313
+2020-04-24 23:06:31.923: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshighkokr0.unity3d, 648881
+2020-04-24 23:06:31.923: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic0.unity3d, 15331962
+2020-04-24 23:06:31.924: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic1.unity3d, 61891308
+2020-04-24 23:06:31.925: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic2.unity3d, 11473859
+2020-04-24 23:06:31.925: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic3.unity3d, 28902548
+2020-04-24 23:06:31.926: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic4.unity3d, 19841590
+2020-04-24 23:06:31.926: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic6.unity3d, 38097194
+2020-04-24 23:06:31.927: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic7.unity3d, 22957738
+2020-04-24 23:06:31.928: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/fonts0.unity3d, 4802589
+2020-04-24 23:06:31.928: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/fontskokr0.unity3d, 1692577
+2020-04-24 23:06:31.940: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic8.unity3d, 53908559
+2020-04-24 23:06:31.940: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects0.unity3d, 22816944
+2020-04-24 23:06:31.954: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic5.unity3d, 22104728
+2020-04-24 23:06:31.955: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects1.unity3d, 12439981
+2020-04-24 23:06:31.956: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects4.unity3d, 15938852
+2020-04-24 23:06:31.971: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh18.unity3d, 45046031
+2020-04-24 23:06:31.972: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects2.unity3d, 19298035
+2020-04-24 23:06:31.973: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects5.unity3d, 16352787
+2020-04-24 23:06:31.988: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects7.unity3d, 18668675
+2020-04-24 23:06:31.989: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects8.unity3d, 17476169
+2020-04-24 23:06:32.006: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh10.unity3d, 40462732
+2020-04-24 23:06:32.007: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects3.unity3d, 18267818
+2020-04-24 23:06:32.007: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects9.unity3d, 19644539
+2020-04-24 23:06:32.021: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects6.unity3d, 16269619
+2020-04-24 23:06:32.021: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects11.unity3d, 16630796
+2020-04-24 23:06:32.040: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials4.unity3d, 22105153
+2020-04-24 23:06:32.041: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects10.unity3d, 23233939
+2020-04-24 23:06:32.042: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects13.unity3d, 24922923
+2020-04-24 23:06:32.058: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects12.unity3d, 20792812
+2020-04-24 23:06:32.058: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/legendarystingers0.unity3d, 4399741
+2020-04-24 23:06:32.059: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds0.unity3d, 33688116
+2020-04-24 23:06:32.078: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds2.unity3d, 35760143
+2020-04-24 23:06:32.079: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds3.unity3d, 36431468
+2020-04-24 23:06:32.091: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/heromusic0.unity3d, 38634335
+2020-04-24 23:06:32.092: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds5.unity3d, 35205411
+2020-04-24 23:06:32.106: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds9.unity3d, 34637696
+2020-04-24 23:06:32.106: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr0.unity3d, 38275360
+2020-04-24 23:06:32.126: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds1.unity3d, 37797024
+2020-04-24 23:06:32.127: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds7.unity3d, 34705646
+2020-04-24 23:06:32.139: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds6.unity3d, 35565183
+2020-04-24 23:06:32.154: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds8.unity3d, 34777044
+2020-04-24 23:06:32.155: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr3.unity3d, 42785393
+2020-04-24 23:06:32.169: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic9.unity3d, 19523545
+2020-04-24 23:06:32.170: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds4.unity3d, 33169842
+2020-04-24 23:06:32.171: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr5.unity3d, 43687783
+2020-04-24 23:06:32.184: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr1.unity3d, 42455378
+2020-04-24 23:06:32.187: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr2.unity3d, 39005353
+2020-04-24 23:06:32.188: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr4.unity3d, 43537630
+2020-04-24 23:06:32.204: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr6.unity3d, 44225095
+2020-04-24 23:06:32.205: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr7.unity3d, 42147860
+2020-04-24 23:06:32.205: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr8.unity3d, 41392614
+2020-04-24 23:06:32.206: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr9.unity3d, 43454010
+2020-04-24 23:06:32.226: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/otherminionsounds0.unity3d, 58500133
+2020-04-24 23:06:32.227: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/otherminionsounds2.unity3d, 59042250
+2020-04-24 23:06:32.245: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/otherminionsounds1.unity3d, 56629975
+2020-04-24 23:06:32.245: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/otherminionsoundskokr0.unity3d, 54134888
+2020-04-24 23:06:32.346: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/otherminionsoundskokr1.unity3d, 55321167
+2020-04-24 23:06:32.348: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/playsounds0.unity3d, 47507993
+2020-04-24 23:06:32.370: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/playsounds2.unity3d, 45774514
+2020-04-24 23:06:32.386: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/otherminionsoundskokr2.unity3d, 53560888
+2020-04-24 23:06:32.387: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/playsounds1.unity3d, 46959165
+2020-04-24 23:06:32.410: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/uiscreens0.unity3d, 9357798
+2020-04-24 23:06:32.430: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/playsoundskokr0.unity3d, 53643977
+2020-04-24 23:06:32.455: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spellsounds0.unity3d, 56341603
+2020-04-24 23:06:32.472: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spellsounds1.unity3d, 52330980
+2020-04-24 23:06:32.536: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells0.unity3d, 25975916
+2020-04-24 23:06:32.644: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells2.unity3d, 24017160
+2020-04-24 23:06:32.693: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells1.unity3d, 24167889
+2020-04-24 23:06:32.763: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells3.unity3d, 21699018
+2020-04-24 23:06:32.827: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells5.unity3d, 23240948
+2020-04-24 23:06:32.893: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells6.unity3d, 23674422
+2020-04-24 23:06:32.962: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells4.unity3d, 20603808
+2020-04-24 23:06:32.979: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textures0.unity3d, 24892204
+2020-04-24 23:06:33.001: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textures3.unity3d, 20982603
+2020-04-24 23:06:33.002: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textures4.unity3d, 21752473
+2020-04-24 23:06:33.003: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textures5.unity3d, 21797540
+2020-04-24 23:06:33.004: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textureskokr0.unity3d, 4887021
+2020-04-24 23:06:33.028: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/uberanimations0.unity3d, 852994
+2020-04-24 23:06:33.042: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/materials0.unity3d, 10645568
+2020-04-24 23:06:33.043: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/tutorial0.unity3d, 31575208
+2020-04-24 23:06:33.064: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/tutorial2.unity3d, 11267107
+2020-04-24 23:06:33.083: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/tutorial3.unity3d, 6166610
+2020-04-24 23:06:33.107: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/tutorial4.unity3d, 11546817
+2020-04-24 23:06:33.128: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/tutorial1.unity3d, 15718792
+2020-04-24 23:06:33.140: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/tutorialkokr0.unity3d, 6416342
+2020-04-24 23:06:33.154: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/scriptableobject0.unity3d, 11507
+2020-04-24 23:06:33.259: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells7.unity3d, 22609109
+2020-04-24 23:06:33.260: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textures2.unity3d, 18705579
+2020-04-24 23:06:33.275: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textures1.unity3d, 25270093
+2020-04-24 23:06:33.675: GAME_SAVE_SUBKEY DBF Asset has 0 records! Something went wrong generating it. Try checking the generated XMLs in the DBF folder.
+
+2020-04-24 23:06:33.676: GLOBAL DBF Asset has 0 records! Something went wrong generating it. Try checking the generated XMLs in the DBF folder.
+
+2020-04-24 23:06:34.052: *** BattleNet version: Product = 17.0.0.0, Data = 17001
+2020-04-24 23:06:34.906: System Info:
+2020-04-24 23:06:34.907: SystemInfo - Device Name: DESKTOP-13RIOQ2
+2020-04-24 23:06:34.908: SystemInfo - Device Model: GL63 8RD (Micro-Star International Co., Ltd.)
+2020-04-24 23:06:34.908: SystemInfo - OS: Windows 10  (10.0.0) 64bit
+2020-04-24 23:06:34.909: SystemInfo - CPU Type: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+2020-04-24 23:06:34.909: SystemInfo - CPU Cores: 12
+2020-04-24 23:06:34.910: SystemInfo - System Memory: 8036
+2020-04-24 23:06:34.910: SystemInfo - Screen Resolution: 1920x1080
+2020-04-24 23:06:34.911: SystemInfo - Screen DPI: 120
+2020-04-24 23:06:34.912: SystemInfo - GPU ID: 7308
+2020-04-24 23:06:34.912: SystemInfo - GPU Name: NVIDIA GeForce GTX 1050 Ti
+2020-04-24 23:06:34.913: SystemInfo - GPU Vendor: NVIDIA
+2020-04-24 23:06:34.914: SystemInfo - GPU Memory: 3072
+2020-04-24 23:06:34.916: SystemInfo - GPU Shader Level: 50
+2020-04-24 23:06:34.918: SystemInfo - GPU NPOT Support: Full
+2020-04-24 23:06:34.920: SystemInfo - Graphics API (version): Direct3D 11.0 [level 11.1]
+2020-04-24 23:06:34.921: SystemInfo - Graphics API (type): Direct3D11
+2020-04-24 23:06:34.921: SystemInfo - Graphics Supported Render Target Count: 8
+2020-04-24 23:06:34.922: SystemInfo - Graphics Supports 3D Textures: True
+2020-04-24 23:06:34.923: SystemInfo - Graphics Supports Compute Shaders: True
+2020-04-24 23:06:34.924: SystemInfo - Graphics Supports Image Effects: True
+2020-04-24 23:06:34.925: SystemInfo - Graphics Supports Render To Cubemap: True
+2020-04-24 23:06:34.925: SystemInfo - Graphics Supports Shadows: True
+2020-04-24 23:06:34.926: SystemInfo - Graphics Supports Sparse Textures: True
+2020-04-24 23:06:34.928: SystemInfo - Graphics RenderTextureFormat.ARGBHalf: True
+2020-04-24 23:06:34.928: SystemInfo - Graphics Metal Support: False
+2020-04-24 23:06:38.538: show postition = (0.0, 0.0, 0.0) (5.0, 5.0, 5.0)
+2020-04-24 23:06:40.888: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-24 23:06:40.889: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-24 23:06:40.890: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-24 23:06:40.890: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-24 23:06:40.891: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-24 23:06:40.892: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-24 23:06:40.892: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-24 23:06:40.893: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-24 23:06:40.893: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-24 23:06:40.894: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-24 23:06:40.895: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-24 23:06:40.896: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-24 23:06:40.898: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-24 23:06:40.900: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-24 23:06:40.900: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-24 23:06:40.901: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-24 23:06:46.069: Base User Folder  : C:/Users/USER/AppData/LocalLow/Blizzard Entertainment/Hearthstone
+2020-04-24 23:06:46.069: Base Global Folder: C:/Users/USER/AppData/LocalLow/Blizzard Entertainment
+2020-04-24 23:06:46.070: Base Common Folder: Telemetry
+2020-04-24 23:06:46.098: RegisterScreenBox tempGuardianVars=NetCache+NetCacheFeatures
+2020-04-24 23:06:46.381: [HealthyGaming] CAIS ServerEnabledForPlatform=False AccountCAISForChina=False Country=KOR TimeSec=16.96424 PlayedTimeMin=0 RestedTimeMin=0 SessionStartTime=3309145536
+2020-04-24 23:07:10.123: BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "BaseUI(Clone)/ChatMgr(Clone)/FriendListFrame(Clone)/ItemsList"
+2020-04-24 23:08:21.536: [BattleNet] [Games] Version mismatched. Client:17.0.0.0 Server:1540889 (Void LogWarning(System.String, System.String) at :0)
+2020-04-24 23:08:21.537: Network.GotoGameServer -- address= 110.45.208.54:1119, game=568, client=834811, spectateKey=pokmjP reconnecting=False
+2020-04-24 23:08:26.817: AddEventHandlerComponent: PlayMakerMouseEvents
+2020-04-24 23:08:28.575: Attempting to get subkey BACON_HAS_SEEN_FIRST_VICTORY_TUTORIAL from key BACON when the key has not been received by the client yet! (It's also possible the key hasn't been created on the DB yet - that case will be fixed with task HSTN-91409)
+2020-04-24 23:08:28.576: Attempting to get subkey BACON_HAS_SEEN_FIRST_DEFEAT_TUTORIAL from key BACON when the key has not been received by the client yet! (It's also possible the key hasn't been created on the DB yet - that case will be fixed with task HSTN-91409)
+2020-04-24 23:08:30.245: Beginning Experiment: Gameplay
+2020-04-24 23:08:31.251: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:31.273: AddEventHandlerComponent: PlayMakerLateUpdate
+2020-04-24 23:08:31.301: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:32.219: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:32.235: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:32.247: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:32.253: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:32.271: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:32.279: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:36.481: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:36.495: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:48.914: AddEventHandlerComponent: PlayMakerLateUpdate
+2020-04-24 23:08:48.961: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:48.990: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:48.997: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:49.004: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:49.011: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:49.020: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:49.035: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:49.050: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:50.666: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:50.673: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:50.680: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:50.686: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:50.692: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:50.697: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:50.700: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:08:56.675: SoundManager.UnregisterSourceByClip() - id 0 (source VO_ANNOUNCER_VERSUS_21(Clone) (UnityEngine.AudioSource)) is untracked. clip=VO_ANNOUNCER_VERSUS_21 (UnityEngine.AudioClip)
+
+2020-04-24 23:08:58.369: AddEventHandlerComponent: PlayMakerLateUpdate
+2020-04-24 23:09:00.469: AddEventHandlerComponent: PlayMakerLateUpdate
+2020-04-24 23:09:03.646: AddEventHandlerComponent: PlayMakerLateUpdate
+2020-04-24 23:09:04.722: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:09:04.724: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=헌신적인 영웅 id=168 zone=HAND zonePos=0 cardId=OG_221 player=2]
+2020-04-24 23:09:12.383: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:12.629: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:12.634: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:12.642: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:12.644: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:12.648: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:13.619: Animator.GotoState: State could not be found
+2020-04-24 23:09:13.620: Invalid Layer Index '-1'
+2020-04-24 23:09:13.633: Animator.GotoState: State could not be found
+2020-04-24 23:09:13.634: Invalid Layer Index '-1'
+2020-04-24 23:09:15.803: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:15.856: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:15.865: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:15.873: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:15.876: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:15.879: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:16.737: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:16.774: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:16.778: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:16.785: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:16.787: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:16.789: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:16.953: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:16.998: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.001: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.008: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.010: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.012: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.030: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.061: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.067: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.075: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.077: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.079: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.120: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.149: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.151: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.158: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.160: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:17.162: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:36.554: Timeline start event: (TasklistId: 71) ---- (Expected Duration: 6)
+2020-04-24 23:09:38.149: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:38.199: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:38.205: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:38.213: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:38.215: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:38.218: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:38.221: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:38.408: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:09:41.008: Task start event: (TasklistId: 85) ---- (Expected: 0 ---- (Actual: 4.454102))
+2020-04-24 23:09:42.520: Task end event: (TasklistId: 85) ---- (Expected: 4.5 ---- (Actual: 5.966644))
+2020-04-24 23:09:42.554: Task start event: (TasklistId: 86) ---- (Expected: 4.5 ---- (Actual: 5.999725))
+2020-04-24 23:09:42.596: Finish
+2020-04-24 23:09:44.137: Task end event: (TasklistId: 86) ---- (Expected: 6 ---- (Actual: 7.582977))
+2020-04-24 23:09:44.138: Timeline end event: (TasklistId: 86) ---- (Expected: 6) ---- (Actual: 7.582977)
+2020-04-24 23:09:45.190: Timeline start event: (TasklistId: 90) ---- (Expected Duration: 9)
+2020-04-24 23:09:46.100: Finish
+2020-04-24 23:09:46.656: Task start event: (TasklistId: 94) ---- (Expected: 0 ---- (Actual: 1.467209))
+2020-04-24 23:09:46.657: Task end event: (TasklistId: 94) ---- (Expected: 0.2 ---- (Actual: 1.468094))
+2020-04-24 23:09:48.402: Task start event: (TasklistId: 98) ---- (Expected: 0.2 ---- (Actual: 3.212509))
+2020-04-24 23:09:50.390: Finish
+2020-04-24 23:09:50.923: Task end event: (TasklistId: 98) ---- (Expected: 2.9 ---- (Actual: 5.732925))
+2020-04-24 23:09:50.939: Task start event: (TasklistId: 99) ---- (Expected: 2.9 ---- (Actual: 5.74884))
+2020-04-24 23:09:50.941: Task end event: (TasklistId: 99) ---- (Expected: 7.3 ---- (Actual: 5.750793))
+2020-04-24 23:09:53.802: Task start event: (TasklistId: 102) ---- (Expected: 7.3 ---- (Actual: 8.612427))
+2020-04-24 23:09:57.088: Task end event: (TasklistId: 102) ---- (Expected: 8.5 ---- (Actual: 11.89798))
+2020-04-24 23:09:57.226: Task start event: (TasklistId: 105) ---- (Expected: 8.5 ---- (Actual: 12.03577))
+2020-04-24 23:09:57.230: Task end event: (TasklistId: 105) ---- (Expected: 9 ---- (Actual: 12.03902))
+2020-04-24 23:09:57.232: Timeline end event: (TasklistId: 107) ---- (Expected: 9) ---- (Actual: 12.04166)
+2020-04-24 23:09:58.650: Finish
+2020-04-24 23:10:08.146: Animator.GotoState: State could not be found
+2020-04-24 23:10:08.147: Invalid Layer Index '-1'
+2020-04-24 23:10:08.167: Animator.GotoState: State could not be found
+2020-04-24 23:10:08.168: Invalid Layer Index '-1'
+2020-04-24 23:10:25.378: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:10:30.903: Timeline start event: (TasklistId: 152) ---- (Expected Duration: 6)
+2020-04-24 23:10:32.996: Task start event: (TasklistId: 164) ---- (Expected: 0 ---- (Actual: 2.09285))
+2020-04-24 23:10:34.503: Task end event: (TasklistId: 164) ---- (Expected: 4.5 ---- (Actual: 3.599442))
+2020-04-24 23:10:34.541: Task start event: (TasklistId: 165) ---- (Expected: 4.5 ---- (Actual: 3.636673))
+2020-04-24 23:10:34.579: Finish
+2020-04-24 23:10:34.592: Finish
+2020-04-24 23:10:36.120: Task end event: (TasklistId: 165) ---- (Expected: 6 ---- (Actual: 5.216705))
+2020-04-24 23:10:36.121: Timeline end event: (TasklistId: 165) ---- (Expected: 6) ---- (Actual: 5.216705)
+2020-04-24 23:10:37.186: Timeline start event: (TasklistId: 166) ---- (Expected Duration: 10)
+2020-04-24 23:10:37.188: Task start event: (TasklistId: 168) ---- (Expected: 0 ---- (Actual: 0.002029419))
+2020-04-24 23:10:38.189: Task end event: (TasklistId: 168) ---- (Expected: 1 ---- (Actual: 1.003754))
+2020-04-24 23:10:38.205: Task start event: (TasklistId: 169) ---- (Expected: 1 ---- (Actual: 1.019745))
+2020-04-24 23:10:39.474: Task end event: (TasklistId: 169) ---- (Expected: 2.2 ---- (Actual: 2.28862))
+2020-04-24 23:10:41.284: Task start event: (TasklistId: 178) ---- (Expected: 2.2 ---- (Actual: 4.098709))
+2020-04-24 23:10:42.791: Task end event: (TasklistId: 178) ---- (Expected: 3.9 ---- (Actual: 5.604767))
+2020-04-24 23:10:42.806: Task start event: (TasklistId: 179) ---- (Expected: 3.9 ---- (Actual: 5.620682))
+2020-04-24 23:10:42.807: Task end event: (TasklistId: 179) ---- (Expected: 8.3 ---- (Actual: 5.621979))
+2020-04-24 23:10:43.283: Finish
+2020-04-24 23:10:45.490: Task start event: (TasklistId: 182) ---- (Expected: 8.3 ---- (Actual: 8.304688))
+2020-04-24 23:10:48.753: Task end event: (TasklistId: 182) ---- (Expected: 9.5 ---- (Actual: 11.56729))
+2020-04-24 23:10:48.770: Task start event: (TasklistId: 185) ---- (Expected: 9.5 ---- (Actual: 11.58429))
+2020-04-24 23:10:48.771: Task end event: (TasklistId: 185) ---- (Expected: 10 ---- (Actual: 11.58621))
+2020-04-24 23:10:48.773: Timeline end event: (TasklistId: 187) ---- (Expected: 10) ---- (Actual: 11.58768)
+2020-04-24 23:10:50.315: Finish
+2020-04-24 23:11:01.544: Animator.GotoState: State could not be found
+2020-04-24 23:11:01.545: Invalid Layer Index '-1'
+2020-04-24 23:11:01.565: Animator.GotoState: State could not be found
+2020-04-24 23:11:01.566: Invalid Layer Index '-1'
+2020-04-24 23:11:11.092: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:11:11.093: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=쥐 떼 id=559 zone=HAND zonePos=0 cardId=CFM_316 player=2]
+2020-04-24 23:11:24.441: Timeline start event: (TasklistId: 266) ---- (Expected Duration: 6)
+2020-04-24 23:11:26.999: Task start event: (TasklistId: 285) ---- (Expected: 0 ---- (Actual: 2.558838))
+2020-04-24 23:11:28.507: Task end event: (TasklistId: 285) ---- (Expected: 4.5 ---- (Actual: 4.066956))
+2020-04-24 23:11:28.535: Task start event: (TasklistId: 287) ---- (Expected: 4.5 ---- (Actual: 4.094757))
+2020-04-24 23:11:28.579: Finish
+2020-04-24 23:11:28.598: Finish
+2020-04-24 23:11:28.616: Finish
+2020-04-24 23:11:30.138: Task end event: (TasklistId: 287) ---- (Expected: 6 ---- (Actual: 5.698456))
+2020-04-24 23:11:30.139: Timeline end event: (TasklistId: 287) ---- (Expected: 6) ---- (Actual: 5.698456)
+2020-04-24 23:11:31.204: Timeline start event: (TasklistId: 288) ---- (Expected Duration: 16.4)
+2020-04-24 23:11:31.207: Task start event: (TasklistId: 291) ---- (Expected: 0 ---- (Actual: 0.002288818))
+2020-04-24 23:11:32.221: Task end event: (TasklistId: 291) ---- (Expected: 1 ---- (Actual: 1.016937))
+2020-04-24 23:11:32.238: Task start event: (TasklistId: 292) ---- (Expected: 1 ---- (Actual: 1.033386))
+2020-04-24 23:11:33.504: Task end event: (TasklistId: 292) ---- (Expected: 2.2 ---- (Actual: 2.300201))
+2020-04-24 23:11:35.387: Task start event: (TasklistId: 301) ---- (Expected: 2.2 ---- (Actual: 4.182587))
+2020-04-24 23:11:35.388: Task end event: (TasklistId: 301) ---- (Expected: 2.4 ---- (Actual: 4.184174))
+2020-04-24 23:11:35.425: Finish
+2020-04-24 23:11:35.441: Finish
+2020-04-24 23:11:35.456: Finish
+2020-04-24 23:11:36.186: Task start event: (TasklistId: 303) ---- (Expected: 2.4 ---- (Actual: 4.982605))
+2020-04-24 23:11:36.188: Task end event: (TasklistId: 303) ---- (Expected: 2.6 ---- (Actual: 4.984283))
+2020-04-24 23:11:36.189: Task start event: (TasklistId: 304) ---- (Expected: 2.6 ---- (Actual: 4.985474))
+2020-04-24 23:11:37.287: Finish
+2020-04-24 23:11:37.471: Task end event: (TasklistId: 304) ---- (Expected: 3.8 ---- (Actual: 6.266785))
+2020-04-24 23:11:37.699: Task start event: (TasklistId: 312) ---- (Expected: 3.8 ---- (Actual: 6.494507))
+2020-04-24 23:11:38.987: Task end event: (TasklistId: 312) ---- (Expected: 5 ---- (Actual: 7.782776))
+2020-04-24 23:11:39.066: Task start event: (TasklistId: 320) ---- (Expected: 5 ---- (Actual: 7.862488))
+2020-04-24 23:11:40.319: Task end event: (TasklistId: 320) ---- (Expected: 6.2 ---- (Actual: 9.114655))
+2020-04-24 23:11:40.618: Finish
+2020-04-24 23:11:40.619: Finish
+2020-04-24 23:11:41.335: Task start event: (TasklistId: 329) ---- (Expected: 6.2 ---- (Actual: 10.13058))
+2020-04-24 23:11:41.336: Task end event: (TasklistId: 329) ---- (Expected: 6.4 ---- (Actual: 10.13217))
+2020-04-24 23:11:41.337: Task start event: (TasklistId: 330) ---- (Expected: 6.4 ---- (Actual: 10.13324))
+2020-04-24 23:11:42.619: Task end event: (TasklistId: 330) ---- (Expected: 7.6 ---- (Actual: 11.41473))
+2020-04-24 23:11:42.714: Task start event: (TasklistId: 338) ---- (Expected: 7.6 ---- (Actual: 11.50964))
+2020-04-24 23:11:43.984: Task end event: (TasklistId: 338) ---- (Expected: 8.8 ---- (Actual: 12.78))
+2020-04-24 23:11:44.063: Task start event: (TasklistId: 345) ---- (Expected: 8.8 ---- (Actual: 12.85913))
+2020-04-24 23:11:44.879: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:11:45.567: Task end event: (TasklistId: 345) ---- (Expected: 10.3 ---- (Actual: 14.36325))
+2020-04-24 23:11:45.580: Task start event: (TasklistId: 347) ---- (Expected: 10.3 ---- (Actual: 14.37592))
+2020-04-24 23:11:45.582: Task end event: (TasklistId: 347) ---- (Expected: 14.7 ---- (Actual: 14.37781))
+2020-04-24 23:11:47.964: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:11:48.267: Task start event: (TasklistId: 350) ---- (Expected: 14.7 ---- (Actual: 17.06317))
+2020-04-24 23:11:51.497: Task end event: (TasklistId: 350) ---- (Expected: 15.9 ---- (Actual: 20.29364))
+2020-04-24 23:11:51.514: Task start event: (TasklistId: 353) ---- (Expected: 15.9 ---- (Actual: 20.31003))
+2020-04-24 23:11:51.516: Task end event: (TasklistId: 353) ---- (Expected: 16.4 ---- (Actual: 20.31174))
+2020-04-24 23:11:51.517: Timeline end event: (TasklistId: 356) ---- (Expected: 16.4) ---- (Actual: 20.3132)
+2020-04-24 23:11:53.046: Finish
+2020-04-24 23:11:53.086: Finish
+2020-04-24 23:12:05.090: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:12:05.091: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=헌신적인 영웅 id=746 zone=HAND zonePos=0 cardId=OG_221 player=2]
+2020-04-24 23:12:11.776: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:12:11.776: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=불안정한 구울 id=744 zone=HAND zonePos=0 cardId=FP1_024 player=2]
+2020-04-24 23:12:16.044: Animator.GotoState: State could not be found
+2020-04-24 23:12:16.046: Invalid Layer Index '-1'
+2020-04-24 23:12:16.053: Animator.GotoState: State could not be found
+2020-04-24 23:12:16.053: Invalid Layer Index '-1'
+2020-04-24 23:12:38.931: Timeline start event: (TasklistId: 442) ---- (Expected Duration: 6)
+2020-04-24 23:12:38.953: Task start event: (TasklistId: 461) ---- (Expected: 0 ---- (Actual: 0.0227356))
+2020-04-24 23:12:40.027: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:12:40.462: Task end event: (TasklistId: 461) ---- (Expected: 4.5 ---- (Actual: 1.530853))
+2020-04-24 23:12:40.495: Task start event: (TasklistId: 463) ---- (Expected: 4.5 ---- (Actual: 1.563873))
+2020-04-24 23:12:40.530: Finish
+2020-04-24 23:12:40.547: Finish
+2020-04-24 23:12:40.564: Finish
+2020-04-24 23:12:40.579: Finish
+2020-04-24 23:12:42.146: Task end event: (TasklistId: 463) ---- (Expected: 6 ---- (Actual: 3.215088))
+2020-04-24 23:12:42.147: Timeline end event: (TasklistId: 463) ---- (Expected: 6) ---- (Actual: 3.215088)
+2020-04-24 23:12:43.198: Timeline start event: (TasklistId: 467) ---- (Expected Duration: 18)
+2020-04-24 23:12:43.200: Task start event: (TasklistId: 468) ---- (Expected: 0 ---- (Actual: 0.001556396))
+2020-04-24 23:12:44.210: Task end event: (TasklistId: 468) ---- (Expected: 1 ---- (Actual: 1.011688))
+2020-04-24 23:12:44.226: Task start event: (TasklistId: 469) ---- (Expected: 1 ---- (Actual: 1.027802))
+2020-04-24 23:12:45.497: Task end event: (TasklistId: 469) ---- (Expected: 2.2 ---- (Actual: 2.299164))
+2020-04-24 23:12:47.193: Task start event: (TasklistId: 478) ---- (Expected: 2.2 ---- (Actual: 3.99527))
+2020-04-24 23:12:47.194: Task end event: (TasklistId: 478) ---- (Expected: 2.4 ---- (Actual: 3.996643))
+2020-04-24 23:12:49.129: Task start event: (TasklistId: 480) ---- (Expected: 2.4 ---- (Actual: 5.931396))
+2020-04-24 23:12:49.130: Task end event: (TasklistId: 480) ---- (Expected: 2.6 ---- (Actual: 5.932281))
+2020-04-24 23:12:49.131: Task start event: (TasklistId: 481) ---- (Expected: 2.6 ---- (Actual: 5.9328))
+2020-04-24 23:12:49.175: Finish
+2020-04-24 23:12:50.406: Task end event: (TasklistId: 481) ---- (Expected: 3.8 ---- (Actual: 7.208496))
+2020-04-24 23:12:50.412: Task start event: (TasklistId: 487) ---- (Expected: 3.8 ---- (Actual: 7.214752))
+2020-04-24 23:12:51.689: Task end event: (TasklistId: 487) ---- (Expected: 5 ---- (Actual: 8.490326))
+2020-04-24 23:12:53.361: Task start event: (TasklistId: 496) ---- (Expected: 5 ---- (Actual: 10.16299))
+2020-04-24 23:12:53.362: Task end event: (TasklistId: 496) ---- (Expected: 5.2 ---- (Actual: 10.16467))
+2020-04-24 23:12:53.363: Task start event: (TasklistId: 497) ---- (Expected: 5.2 ---- (Actual: 10.16592))
+2020-04-24 23:12:54.629: Task end event: (TasklistId: 497) ---- (Expected: 6.4 ---- (Actual: 11.43011))
+2020-04-24 23:12:54.645: Task start event: (TasklistId: 503) ---- (Expected: 6.4 ---- (Actual: 11.44662))
+2020-04-24 23:12:55.922: Task end event: (TasklistId: 503) ---- (Expected: 7.6 ---- (Actual: 12.72519))
+2020-04-24 23:12:56.041: Finish
+2020-04-24 23:12:56.042: Finish
+2020-04-24 23:12:56.759: Task start event: (TasklistId: 512) ---- (Expected: 7.6 ---- (Actual: 13.56085))
+2020-04-24 23:12:56.761: Task end event: (TasklistId: 512) ---- (Expected: 7.8 ---- (Actual: 13.56271))
+2020-04-24 23:12:56.762: Task start event: (TasklistId: 513) ---- (Expected: 7.8 ---- (Actual: 13.56424))
+2020-04-24 23:12:58.374: Task end event: (TasklistId: 513) ---- (Expected: 9 ---- (Actual: 15.1759))
+2020-04-24 23:12:58.472: Task start event: (TasklistId: 521) ---- (Expected: 9 ---- (Actual: 15.27438))
+2020-04-24 23:12:59.759: Task end event: (TasklistId: 521) ---- (Expected: 10.2 ---- (Actual: 16.56119))
+2020-04-24 23:13:00.079: Task start event: (TasklistId: 530) ---- (Expected: 10.2 ---- (Actual: 16.88147))
+2020-04-24 23:13:01.438: Task end event: (TasklistId: 530) ---- (Expected: 11.9 ---- (Actual: 18.24002))
+2020-04-24 23:13:01.454: Task start event: (TasklistId: 532) ---- (Expected: 11.9 ---- (Actual: 18.25571))
+2020-04-24 23:13:01.456: Task end event: (TasklistId: 532) ---- (Expected: 16.3 ---- (Actual: 18.25757))
+2020-04-24 23:13:04.147: Task start event: (TasklistId: 535) ---- (Expected: 16.3 ---- (Actual: 20.94901))
+2020-04-24 23:13:07.374: Task end event: (TasklistId: 535) ---- (Expected: 17.5 ---- (Actual: 24.17496))
+2020-04-24 23:13:07.390: Task start event: (TasklistId: 538) ---- (Expected: 17.5 ---- (Actual: 24.19186))
+2020-04-24 23:13:07.392: Task end event: (TasklistId: 538) ---- (Expected: 18 ---- (Actual: 24.19379))
+2020-04-24 23:13:07.393: Timeline end event: (TasklistId: 541) ---- (Expected: 18) ---- (Actual: 24.19559)
+2020-04-24 23:13:08.941: Finish
+2020-04-24 23:13:09.019: Finish
+2020-04-24 23:13:09.027: Finish
+2020-04-24 23:13:15.121: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:13:15.122: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=콰광로봇 id=1075 zone=HAND zonePos=0 cardId=BOT_606 player=2]
+2020-04-24 23:13:31.087: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:13:32.711: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:13:32.803: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:13:32.808: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:13:32.823: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:13:32.827: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:13:32.852: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:13:32.858: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:13:34.901: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:13:35.527: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:13:39.643: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:13:48.306: Animator.GotoState: State could not be found
+2020-04-24 23:13:48.307: Invalid Layer Index '-1'
+2020-04-24 23:13:48.322: Animator.GotoState: State could not be found
+2020-04-24 23:13:48.323: Invalid Layer Index '-1'
+2020-04-24 23:14:10.848: Timeline start event: (TasklistId: 619) ---- (Expected Duration: 6)
+2020-04-24 23:14:13.201: Task start event: (TasklistId: 638) ---- (Expected: 0 ---- (Actual: 2.353485))
+2020-04-24 23:14:14.700: Task end event: (TasklistId: 638) ---- (Expected: 4.5 ---- (Actual: 3.852386))
+2020-04-24 23:14:14.733: Task start event: (TasklistId: 640) ---- (Expected: 4.5 ---- (Actual: 3.885376))
+2020-04-24 23:14:14.771: Finish
+2020-04-24 23:14:14.788: Finish
+2020-04-24 23:14:14.799: Finish
+2020-04-24 23:14:14.816: Finish
+2020-04-24 23:14:14.832: Finish
+2020-04-24 23:14:14.848: Finish
+2020-04-24 23:14:16.412: Task end event: (TasklistId: 640) ---- (Expected: 6 ---- (Actual: 5.564789))
+2020-04-24 23:14:16.413: Timeline end event: (TasklistId: 640) ---- (Expected: 6) ---- (Actual: 5.564789)
+2020-04-24 23:14:17.465: Timeline start event: (TasklistId: 641) ---- (Expected Duration: 18)
+2020-04-24 23:14:17.467: Task start event: (TasklistId: 644) ---- (Expected: 0 ---- (Actual: 0.001800537))
+2020-04-24 23:14:18.481: Task end event: (TasklistId: 644) ---- (Expected: 1 ---- (Actual: 1.016327))
+2020-04-24 23:14:18.497: Task start event: (TasklistId: 645) ---- (Expected: 1 ---- (Actual: 1.032715))
+2020-04-24 23:14:19.761: Task end event: (TasklistId: 645) ---- (Expected: 2.2 ---- (Actual: 2.296661))
+2020-04-24 23:14:21.465: Task start event: (TasklistId: 654) ---- (Expected: 2.2 ---- (Actual: 4.000275))
+2020-04-24 23:14:21.467: Task end event: (TasklistId: 654) ---- (Expected: 2.4 ---- (Actual: 4.001984))
+2020-04-24 23:14:21.468: Task start event: (TasklistId: 655) ---- (Expected: 2.4 ---- (Actual: 4.003235))
+2020-04-24 23:14:22.743: Task end event: (TasklistId: 655) ---- (Expected: 3.6 ---- (Actual: 5.278595))
+2020-04-24 23:14:23.890: Task start event: (TasklistId: 668) ---- (Expected: 3.6 ---- (Actual: 6.425415))
+2020-04-24 23:14:23.892: Task end event: (TasklistId: 668) ---- (Expected: 3.8 ---- (Actual: 6.427277))
+2020-04-24 23:14:23.994: Task start event: (TasklistId: 671) ---- (Expected: 3.8 ---- (Actual: 6.529327))
+2020-04-24 23:14:25.289: Task end event: (TasklistId: 671) ---- (Expected: 5 ---- (Actual: 7.823608))
+2020-04-24 23:14:25.418: Finish
+2020-04-24 23:14:25.419: Finish
+2020-04-24 23:14:26.113: Task start event: (TasklistId: 680) ---- (Expected: 5 ---- (Actual: 8.648132))
+2020-04-24 23:14:26.115: Task end event: (TasklistId: 680) ---- (Expected: 5.2 ---- (Actual: 8.649841))
+2020-04-24 23:14:26.116: Task start event: (TasklistId: 681) ---- (Expected: 5.2 ---- (Actual: 8.651245))
+2020-04-24 23:14:27.393: Task end event: (TasklistId: 681) ---- (Expected: 6.4 ---- (Actual: 9.928009))
+2020-04-24 23:14:27.409: Task start event: (TasklistId: 687) ---- (Expected: 6.4 ---- (Actual: 9.943817))
+2020-04-24 23:14:28.679: Task end event: (TasklistId: 687) ---- (Expected: 7.6 ---- (Actual: 11.21414))
+2020-04-24 23:14:28.779: Task start event: (TasklistId: 695) ---- (Expected: 7.6 ---- (Actual: 11.31357))
+2020-04-24 23:14:30.046: Task end event: (TasklistId: 695) ---- (Expected: 8.8 ---- (Actual: 12.58044))
+2020-04-24 23:14:30.124: Task start event: (TasklistId: 703) ---- (Expected: 8.8 ---- (Actual: 12.65918))
+2020-04-24 23:14:31.390: Task end event: (TasklistId: 703) ---- (Expected: 10 ---- (Actual: 13.92587))
+2020-04-24 23:14:33.040: Task start event: (TasklistId: 712) ---- (Expected: 10 ---- (Actual: 15.57501))
+2020-04-24 23:14:34.543: Task end event: (TasklistId: 712) ---- (Expected: 11.7 ---- (Actual: 17.07864))
+2020-04-24 23:14:34.561: Task start event: (TasklistId: 714) ---- (Expected: 11.7 ---- (Actual: 17.09604))
+2020-04-24 23:14:34.563: Task end event: (TasklistId: 714) ---- (Expected: 16.3 ---- (Actual: 17.09799))
+2020-04-24 23:14:35.042: Finish
+2020-04-24 23:14:37.593: Task start event: (TasklistId: 717) ---- (Expected: 16.3 ---- (Actual: 20.12805))
+2020-04-24 23:14:40.822: Task end event: (TasklistId: 717) ---- (Expected: 17.5 ---- (Actual: 23.35678))
+2020-04-24 23:14:40.842: Task start event: (TasklistId: 720) ---- (Expected: 17.5 ---- (Actual: 23.37653))
+2020-04-24 23:14:40.843: Task end event: (TasklistId: 720) ---- (Expected: 18 ---- (Actual: 23.37836))
+2020-04-24 23:14:40.845: Timeline end event: (TasklistId: 723) ---- (Expected: 18) ---- (Actual: 23.37976)
+2020-04-24 23:14:42.389: Finish
+2020-04-24 23:14:42.405: Finish
+2020-04-24 23:14:42.423: Finish
+2020-04-24 23:14:42.437: Finish
+2020-04-24 23:14:45.322: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:14:45.323: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=느조스의 피조물 id=1482 zone=HAND zonePos=0 cardId=OG_256 player=2]
+2020-04-24 23:14:46.175: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:14:49.393: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:14:49.410: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:14:49.411: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=느조스의 피조물 id=1529 zone=HAND zonePos=0 cardId=OG_256 player=2]
+2020-04-24 23:14:49.759: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:14:51.513: Finish
+2020-04-24 23:15:16.576: Animator.GotoState: State could not be found
+2020-04-24 23:15:16.577: Invalid Layer Index '-1'
+2020-04-24 23:15:16.592: Animator.GotoState: State could not be found
+2020-04-24 23:15:16.593: Invalid Layer Index '-1'
+2020-04-24 23:15:16.903: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:15:39.792: Timeline start event: (TasklistId: 835) ---- (Expected Duration: 6)
+2020-04-24 23:15:41.889: Task start event: (TasklistId: 854) ---- (Expected: 0 ---- (Actual: 2.096619))
+2020-04-24 23:15:43.387: Task end event: (TasklistId: 854) ---- (Expected: 4.5 ---- (Actual: 3.594604))
+2020-04-24 23:15:43.420: Task start event: (TasklistId: 856) ---- (Expected: 4.5 ---- (Actual: 3.627258))
+2020-04-24 23:15:43.457: Finish
+2020-04-24 23:15:43.470: Finish
+2020-04-24 23:15:43.485: Finish
+2020-04-24 23:15:43.501: Finish
+2020-04-24 23:15:43.518: Finish
+2020-04-24 23:15:45.084: Task end event: (TasklistId: 856) ---- (Expected: 6 ---- (Actual: 5.291504))
+2020-04-24 23:15:45.085: Timeline end event: (TasklistId: 856) ---- (Expected: 6) ---- (Actual: 5.291504)
+2020-04-24 23:15:46.136: Timeline start event: (TasklistId: 860) ---- (Expected Duration: 19.4)
+2020-04-24 23:15:46.138: Task start event: (TasklistId: 861) ---- (Expected: 0 ---- (Actual: 0.001464844))
+2020-04-24 23:15:46.140: Task end event: (TasklistId: 861) ---- (Expected: 1.5 ---- (Actual: 0.00378418))
+2020-04-24 23:15:47.830: Finish
+2020-04-24 23:15:48.402: Task start event: (TasklistId: 879) ---- (Expected: 1.5 ---- (Actual: 2.266418))
+2020-04-24 23:15:48.403: Task end event: (TasklistId: 879) ---- (Expected: 1.7 ---- (Actual: 2.267273))
+2020-04-24 23:15:50.451: Task start event: (TasklistId: 883) ---- (Expected: 1.7 ---- (Actual: 4.315735))
+2020-04-24 23:15:50.452: Task end event: (TasklistId: 883) ---- (Expected: 1.9 ---- (Actual: 4.316589))
+2020-04-24 23:15:51.094: Finish
+2020-04-24 23:15:51.668: Task start event: (TasklistId: 887) ---- (Expected: 1.9 ---- (Actual: 5.532227))
+2020-04-24 23:15:51.669: Task end event: (TasklistId: 887) ---- (Expected: 2.1 ---- (Actual: 5.533081))
+2020-04-24 23:15:51.779: Finish
+2020-04-24 23:15:51.781: Finish
+2020-04-24 23:15:51.782: Finish
+2020-04-24 23:15:52.499: Task start event: (TasklistId: 891) ---- (Expected: 2.1 ---- (Actual: 6.363281))
+2020-04-24 23:15:53.526: Task end event: (TasklistId: 891) ---- (Expected: 3.3 ---- (Actual: 7.391113))
+2020-04-24 23:15:53.532: Task start event: (TasklistId: 892) ---- (Expected: 3.3 ---- (Actual: 7.39624))
+2020-04-24 23:15:54.800: Task end event: (TasklistId: 892) ---- (Expected: 4.5 ---- (Actual: 8.664673))
+2020-04-24 23:15:56.897: Task start event: (TasklistId: 901) ---- (Expected: 4.5 ---- (Actual: 10.76123))
+2020-04-24 23:15:56.897: Task end event: (TasklistId: 901) ---- (Expected: 4.7 ---- (Actual: 10.76215))
+2020-04-24 23:15:59.379: Task start event: (TasklistId: 906) ---- (Expected: 4.7 ---- (Actual: 13.24341))
+2020-04-24 23:16:00.649: Task end event: (TasklistId: 906) ---- (Expected: 6.1 ---- (Actual: 14.51282))
+2020-04-24 23:16:00.727: Task start event: (TasklistId: 914) ---- (Expected: 6.1 ---- (Actual: 14.59149))
+2020-04-24 23:16:02.008: Task end event: (TasklistId: 914) ---- (Expected: 7.3 ---- (Actual: 15.87213))
+2020-04-24 23:16:03.661: Task start event: (TasklistId: 923) ---- (Expected: 7.3 ---- (Actual: 17.52563))
+2020-04-24 23:16:03.662: Task end event: (TasklistId: 923) ---- (Expected: 7.5 ---- (Actual: 17.52655))
+2020-04-24 23:16:03.662: Task start event: (TasklistId: 924) ---- (Expected: 7.5 ---- (Actual: 17.52716))
+2020-04-24 23:16:04.948: Task end event: (TasklistId: 924) ---- (Expected: 8.700001 ---- (Actual: 18.8114))
+2020-04-24 23:16:05.648: Finish
+2020-04-24 23:16:06.626: Task start event: (TasklistId: 933) ---- (Expected: 8.700001 ---- (Actual: 20.49005))
+2020-04-24 23:16:06.627: Task end event: (TasklistId: 933) ---- (Expected: 8.900001 ---- (Actual: 20.49115))
+2020-04-24 23:16:06.628: Task start event: (TasklistId: 934) ---- (Expected: 8.900001 ---- (Actual: 20.49176))
+2020-04-24 23:16:07.896: Task end event: (TasklistId: 934) ---- (Expected: 10.1 ---- (Actual: 21.76013))
+2020-04-24 23:16:09.174: Task start event: (TasklistId: 947) ---- (Expected: 10.1 ---- (Actual: 23.03851))
+2020-04-24 23:16:09.175: Task end event: (TasklistId: 947) ---- (Expected: 10.3 ---- (Actual: 23.03943))
+2020-04-24 23:16:09.278: Task start event: (TasklistId: 950) ---- (Expected: 10.3 ---- (Actual: 23.14215))
+2020-04-24 23:16:10.559: Task end event: (TasklistId: 950) ---- (Expected: 11.5 ---- (Actual: 24.4234))
+2020-04-24 23:16:10.676: Finish
+2020-04-24 23:16:10.677: Finish
+2020-04-24 23:16:10.678: Finish
+2020-04-24 23:16:10.678: Finish
+2020-04-24 23:16:11.408: Task start event: (TasklistId: 959) ---- (Expected: 11.5 ---- (Actual: 25.27167))
+2020-04-24 23:16:11.409: Task end event: (TasklistId: 959) ---- (Expected: 11.7 ---- (Actual: 25.27264))
+2020-04-24 23:16:11.409: Task start event: (TasklistId: 960) ---- (Expected: 11.7 ---- (Actual: 25.27325))
+2020-04-24 23:16:12.675: Task end event: (TasklistId: 960) ---- (Expected: 12.9 ---- (Actual: 26.53851))
+2020-04-24 23:16:12.757: Task start event: (TasklistId: 968) ---- (Expected: 12.9 ---- (Actual: 26.62061))
+2020-04-24 23:16:14.011: Task end event: (TasklistId: 968) ---- (Expected: 14.1 ---- (Actual: 27.875))
+2020-04-24 23:16:15.546: Task start event: (TasklistId: 977) ---- (Expected: 14.1 ---- (Actual: 29.41058))
+2020-04-24 23:16:15.548: Task end event: (TasklistId: 977) ---- (Expected: 14.3 ---- (Actual: 29.41235))
+2020-04-24 23:16:15.549: Task start event: (TasklistId: 978) ---- (Expected: 14.3 ---- (Actual: 29.41364))
+2020-04-24 23:16:16.820: Task end event: (TasklistId: 978) ---- (Expected: 15.5 ---- (Actual: 30.68445))
+2020-04-24 23:16:16.907: Task start event: (TasklistId: 986) ---- (Expected: 15.5 ---- (Actual: 30.77051))
+2020-04-24 23:16:18.185: Task end event: (TasklistId: 986) ---- (Expected: 16.7 ---- (Actual: 32.04913))
+2020-04-24 23:16:18.255: Task start event: (TasklistId: 994) ---- (Expected: 16.7 ---- (Actual: 32.12006))
+2020-04-24 23:16:19.525: Task end event: (TasklistId: 994) ---- (Expected: 17.9 ---- (Actual: 33.38959))
+2020-04-24 23:16:19.624: Task start event: (TasklistId: 1001) ---- (Expected: 17.9 ---- (Actual: 33.48853))
+2020-04-24 23:16:21.142: Task end event: (TasklistId: 1001) ---- (Expected: 19.4 ---- (Actual: 35.00641))
+2020-04-24 23:16:21.159: Timeline end event: (TasklistId: 1006) ---- (Expected: 19.4) ---- (Actual: 35.02246)
+2020-04-24 23:16:22.703: Finish
+2020-04-24 23:16:22.744: Finish
+2020-04-24 23:16:22.762: Finish
+2020-04-24 23:16:22.775: Finish
+2020-04-24 23:16:22.788: Finish
+2020-04-24 23:16:22.804: Finish
+2020-04-24 23:16:33.466: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:16:33.467: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=불안정한 구울 id=2039 zone=HAND zonePos=0 cardId=FP1_024 player=2]
+2020-04-24 23:16:40.249: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:16:43.247: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:16:44.347: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:16:56.827: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:17:07.606: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:17:08.560: Animator.GotoState: State could not be found
+2020-04-24 23:17:08.562: Invalid Layer Index '-1'
+2020-04-24 23:17:08.576: Animator.GotoState: State could not be found
+2020-04-24 23:17:08.577: Invalid Layer Index '-1'
+2020-04-24 23:17:31.685: Timeline start event: (TasklistId: 1072) ---- (Expected Duration: 6)
+2020-04-24 23:17:34.079: Task start event: (TasklistId: 1091) ---- (Expected: 0 ---- (Actual: 2.392578))
+2020-04-24 23:17:35.583: Task end event: (TasklistId: 1091) ---- (Expected: 4.5 ---- (Actual: 3.896729))
+2020-04-24 23:17:35.613: Task start event: (TasklistId: 1093) ---- (Expected: 4.5 ---- (Actual: 3.927551))
+2020-04-24 23:17:35.664: Finish
+2020-04-24 23:17:35.680: Finish
+2020-04-24 23:17:35.699: Finish
+2020-04-24 23:17:35.713: Finish
+2020-04-24 23:17:35.732: Finish
+2020-04-24 23:17:35.746: Finish
+2020-04-24 23:17:35.763: Finish
+2020-04-24 23:17:37.316: Task end event: (TasklistId: 1093) ---- (Expected: 6 ---- (Actual: 5.630066))
+2020-04-24 23:17:37.318: Timeline end event: (TasklistId: 1093) ---- (Expected: 6) ---- (Actual: 5.630066)
+2020-04-24 23:17:38.382: Timeline start event: (TasklistId: 1097) ---- (Expected Duration: 27.5)
+2020-04-24 23:17:38.384: Task start event: (TasklistId: 1098) ---- (Expected: 0 ---- (Actual: 0.001525879))
+2020-04-24 23:17:39.384: Task end event: (TasklistId: 1098) ---- (Expected: 1 ---- (Actual: 1.000854))
+2020-04-24 23:17:39.400: Task start event: (TasklistId: 1099) ---- (Expected: 1 ---- (Actual: 1.017273))
+2020-04-24 23:17:40.683: Task end event: (TasklistId: 1099) ---- (Expected: 2.2 ---- (Actual: 2.299927))
+2020-04-24 23:17:42.380: Task start event: (TasklistId: 1104) ---- (Expected: 2.2 ---- (Actual: 3.998047))
+2020-04-24 23:17:42.382: Task end event: (TasklistId: 1104) ---- (Expected: 2.4 ---- (Actual: 4.000061))
+2020-04-24 23:17:42.383: Task start event: (TasklistId: 1105) ---- (Expected: 2.4 ---- (Actual: 4.001343))
+2020-04-24 23:17:43.660: Task end event: (TasklistId: 1105) ---- (Expected: 3.6 ---- (Actual: 5.277039))
+2020-04-24 23:17:44.339: Finish
+2020-04-24 23:17:45.611: Task start event: (TasklistId: 1114) ---- (Expected: 3.6 ---- (Actual: 7.22876))
+2020-04-24 23:17:45.612: Task end event: (TasklistId: 1114) ---- (Expected: 3.8 ---- (Actual: 7.229797))
+2020-04-24 23:17:45.612: Task start event: (TasklistId: 1115) ---- (Expected: 3.8 ---- (Actual: 7.230347))
+2020-04-24 23:17:46.873: Task end event: (TasklistId: 1115) ---- (Expected: 5 ---- (Actual: 8.490601))
+2020-04-24 23:17:46.878: Task start event: (TasklistId: 1117) ---- (Expected: 5 ---- (Actual: 8.496094))
+2020-04-24 23:17:48.155: Task end event: (TasklistId: 1117) ---- (Expected: 6.2 ---- (Actual: 9.772522))
+2020-04-24 23:17:50.576: Task start event: (TasklistId: 1126) ---- (Expected: 6.2 ---- (Actual: 12.19348))
+2020-04-24 23:17:50.577: Task end event: (TasklistId: 1126) ---- (Expected: 6.4 ---- (Actual: 12.1944))
+2020-04-24 23:17:50.578: Task start event: (TasklistId: 1127) ---- (Expected: 6.4 ---- (Actual: 12.19495))
+2020-04-24 23:17:51.870: Task end event: (TasklistId: 1127) ---- (Expected: 7.6 ---- (Actual: 13.48767))
+2020-04-24 23:17:53.664: Task start event: (TasklistId: 1136) ---- (Expected: 7.6 ---- (Actual: 15.28101))
+2020-04-24 23:17:53.666: Task end event: (TasklistId: 1136) ---- (Expected: 7.8 ---- (Actual: 15.28296))
+2020-04-24 23:17:53.667: Task start event: (TasklistId: 1137) ---- (Expected: 7.8 ---- (Actual: 15.28418))
+2020-04-24 23:17:54.929: Task end event: (TasklistId: 1137) ---- (Expected: 9 ---- (Actual: 16.54596))
+2020-04-24 23:17:55.075: Finish
+2020-04-24 23:17:55.095: Finish
+2020-04-24 23:17:55.108: Finish
+2020-04-24 23:17:55.622: Finish
+2020-04-24 23:17:55.839: Task start event: (TasklistId: 1146) ---- (Expected: 9 ---- (Actual: 17.45618))
+2020-04-24 23:17:55.840: Task end event: (TasklistId: 1146) ---- (Expected: 9.200001 ---- (Actual: 17.45709))
+2020-04-24 23:17:55.840: Task start event: (TasklistId: 1147) ---- (Expected: 9.200001 ---- (Actual: 17.45758))
+2020-04-24 23:17:57.093: Task end event: (TasklistId: 1147) ---- (Expected: 10.4 ---- (Actual: 18.71057))
+2020-04-24 23:17:57.172: Task start event: (TasklistId: 1155) ---- (Expected: 10.4 ---- (Actual: 18.78967))
+2020-04-24 23:17:58.438: Task end event: (TasklistId: 1155) ---- (Expected: 11.6 ---- (Actual: 20.0556))
+2020-04-24 23:17:58.610: Finish
+2020-04-24 23:17:58.612: Finish
+2020-04-24 23:17:58.614: Finish
+2020-04-24 23:17:58.616: Finish
+2020-04-24 23:17:59.342: Task start event: (TasklistId: 1164) ---- (Expected: 11.6 ---- (Actual: 20.95898))
+2020-04-24 23:17:59.343: Task end event: (TasklistId: 1164) ---- (Expected: 11.8 ---- (Actual: 20.96063))
+2020-04-24 23:17:59.345: Task start event: (TasklistId: 1165) ---- (Expected: 11.8 ---- (Actual: 20.96185))
+2020-04-24 23:18:00.622: Task end event: (TasklistId: 1165) ---- (Expected: 13 ---- (Actual: 22.23969))
+2020-04-24 23:18:00.725: Task start event: (TasklistId: 1173) ---- (Expected: 13 ---- (Actual: 22.34302))
+2020-04-24 23:18:01.992: Task end event: (TasklistId: 1173) ---- (Expected: 14.2 ---- (Actual: 23.60974))
+2020-04-24 23:18:02.073: Task start event: (TasklistId: 1179) ---- (Expected: 14.2 ---- (Actual: 23.6911))
+2020-04-24 23:18:02.075: Task end event: (TasklistId: 1179) ---- (Expected: 14.4 ---- (Actual: 23.69275))
+2020-04-24 23:18:02.821: Task start event: (TasklistId: 1183) ---- (Expected: 14.4 ---- (Actual: 24.43909))
+2020-04-24 23:18:04.091: Task end event: (TasklistId: 1183) ---- (Expected: 15.6 ---- (Actual: 25.70935))
+2020-04-24 23:18:04.185: Task start event: (TasklistId: 1191) ---- (Expected: 15.6 ---- (Actual: 25.80292))
+2020-04-24 23:18:05.440: Task end event: (TasklistId: 1191) ---- (Expected: 16.8 ---- (Actual: 27.05756))
+2020-04-24 23:18:05.523: Task start event: (TasklistId: 1199) ---- (Expected: 16.8 ---- (Actual: 27.14032))
+2020-04-24 23:18:06.789: Task end event: (TasklistId: 1199) ---- (Expected: 18 ---- (Actual: 28.4071))
+2020-04-24 23:18:06.839: Task start event: (TasklistId: 1205) ---- (Expected: 18 ---- (Actual: 28.45618))
+2020-04-24 23:18:06.840: Task end event: (TasklistId: 1205) ---- (Expected: 18.2 ---- (Actual: 28.45789))
+2020-04-24 23:18:06.842: Task start event: (TasklistId: 1207) ---- (Expected: 18.2 ---- (Actual: 28.45929))
+2020-04-24 23:18:08.124: Task end event: (TasklistId: 1207) ---- (Expected: 19.4 ---- (Actual: 29.74146))
+2020-04-24 23:18:09.317: Task start event: (TasklistId: 1220) ---- (Expected: 19.4 ---- (Actual: 30.93494))
+2020-04-24 23:18:09.318: Task end event: (TasklistId: 1220) ---- (Expected: 19.6 ---- (Actual: 30.93591))
+2020-04-24 23:18:09.439: Task start event: (TasklistId: 1222) ---- (Expected: 19.6 ---- (Actual: 31.05579))
+2020-04-24 23:18:10.967: Task end event: (TasklistId: 1222) ---- (Expected: 21.1 ---- (Actual: 32.58453))
+2020-04-24 23:18:11.520: Task start event: (TasklistId: 1224) ---- (Expected: 21.1 ---- (Actual: 33.13745))
+2020-04-24 23:18:11.522: Task end event: (TasklistId: 1224) ---- (Expected: 25.8 ---- (Actual: 33.13934))
+2020-04-24 23:18:14.683: Task start event: (TasklistId: 1227) ---- (Expected: 25.8 ---- (Actual: 36.30115))
+2020-04-24 23:18:15.288: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:18:17.901: Task end event: (TasklistId: 1227) ---- (Expected: 27 ---- (Actual: 39.51862))
+2020-04-24 23:18:17.918: Task start event: (TasklistId: 1230) ---- (Expected: 27 ---- (Actual: 39.53503))
+2020-04-24 23:18:17.920: Task end event: (TasklistId: 1230) ---- (Expected: 27.5 ---- (Actual: 39.53687))
+2020-04-24 23:18:17.921: Timeline end event: (TasklistId: 1233) ---- (Expected: 27.5) ---- (Actual: 39.53815)
+2020-04-24 23:18:18.386: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:18:19.471: Finish
+2020-04-24 23:18:19.490: Finish
+2020-04-24 23:18:19.511: Finish
+2020-04-24 23:18:19.530: Finish
+2020-04-24 23:18:19.547: Finish
+2020-04-24 23:18:19.559: Finish
+2020-04-24 23:18:20.915: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:18:26.194: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:18:26.228: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:18:26.229: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=불안정한 구울 id=2589 zone=HAND zonePos=0 cardId=FP1_024 player=2]
+2020-04-24 23:18:29.670: AddEventHandlerComponent: PlayMakerLateUpdate
+2020-04-24 23:18:30.631: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:18:34.628: Actor.DestroySpell() - FAILED to destroy COIN_MANA_GEM because the Actor is not using a shared spell table.
+
+2020-04-24 23:18:37.042: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:18:43.079: FRIENDLY PLAY.RemoveCard() - FAILED: 한규 tried to remove [entityName=콰광로봇 id=2211 zone=SETASIDE zonePos=0 cardId=BOT_606 player=2]
+2020-04-24 23:18:44.766: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:18:44.767: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=동굴 히드라 id=2764 zone=HAND zonePos=0 cardId=LOOT_078 player=2]
+2020-04-24 23:18:47.173: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:18:54.002: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:18:54.003: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=느조스의 피조물 id=2807 zone=HAND zonePos=0 cardId=OG_256 player=2]
+2020-04-24 23:18:55.652: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:19:12.448: Actor.DestroySpell() - FAILED to destroy COIN_MANA_GEM because the Actor is not using a shared spell table.
+
+2020-04-24 23:19:13.165: Animator.GotoState: State could not be found
+2020-04-24 23:19:13.166: Invalid Layer Index '-1'
+2020-04-24 23:19:13.181: Animator.GotoState: State could not be found
+2020-04-24 23:19:13.182: Invalid Layer Index '-1'
+2020-04-24 23:19:18.329: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:19:36.418: Timeline start event: (TasklistId: 1466) ---- (Expected Duration: 6)
+2020-04-24 23:19:38.725: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:19:38.996: Task start event: (TasklistId: 1485) ---- (Expected: 0 ---- (Actual: 2.578979))
+2020-04-24 23:19:40.491: Task end event: (TasklistId: 1485) ---- (Expected: 4.5 ---- (Actual: 4.073975))
+2020-04-24 23:19:40.525: Task start event: (TasklistId: 1487) ---- (Expected: 4.5 ---- (Actual: 4.107544))
+2020-04-24 23:19:40.740: Finish
+2020-04-24 23:19:40.750: Finish
+2020-04-24 23:19:40.759: Finish
+2020-04-24 23:19:40.773: Finish
+2020-04-24 23:19:40.790: Finish
+2020-04-24 23:19:40.805: Finish
+2020-04-24 23:19:40.822: Finish
+2020-04-24 23:19:42.001: The referenced script (ParticleSystemSizer) on this Behaviour is missing!
+2020-04-24 23:19:42.015: The referenced script on this Behaviour (Game Object 'fx_darkbomb') is missing!
+2020-04-24 23:19:42.372: Task end event: (TasklistId: 1487) ---- (Expected: 6 ---- (Actual: 5.954529))
+2020-04-24 23:19:42.373: Timeline end event: (TasklistId: 1487) ---- (Expected: 6) ---- (Actual: 5.954529)
+2020-04-24 23:19:43.438: Timeline start event: (TasklistId: 1491) ---- (Expected Duration: 25.2)
+2020-04-24 23:19:43.439: Task start event: (TasklistId: 1492) ---- (Expected: 0 ---- (Actual: 0.001098633))
+2020-04-24 23:19:44.453: Task end event: (TasklistId: 1492) ---- (Expected: 1 ---- (Actual: 1.015137))
+2020-04-24 23:19:44.468: Task start event: (TasklistId: 1493) ---- (Expected: 1 ---- (Actual: 1.030273))
+2020-04-24 23:19:45.720: Task end event: (TasklistId: 1493) ---- (Expected: 2.2 ---- (Actual: 2.282593))
+2020-04-24 23:19:45.952: Task start event: (TasklistId: 1495) ---- (Expected: 2.2 ---- (Actual: 2.514893))
+2020-04-24 23:19:45.954: Task end event: (TasklistId: 1495) ---- (Expected: 2.4 ---- (Actual: 2.516541))
+2020-04-24 23:19:47.691: Task start event: (TasklistId: 1604) ---- (Expected: 2.4 ---- (Actual: 4.253723))
+2020-04-24 23:19:47.692: Task end event: (TasklistId: 1604) ---- (Expected: 2.6 ---- (Actual: 4.254578))
+2020-04-24 23:19:49.470: Task start event: (TasklistId: 1608) ---- (Expected: 2.6 ---- (Actual: 6.032837))
+2020-04-24 23:19:49.471: Task end event: (TasklistId: 1608) ---- (Expected: 2.8 ---- (Actual: 6.033752))
+2020-04-24 23:19:51.068: Task start event: (TasklistId: 1610) ---- (Expected: 2.8 ---- (Actual: 7.631042))
+2020-04-24 23:19:51.069: Task end event: (TasklistId: 1610) ---- (Expected: 3 ---- (Actual: 7.631958))
+2020-04-24 23:19:51.114: Finish
+2020-04-24 23:19:51.116: Finish
+2020-04-24 23:19:51.448: Finish
+2020-04-24 23:19:51.836: Task start event: (TasklistId: 1612) ---- (Expected: 3 ---- (Actual: 8.397888))
+2020-04-24 23:19:51.837: Task end event: (TasklistId: 1612) ---- (Expected: 3.2 ---- (Actual: 8.398804))
+2020-04-24 23:19:51.882: Finish
+2020-04-24 23:19:51.884: Finish
+2020-04-24 23:19:52.602: Task start event: (TasklistId: 1614) ---- (Expected: 3.2 ---- (Actual: 9.164246))
+2020-04-24 23:19:52.630: Task end event: (TasklistId: 1614) ---- (Expected: 3.4 ---- (Actual: 9.192017))
+2020-04-24 23:19:53.046: Finish
+2020-04-24 23:19:53.186: Task start event: (TasklistId: 1615) ---- (Expected: 3.4 ---- (Actual: 9.747742))
+2020-04-24 23:19:54.466: Task end event: (TasklistId: 1615) ---- (Expected: 4.6 ---- (Actual: 11.02838))
+2020-04-24 23:19:54.486: Task start event: (TasklistId: 1621) ---- (Expected: 4.6 ---- (Actual: 11.04828))
+2020-04-24 23:19:55.755: Task end event: (TasklistId: 1621) ---- (Expected: 5.8 ---- (Actual: 12.31647))
+2020-04-24 23:19:56.698: Task start event: (TasklistId: 1632) ---- (Expected: 5.8 ---- (Actual: 13.25989))
+2020-04-24 23:19:56.698: Task end event: (TasklistId: 1632) ---- (Expected: 6 ---- (Actual: 13.2608))
+2020-04-24 23:19:56.699: Task start event: (TasklistId: 1633) ---- (Expected: 6 ---- (Actual: 13.26135))
+2020-04-24 23:19:57.950: Task end event: (TasklistId: 1633) ---- (Expected: 7.2 ---- (Actual: 14.51184))
+2020-04-24 23:19:59.664: Task start event: (TasklistId: 1647) ---- (Expected: 7.2 ---- (Actual: 16.22552))
+2020-04-24 23:20:00.954: Task end event: (TasklistId: 1647) ---- (Expected: 8.400001 ---- (Actual: 17.51617))
+2020-04-24 23:20:02.631: Task start event: (TasklistId: 1656) ---- (Expected: 8.400001 ---- (Actual: 19.19312))
+2020-04-24 23:20:02.632: Task end event: (TasklistId: 1656) ---- (Expected: 8.6 ---- (Actual: 19.19409))
+2020-04-24 23:20:02.632: Task start event: (TasklistId: 1657) ---- (Expected: 8.6 ---- (Actual: 19.19464))
+2020-04-24 23:20:03.909: Task end event: (TasklistId: 1657) ---- (Expected: 9.8 ---- (Actual: 20.47119))
+2020-04-24 23:20:03.981: Task start event: (TasklistId: 1665) ---- (Expected: 9.8 ---- (Actual: 20.54272))
+2020-04-24 23:20:05.241: Task end event: (TasklistId: 1665) ---- (Expected: 11 ---- (Actual: 21.80396))
+2020-04-24 23:20:05.314: Task start event: (TasklistId: 1673) ---- (Expected: 11 ---- (Actual: 21.87622))
+2020-04-24 23:20:06.580: Task end event: (TasklistId: 1673) ---- (Expected: 12.2 ---- (Actual: 23.1424))
+2020-04-24 23:20:07.278: Task start event: (TasklistId: 1682) ---- (Expected: 12.2 ---- (Actual: 23.84015))
+2020-04-24 23:20:07.279: Task end event: (TasklistId: 1682) ---- (Expected: 12.4 ---- (Actual: 23.84113))
+2020-04-24 23:20:07.279: Task start event: (TasklistId: 1683) ---- (Expected: 12.4 ---- (Actual: 23.84167))
+2020-04-24 23:20:08.561: Task end event: (TasklistId: 1683) ---- (Expected: 13.6 ---- (Actual: 25.12329))
+2020-04-24 23:20:08.679: Finish
+2020-04-24 23:20:08.680: Finish
+2020-04-24 23:20:08.681: Finish
+2020-04-24 23:20:08.682: Finish
+2020-04-24 23:20:09.409: Task start event: (TasklistId: 1692) ---- (Expected: 13.6 ---- (Actual: 25.97162))
+2020-04-24 23:20:09.410: Task end event: (TasklistId: 1692) ---- (Expected: 13.8 ---- (Actual: 25.97266))
+2020-04-24 23:20:09.411: Task start event: (TasklistId: 1693) ---- (Expected: 13.8 ---- (Actual: 25.97327))
+2020-04-24 23:20:10.678: Task end event: (TasklistId: 1693) ---- (Expected: 15 ---- (Actual: 27.23962))
+2020-04-24 23:20:12.259: Task start event: (TasklistId: 1711) ---- (Expected: 15 ---- (Actual: 28.82202))
+2020-04-24 23:20:13.528: Task end event: (TasklistId: 1711) ---- (Expected: 16.2 ---- (Actual: 30.0899))
+2020-04-24 23:20:13.608: Task start event: (TasklistId: 1719) ---- (Expected: 16.2 ---- (Actual: 30.17053))
+2020-04-24 23:20:14.892: Task end event: (TasklistId: 1719) ---- (Expected: 17.4 ---- (Actual: 31.45392))
+2020-04-24 23:20:14.974: Task start event: (TasklistId: 1726) ---- (Expected: 17.4 ---- (Actual: 31.5365))
+2020-04-24 23:20:16.491: Task end event: (TasklistId: 1726) ---- (Expected: 18.9 ---- (Actual: 33.05316))
+2020-04-24 23:20:16.512: Task start event: (TasklistId: 1728) ---- (Expected: 18.9 ---- (Actual: 33.07373))
+2020-04-24 23:20:16.514: Task end event: (TasklistId: 1728) ---- (Expected: 23.5 ---- (Actual: 33.07593))
+2020-04-24 23:20:19.539: Task start event: (TasklistId: 1731) ---- (Expected: 23.5 ---- (Actual: 36.1012))
+2020-04-24 23:20:21.605: Task end event: (TasklistId: 1731) ---- (Expected: 24.7 ---- (Actual: 38.16772))
+2020-04-24 23:20:21.606: Task start event: (TasklistId: 1736) ---- (Expected: 24.7 ---- (Actual: 38.16901))
+2020-04-24 23:20:21.607: Task end event: (TasklistId: 1736) ---- (Expected: 25.2 ---- (Actual: 38.16974))
+2020-04-24 23:20:21.608: Timeline end event: (TasklistId: 1739) ---- (Expected: 25.2) ---- (Actual: 38.17041)
+2020-04-24 23:20:23.157: Finish
+2020-04-24 23:20:23.191: Finish
+2020-04-24 23:20:23.224: Finish
+2020-04-24 23:20:23.242: Finish
+2020-04-24 23:20:23.258: Finish
+2020-04-24 23:20:23.274: Finish
+2020-04-24 23:20:23.289: Finish
+2020-04-24 23:20:59.464: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:21:01.457: Finish
+2020-04-24 23:21:02.140: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:21:17.156: Animator.GotoState: State could not be found
+2020-04-24 23:21:17.159: Invalid Layer Index '-1'
+2020-04-24 23:21:17.176: Animator.GotoState: State could not be found
+2020-04-24 23:21:17.179: Invalid Layer Index '-1'
+2020-04-24 23:21:40.450: Timeline start event: (TasklistId: 1904) ---- (Expected Duration: 6)
+2020-04-24 23:21:43.047: Task start event: (TasklistId: 1923) ---- (Expected: 0 ---- (Actual: 2.596252))
+2020-04-24 23:21:44.548: Task end event: (TasklistId: 1923) ---- (Expected: 4.5 ---- (Actual: 4.097229))
+2020-04-24 23:21:44.580: Task start event: (TasklistId: 1925) ---- (Expected: 4.5 ---- (Actual: 4.130249))
+2020-04-24 23:21:44.634: Finish
+2020-04-24 23:21:44.648: Finish
+2020-04-24 23:21:44.664: Finish
+2020-04-24 23:21:44.683: Finish
+2020-04-24 23:21:44.699: Finish
+2020-04-24 23:21:44.715: Finish
+2020-04-24 23:21:44.730: Finish
+2020-04-24 23:21:46.296: Task end event: (TasklistId: 1925) ---- (Expected: 6 ---- (Actual: 5.845886))
+2020-04-24 23:21:46.297: Timeline end event: (TasklistId: 1925) ---- (Expected: 6) ---- (Actual: 5.845886)
+2020-04-24 23:21:47.350: Timeline start event: (TasklistId: 1926) ---- (Expected Duration: 20.1)
+2020-04-24 23:21:47.352: Task start event: (TasklistId: 1929) ---- (Expected: 0 ---- (Actual: 0.001831055))
+2020-04-24 23:21:47.354: Task end event: (TasklistId: 1929) ---- (Expected: 1.5 ---- (Actual: 0.003601074))
+2020-04-24 23:21:48.088: Task start event: (TasklistId: 1947) ---- (Expected: 1.5 ---- (Actual: 0.7380371))
+2020-04-24 23:21:49.074: Task end event: (TasklistId: 1947) ---- (Expected: 2.5 ---- (Actual: 1.723999))
+2020-04-24 23:21:49.081: Task start event: (TasklistId: 1948) ---- (Expected: 2.5 ---- (Actual: 1.730774))
+2020-04-24 23:21:50.359: Task end event: (TasklistId: 1948) ---- (Expected: 3.7 ---- (Actual: 3.008789))
+2020-04-24 23:21:51.968: Task start event: (TasklistId: 2061) ---- (Expected: 3.7 ---- (Actual: 4.618652))
+2020-04-24 23:21:51.971: Task end event: (TasklistId: 2061) ---- (Expected: 3.9 ---- (Actual: 4.620728))
+2020-04-24 23:21:53.697: Task start event: (TasklistId: 2065) ---- (Expected: 3.9 ---- (Actual: 6.346741))
+2020-04-24 23:21:53.698: Task end event: (TasklistId: 2065) ---- (Expected: 4.1 ---- (Actual: 6.347778))
+2020-04-24 23:21:55.313: Task start event: (TasklistId: 2067) ---- (Expected: 4.1 ---- (Actual: 7.96283))
+2020-04-24 23:21:55.314: Task end event: (TasklistId: 2067) ---- (Expected: 4.3 ---- (Actual: 7.963867))
+2020-04-24 23:21:55.358: Finish
+2020-04-24 23:21:55.358: Finish
+2020-04-24 23:21:55.690: Finish
+2020-04-24 23:21:56.082: Task start event: (TasklistId: 2069) ---- (Expected: 4.3 ---- (Actual: 8.731812))
+2020-04-24 23:21:56.083: Task end event: (TasklistId: 2069) ---- (Expected: 4.5 ---- (Actual: 8.732727))
+2020-04-24 23:21:56.083: Task start event: (TasklistId: 2070) ---- (Expected: 4.5 ---- (Actual: 8.733215))
+2020-04-24 23:21:57.279: Finish
+2020-04-24 23:21:57.356: Task end event: (TasklistId: 2070) ---- (Expected: 5.7 ---- (Actual: 10.00598))
+2020-04-24 23:21:58.191: Task start event: (TasklistId: 2085) ---- (Expected: 5.7 ---- (Actual: 10.84186))
+2020-04-24 23:21:58.192: Task end event: (TasklistId: 2085) ---- (Expected: 5.9 ---- (Actual: 10.84271))
+2020-04-24 23:21:58.358: Task start event: (TasklistId: 2087) ---- (Expected: 5.9 ---- (Actual: 11.00861))
+2020-04-24 23:21:58.359: Task end event: (TasklistId: 2087) ---- (Expected: 6.1 ---- (Actual: 11.00958))
+2020-04-24 23:21:58.360: Task start event: (TasklistId: 2088) ---- (Expected: 6.1 ---- (Actual: 11.01013))
+2020-04-24 23:21:59.625: Task end event: (TasklistId: 2088) ---- (Expected: 7.3 ---- (Actual: 12.27515))
+2020-04-24 23:21:59.808: Task start event: (TasklistId: 2096) ---- (Expected: 7.3 ---- (Actual: 12.45789))
+2020-04-24 23:22:01.080: Task end event: (TasklistId: 2096) ---- (Expected: 8.5 ---- (Actual: 13.72968))
+2020-04-24 23:22:02.592: Task start event: (TasklistId: 2110) ---- (Expected: 8.5 ---- (Actual: 15.2431))
+2020-04-24 23:22:03.858: Task end event: (TasklistId: 2110) ---- (Expected: 9.700001 ---- (Actual: 16.50836))
+2020-04-24 23:22:05.426: Task start event: (TasklistId: 2119) ---- (Expected: 9.700001 ---- (Actual: 18.07574))
+2020-04-24 23:22:05.427: Task end event: (TasklistId: 2119) ---- (Expected: 9.900001 ---- (Actual: 18.0769))
+2020-04-24 23:22:05.427: Task start event: (TasklistId: 2120) ---- (Expected: 9.900001 ---- (Actual: 18.07751))
+2020-04-24 23:22:06.702: Task end event: (TasklistId: 2120) ---- (Expected: 11.1 ---- (Actual: 19.35162))
+2020-04-24 23:22:06.776: Task start event: (TasklistId: 2128) ---- (Expected: 11.1 ---- (Actual: 19.42548))
+2020-04-24 23:22:08.052: Task end event: (TasklistId: 2128) ---- (Expected: 12.3 ---- (Actual: 20.7019))
+2020-04-24 23:22:08.226: Task start event: (TasklistId: 2135) ---- (Expected: 12.3 ---- (Actual: 20.8761))
+2020-04-24 23:22:09.739: Task end event: (TasklistId: 2135) ---- (Expected: 13.8 ---- (Actual: 22.38916))
+2020-04-24 23:22:09.754: Task start event: (TasklistId: 2137) ---- (Expected: 13.8 ---- (Actual: 22.4046))
+2020-04-24 23:22:09.756: Task end event: (TasklistId: 2137) ---- (Expected: 18.4 ---- (Actual: 22.40625))
+2020-04-24 23:22:12.759: Task start event: (TasklistId: 2140) ---- (Expected: 18.4 ---- (Actual: 25.40985))
+2020-04-24 23:22:14.835: Task end event: (TasklistId: 2140) ---- (Expected: 19.6 ---- (Actual: 27.48541))
+2020-04-24 23:22:14.837: Task start event: (TasklistId: 2145) ---- (Expected: 19.6 ---- (Actual: 27.48761))
+2020-04-24 23:22:14.839: Task end event: (TasklistId: 2145) ---- (Expected: 20.1 ---- (Actual: 27.48907))
+2020-04-24 23:22:14.839: Timeline end event: (TasklistId: 2148) ---- (Expected: 20.1) ---- (Actual: 27.48999)
+2020-04-24 23:22:16.384: Finish
+2020-04-24 23:22:16.425: Finish
+2020-04-24 23:22:16.437: Finish
+2020-04-24 23:22:16.454: Finish
+2020-04-24 23:22:16.470: Finish
+2020-04-24 23:22:16.488: Finish
+2020-04-24 23:22:16.505: Finish
+2020-04-24 23:22:27.367: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:22:29.876: Finish
+2020-04-24 23:22:30.154: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:22:39.395: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:23:24.135: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:23:25.148: Animator.GotoState: State could not be found
+2020-04-24 23:23:25.148: Invalid Layer Index '-1'
+2020-04-24 23:23:25.162: Animator.GotoState: State could not be found
+2020-04-24 23:23:25.165: Invalid Layer Index '-1'
+2020-04-24 23:23:48.989: Timeline start event: (TasklistId: 2243) ---- (Expected Duration: 6)
+2020-04-24 23:23:51.377: Task start event: (TasklistId: 2262) ---- (Expected: 0 ---- (Actual: 2.387695))
+2020-04-24 23:23:52.877: Task end event: (TasklistId: 2262) ---- (Expected: 4.5 ---- (Actual: 3.887817))
+2020-04-24 23:23:52.905: Task start event: (TasklistId: 2264) ---- (Expected: 4.5 ---- (Actual: 3.915527))
+2020-04-24 23:23:52.991: Finish
+2020-04-24 23:23:53.028: Finish
+2020-04-24 23:23:53.060: Finish
+2020-04-24 23:23:53.100: Finish
+2020-04-24 23:23:53.125: Finish
+2020-04-24 23:23:53.145: Finish
+2020-04-24 23:23:53.172: Finish
+2020-04-24 23:23:54.736: Task end event: (TasklistId: 2264) ---- (Expected: 6 ---- (Actual: 5.746704))
+2020-04-24 23:23:54.737: Timeline end event: (TasklistId: 2264) ---- (Expected: 6) ---- (Actual: 5.746704)
+2020-04-24 23:23:55.785: Timeline start event: (TasklistId: 2265) ---- (Expected Duration: 27)
+2020-04-24 23:23:55.787: Task start event: (TasklistId: 2268) ---- (Expected: 0 ---- (Actual: 0.001586914))
+2020-04-24 23:23:55.788: Task end event: (TasklistId: 2268) ---- (Expected: 1.5 ---- (Actual: 0.003051758))
+2020-04-24 23:23:57.118: Finish
+2020-04-24 23:23:57.672: Task start event: (TasklistId: 2290) ---- (Expected: 1.5 ---- (Actual: 1.887329))
+2020-04-24 23:23:57.672: Task end event: (TasklistId: 2290) ---- (Expected: 1.7 ---- (Actual: 1.888184))
+2020-04-24 23:23:57.870: Task start event: (TasklistId: 2295) ---- (Expected: 1.7 ---- (Actual: 2.084717))
+2020-04-24 23:23:57.901: Task end event: (TasklistId: 2295) ---- (Expected: 1.9 ---- (Actual: 2.116089))
+2020-04-24 23:23:58.192: Task start event: (TasklistId: 2302) ---- (Expected: 1.9 ---- (Actual: 2.407349))
+2020-04-24 23:23:58.192: Task end event: (TasklistId: 2302) ---- (Expected: 2.1 ---- (Actual: 2.408325))
+2020-04-24 23:23:58.833: Finish
+2020-04-24 23:23:59.407: Task start event: (TasklistId: 2306) ---- (Expected: 2.1 ---- (Actual: 3.622803))
+2020-04-24 23:24:00.430: Task end event: (TasklistId: 2306) ---- (Expected: 3.3 ---- (Actual: 4.64502))
+2020-04-24 23:24:00.438: Task start event: (TasklistId: 2307) ---- (Expected: 3.3 ---- (Actual: 4.65271))
+2020-04-24 23:24:01.730: Task end event: (TasklistId: 2307) ---- (Expected: 4.5 ---- (Actual: 5.945313))
+2020-04-24 23:24:03.232: Task start event: (TasklistId: 2327) ---- (Expected: 4.5 ---- (Actual: 7.44751))
+2020-04-24 23:24:03.313: Task end event: (TasklistId: 2327) ---- (Expected: 4.7 ---- (Actual: 7.52832))
+2020-04-24 23:24:03.352: Task start event: (TasklistId: 2329) ---- (Expected: 4.7 ---- (Actual: 7.568237))
+2020-04-24 23:24:04.635: Task end event: (TasklistId: 2329) ---- (Expected: 5.9 ---- (Actual: 8.849609))
+2020-04-24 23:24:06.237: Task start event: (TasklistId: 2402) ---- (Expected: 5.9 ---- (Actual: 10.4519))
+2020-04-24 23:24:06.238: Task end event: (TasklistId: 2402) ---- (Expected: 6.1 ---- (Actual: 10.45325))
+2020-04-24 23:24:08.323: Task start event: (TasklistId: 2406) ---- (Expected: 6.1 ---- (Actual: 12.53821))
+2020-04-24 23:24:08.326: Task end event: (TasklistId: 2406) ---- (Expected: 6.3 ---- (Actual: 12.54004))
+2020-04-24 23:24:09.902: Task start event: (TasklistId: 2408) ---- (Expected: 6.3 ---- (Actual: 14.11682))
+2020-04-24 23:24:09.902: Task end event: (TasklistId: 2408) ---- (Expected: 6.5 ---- (Actual: 14.1178))
+2020-04-24 23:24:09.989: Task start event: (TasklistId: 2412) ---- (Expected: 6.5 ---- (Actual: 14.20471))
+2020-04-24 23:24:09.991: Task end event: (TasklistId: 2412) ---- (Expected: 6.7 ---- (Actual: 14.20667))
+2020-04-24 23:24:09.992: Task start event: (TasklistId: 2413) ---- (Expected: 6.7 ---- (Actual: 14.20825))
+2020-04-24 23:24:11.265: Task end event: (TasklistId: 2413) ---- (Expected: 7.900001 ---- (Actual: 15.48059))
+2020-04-24 23:24:11.271: Task start event: (TasklistId: 2415) ---- (Expected: 7.900001 ---- (Actual: 15.48682))
+2020-04-24 23:24:11.878: Finish
+2020-04-24 23:24:12.546: Task end event: (TasklistId: 2415) ---- (Expected: 9.1 ---- (Actual: 16.76208))
+2020-04-24 23:24:12.679: Task start event: (TasklistId: 2425) ---- (Expected: 9.1 ---- (Actual: 16.8938))
+2020-04-24 23:24:12.832: Task end event: (TasklistId: 2425) ---- (Expected: 9.3 ---- (Actual: 17.047))
+2020-04-24 23:24:14.816: Task start event: (TasklistId: 2428) ---- (Expected: 9.3 ---- (Actual: 19.03101))
+2020-04-24 23:24:14.817: Task end event: (TasklistId: 2428) ---- (Expected: 9.5 ---- (Actual: 19.03259))
+2020-04-24 23:24:14.818: Task start event: (TasklistId: 2429) ---- (Expected: 9.5 ---- (Actual: 19.03345))
+2020-04-24 23:24:16.093: Task end event: (TasklistId: 2429) ---- (Expected: 10.7 ---- (Actual: 20.30847))
+2020-04-24 23:24:16.098: Task start event: (TasklistId: 2431) ---- (Expected: 10.7 ---- (Actual: 20.31348))
+2020-04-24 23:24:17.376: Task end event: (TasklistId: 2431) ---- (Expected: 11.9 ---- (Actual: 21.59167))
+2020-04-24 23:24:17.446: Task start event: (TasklistId: 2439) ---- (Expected: 11.9 ---- (Actual: 21.66077))
+2020-04-24 23:24:18.729: Task end event: (TasklistId: 2439) ---- (Expected: 13.1 ---- (Actual: 22.94409))
+2020-04-24 23:24:18.846: Finish
+2020-04-24 23:24:18.847: Finish
+2020-04-24 23:24:18.848: Finish
+2020-04-24 23:24:18.850: Finish
+2020-04-24 23:24:18.851: Finish
+2020-04-24 23:24:18.854: Finish
+2020-04-24 23:24:18.858: Finish
+2020-04-24 23:24:19.578: Task start event: (TasklistId: 2448) ---- (Expected: 13.1 ---- (Actual: 23.7937))
+2020-04-24 23:24:19.579: Task end event: (TasklistId: 2448) ---- (Expected: 13.3 ---- (Actual: 23.79492))
+2020-04-24 23:24:19.580: Task start event: (TasklistId: 2449) ---- (Expected: 13.3 ---- (Actual: 23.79565))
+2020-04-24 23:24:20.861: Task end event: (TasklistId: 2449) ---- (Expected: 14.5 ---- (Actual: 25.07605))
+2020-04-24 23:24:20.943: Task start event: (TasklistId: 2457) ---- (Expected: 14.5 ---- (Actual: 25.1582))
+2020-04-24 23:24:22.210: Task end event: (TasklistId: 2457) ---- (Expected: 15.7 ---- (Actual: 26.42529))
+2020-04-24 23:24:22.296: Task start event: (TasklistId: 2465) ---- (Expected: 15.7 ---- (Actual: 26.51074))
+2020-04-24 23:24:23.562: Task end event: (TasklistId: 2465) ---- (Expected: 16.9 ---- (Actual: 27.77759))
+2020-04-24 23:24:23.643: Task start event: (TasklistId: 2473) ---- (Expected: 16.9 ---- (Actual: 27.85803))
+2020-04-24 23:24:24.910: Task end event: (TasklistId: 2473) ---- (Expected: 18.1 ---- (Actual: 29.125))
+2020-04-24 23:24:24.993: Task start event: (TasklistId: 2481) ---- (Expected: 18.1 ---- (Actual: 29.2085))
+2020-04-24 23:24:26.261: Task end event: (TasklistId: 2481) ---- (Expected: 19.3 ---- (Actual: 30.47656))
+2020-04-24 23:24:26.359: Task start event: (TasklistId: 2488) ---- (Expected: 19.3 ---- (Actual: 30.57385))
+2020-04-24 23:24:27.876: Task end event: (TasklistId: 2488) ---- (Expected: 20.8 ---- (Actual: 32.09094))
+2020-04-24 23:24:27.895: Task start event: (TasklistId: 2490) ---- (Expected: 20.8 ---- (Actual: 32.11035))
+2020-04-24 23:24:27.897: Task end event: (TasklistId: 2490) ---- (Expected: 25.3 ---- (Actual: 32.11182))
+2020-04-24 23:24:30.724: Task start event: (TasklistId: 2493) ---- (Expected: 25.3 ---- (Actual: 34.93909))
+2020-04-24 23:24:32.790: Task end event: (TasklistId: 2493) ---- (Expected: 26.5 ---- (Actual: 37.005))
+2020-04-24 23:24:32.791: Task start event: (TasklistId: 2498) ---- (Expected: 26.5 ---- (Actual: 37.00635))
+2020-04-24 23:24:32.792: Task end event: (TasklistId: 2498) ---- (Expected: 27 ---- (Actual: 37.0072))
+2020-04-24 23:24:32.793: Timeline end event: (TasklistId: 2501) ---- (Expected: 27) ---- (Actual: 37.00793)
+2020-04-24 23:24:34.323: Finish
+2020-04-24 23:24:34.342: Finish
+2020-04-24 23:24:34.361: Finish
+2020-04-24 23:24:34.374: Finish
+2020-04-24 23:24:34.393: Finish
+2020-04-24 23:24:34.407: Finish
+2020-04-24 23:24:34.422: Finish
+2020-04-24 23:24:43.791: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:24:43.792: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=헌신적인 영웅 id=4879 zone=HAND zonePos=0 cardId=OG_221 player=2]
+2020-04-24 23:24:55.098: GameState.OnMetaData() - WARNING Entity 10 does not exist
+2020-04-24 23:24:55.099: OPPOSING PLAY.RemoveCard() - FAILED: 밥의 선술집 tried to remove [entityName=쥐 떼 id=4877 zone=HAND zonePos=0 cardId=CFM_316 player=2]
+2020-04-24 23:25:01.399: Actor.DestroySpell() - FAILED to destroy COIN_MANA_GEM because the Actor is not using a shared spell table.
+
+2020-04-24 23:25:03.150: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:25:04.935: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:25:05.032: Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 3 states for SpellStateType DEATH. There should be 1.
+2020-04-24 23:25:05.033: Bacon_FreezeMinions_AE_OpponentSide(Clone) (Spell).BuildFsmStateMap() - Found 2 transitions for SpellStateType DEATH. There should be 1.
+2020-04-24 23:25:05.390: Finish
+2020-04-24 23:25:11.096: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:25:44.768: Animator.GotoState: State could not be found
+2020-04-24 23:25:44.769: Invalid Layer Index '-1'
+2020-04-24 23:25:44.784: Animator.GotoState: State could not be found
+2020-04-24 23:25:44.787: Invalid Layer Index '-1'
+2020-04-24 23:26:02.465: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:26:03.379: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:26:07.955: Timeline start event: (TasklistId: 2678) ---- (Expected Duration: 6)
+2020-04-24 23:26:10.083: Task start event: (TasklistId: 2697) ---- (Expected: 0 ---- (Actual: 2.127319))
+2020-04-24 23:26:11.588: Task end event: (TasklistId: 2697) ---- (Expected: 4.5 ---- (Actual: 3.633301))
+2020-04-24 23:26:11.626: Task start event: (TasklistId: 2699) ---- (Expected: 4.5 ---- (Actual: 3.670898))
+2020-04-24 23:26:11.677: Finish
+2020-04-24 23:26:11.707: Finish
+2020-04-24 23:26:11.721: Finish
+2020-04-24 23:26:11.739: Finish
+2020-04-24 23:26:11.752: Finish
+2020-04-24 23:26:11.764: Finish
+2020-04-24 23:26:11.792: Finish
+2020-04-24 23:26:13.359: Task end event: (TasklistId: 2699) ---- (Expected: 6 ---- (Actual: 5.40332))
+2020-04-24 23:26:13.360: Timeline end event: (TasklistId: 2699) ---- (Expected: 6) ---- (Actual: 5.40332)
+2020-04-24 23:26:14.421: Timeline start event: (TasklistId: 2700) ---- (Expected Duration: 33.7)
+2020-04-24 23:26:14.422: Task start event: (TasklistId: 2703) ---- (Expected: 0 ---- (Actual: 0.001098633))
+2020-04-24 23:26:14.424: Task end event: (TasklistId: 2703) ---- (Expected: 1.5 ---- (Actual: 0.002441406))
+2020-04-24 23:26:15.134: Task start event: (TasklistId: 2715) ---- (Expected: 1.5 ---- (Actual: 0.7124023))
+2020-04-24 23:26:16.150: Task end event: (TasklistId: 2715) ---- (Expected: 2.5 ---- (Actual: 1.72876))
+2020-04-24 23:26:16.157: Task start event: (TasklistId: 2716) ---- (Expected: 2.5 ---- (Actual: 1.735718))
+2020-04-24 23:26:17.434: Task end event: (TasklistId: 2716) ---- (Expected: 3.7 ---- (Actual: 3.013184))
+2020-04-24 23:26:19.539: Task start event: (TasklistId: 2725) ---- (Expected: 3.7 ---- (Actual: 5.117554))
+2020-04-24 23:26:19.540: Task end event: (TasklistId: 2725) ---- (Expected: 3.9 ---- (Actual: 5.11853))
+2020-04-24 23:26:21.571: Task start event: (TasklistId: 2727) ---- (Expected: 3.9 ---- (Actual: 7.150391))
+2020-04-24 23:26:21.572: Task end event: (TasklistId: 2727) ---- (Expected: 4.1 ---- (Actual: 7.151489))
+2020-04-24 23:26:23.458: Task start event: (TasklistId: 2729) ---- (Expected: 4.1 ---- (Actual: 9.036743))
+2020-04-24 23:26:23.458: Task end event: (TasklistId: 2729) ---- (Expected: 4.3 ---- (Actual: 9.037598))
+2020-04-24 23:26:23.459: Task start event: (TasklistId: 2730) ---- (Expected: 4.3 ---- (Actual: 9.03833))
+2020-04-24 23:26:24.748: Task end event: (TasklistId: 2730) ---- (Expected: 5.5 ---- (Actual: 10.32703))
+2020-04-24 23:26:25.072: Task start event: (TasklistId: 2743) ---- (Expected: 5.5 ---- (Actual: 10.651))
+2020-04-24 23:26:25.073: Task end event: (TasklistId: 2743) ---- (Expected: 5.7 ---- (Actual: 10.65186))
+2020-04-24 23:26:25.074: Task start event: (TasklistId: 2744) ---- (Expected: 5.7 ---- (Actual: 10.65247))
+2020-04-24 23:26:26.331: Task end event: (TasklistId: 2744) ---- (Expected: 6.9 ---- (Actual: 11.90991))
+2020-04-24 23:26:27.965: Task start event: (TasklistId: 2841) ---- (Expected: 6.9 ---- (Actual: 13.54358))
+2020-04-24 23:26:27.966: Task end event: (TasklistId: 2841) ---- (Expected: 7.1 ---- (Actual: 13.54456))
+2020-04-24 23:26:29.821: Task start event: (TasklistId: 2845) ---- (Expected: 7.1 ---- (Actual: 15.39929))
+2020-04-24 23:26:29.822: Task end event: (TasklistId: 2845) ---- (Expected: 7.3 ---- (Actual: 15.40051))
+2020-04-24 23:26:31.633: Task start event: (TasklistId: 2847) ---- (Expected: 7.3 ---- (Actual: 17.21216))
+2020-04-24 23:26:31.634: Task end event: (TasklistId: 2847) ---- (Expected: 7.5 ---- (Actual: 17.21313))
+2020-04-24 23:26:33.616: Task start event: (TasklistId: 2849) ---- (Expected: 7.5 ---- (Actual: 19.19556))
+2020-04-24 23:26:33.617: Task end event: (TasklistId: 2849) ---- (Expected: 7.7 ---- (Actual: 19.19653))
+2020-04-24 23:26:35.215: Task start event: (TasklistId: 2851) ---- (Expected: 7.7 ---- (Actual: 20.79358))
+2020-04-24 23:26:35.216: Task end event: (TasklistId: 2851) ---- (Expected: 7.900001 ---- (Actual: 20.79468))
+2020-04-24 23:26:35.216: Task start event: (TasklistId: 2852) ---- (Expected: 7.900001 ---- (Actual: 20.79541))
+2020-04-24 23:26:36.477: Task end event: (TasklistId: 2852) ---- (Expected: 9.1 ---- (Actual: 22.05615))
+2020-04-24 23:26:37.178: Finish
+2020-04-24 23:26:38.267: Task start event: (TasklistId: 2870) ---- (Expected: 9.1 ---- (Actual: 23.84644))
+2020-04-24 23:26:39.547: Task end event: (TasklistId: 2870) ---- (Expected: 10.3 ---- (Actual: 25.125))
+2020-04-24 23:26:39.632: Task start event: (TasklistId: 2878) ---- (Expected: 10.3 ---- (Actual: 25.21069))
+2020-04-24 23:26:40.898: Task end event: (TasklistId: 2878) ---- (Expected: 11.5 ---- (Actual: 26.47717))
+2020-04-24 23:26:41.780: Task start event: (TasklistId: 2890) ---- (Expected: 11.5 ---- (Actual: 27.35815))
+2020-04-24 23:26:41.782: Task end event: (TasklistId: 2890) ---- (Expected: 11.7 ---- (Actual: 27.35999))
+2020-04-24 23:26:41.964: Task start event: (TasklistId: 2894) ---- (Expected: 11.7 ---- (Actual: 27.54248))
+2020-04-24 23:26:41.965: Task end event: (TasklistId: 2894) ---- (Expected: 11.9 ---- (Actual: 27.54346))
+2020-04-24 23:26:41.965: Task start event: (TasklistId: 2895) ---- (Expected: 11.9 ---- (Actual: 27.54407))
+2020-04-24 23:26:41.966: Task end event: (TasklistId: 2895) ---- (Expected: 12.1 ---- (Actual: 27.54468))
+2020-04-24 23:26:42.664: Task start event: (TasklistId: 2900) ---- (Expected: 12.1 ---- (Actual: 28.24304))
+2020-04-24 23:26:42.665: Task end event: (TasklistId: 2900) ---- (Expected: 12.3 ---- (Actual: 28.2439))
+2020-04-24 23:26:42.778: Task start event: (TasklistId: 2904) ---- (Expected: 12.3 ---- (Actual: 28.35632))
+2020-04-24 23:26:42.779: Task end event: (TasklistId: 2904) ---- (Expected: 12.5 ---- (Actual: 28.35803))
+2020-04-24 23:26:42.780: Task start event: (TasklistId: 2905) ---- (Expected: 12.5 ---- (Actual: 28.35901))
+2020-04-24 23:26:42.781: Task end event: (TasklistId: 2905) ---- (Expected: 12.7 ---- (Actual: 28.35974))
+2020-04-24 23:26:43.478: Task start event: (TasklistId: 2910) ---- (Expected: 12.7 ---- (Actual: 29.05725))
+2020-04-24 23:26:43.480: Task end event: (TasklistId: 2910) ---- (Expected: 12.9 ---- (Actual: 29.05859))
+2020-04-24 23:26:43.597: Task start event: (TasklistId: 2914) ---- (Expected: 12.9 ---- (Actual: 29.17554))
+2020-04-24 23:26:43.599: Task end event: (TasklistId: 2914) ---- (Expected: 13.1 ---- (Actual: 29.17749))
+2020-04-24 23:26:43.600: Task start event: (TasklistId: 2915) ---- (Expected: 13.1 ---- (Actual: 29.17847))
+2020-04-24 23:26:43.600: Task end event: (TasklistId: 2915) ---- (Expected: 13.3 ---- (Actual: 29.1792))
+2020-04-24 23:26:43.601: Task start event: (TasklistId: 2916) ---- (Expected: 13.3 ---- (Actual: 29.17981))
+2020-04-24 23:26:44.863: Task end event: (TasklistId: 2916) ---- (Expected: 14.5 ---- (Actual: 30.44165))
+2020-04-24 23:26:44.877: Task start event: (TasklistId: 2918) ---- (Expected: 14.5 ---- (Actual: 30.45532))
+2020-04-24 23:26:46.135: Task end event: (TasklistId: 2918) ---- (Expected: 15.7 ---- (Actual: 31.7135))
+2020-04-24 23:26:46.247: Finish
+2020-04-24 23:26:46.249: Finish
+2020-04-24 23:26:46.250: Finish
+2020-04-24 23:26:46.251: Finish
+2020-04-24 23:26:46.252: Finish
+2020-04-24 23:26:46.252: Finish
+2020-04-24 23:26:46.979: Task start event: (TasklistId: 2923) ---- (Expected: 15.7 ---- (Actual: 32.55737))
+2020-04-24 23:26:46.980: Task end event: (TasklistId: 2923) ---- (Expected: 15.9 ---- (Actual: 32.55884))
+2020-04-24 23:26:46.981: Task start event: (TasklistId: 2924) ---- (Expected: 15.9 ---- (Actual: 32.55969))
+2020-04-24 23:26:48.262: Task end event: (TasklistId: 2924) ---- (Expected: 17.1 ---- (Actual: 33.8407))
+2020-04-24 23:26:48.344: Task start event: (TasklistId: 2932) ---- (Expected: 17.1 ---- (Actual: 33.922))
+2020-04-24 23:26:49.629: Task end event: (TasklistId: 2932) ---- (Expected: 18.3 ---- (Actual: 35.20728))
+2020-04-24 23:26:49.711: Task start event: (TasklistId: 2940) ---- (Expected: 18.3 ---- (Actual: 35.28918))
+2020-04-24 23:26:50.994: Task end event: (TasklistId: 2940) ---- (Expected: 19.5 ---- (Actual: 36.57214))
+2020-04-24 23:26:51.074: Task start event: (TasklistId: 2948) ---- (Expected: 19.5 ---- (Actual: 36.65308))
+2020-04-24 23:26:52.342: Task end event: (TasklistId: 2948) ---- (Expected: 20.7 ---- (Actual: 37.92102))
+2020-04-24 23:26:52.510: Task start event: (TasklistId: 2956) ---- (Expected: 20.7 ---- (Actual: 38.08862))
+2020-04-24 23:26:53.775: Task end event: (TasklistId: 2956) ---- (Expected: 21.9 ---- (Actual: 39.35449))
+2020-04-24 23:26:55.876: Task start event: (TasklistId: 2965) ---- (Expected: 21.9 ---- (Actual: 41.45459))
+2020-04-24 23:26:55.877: Task end event: (TasklistId: 2965) ---- (Expected: 22.1 ---- (Actual: 41.45569))
+2020-04-24 23:26:55.877: Task start event: (TasklistId: 2966) ---- (Expected: 22.1 ---- (Actual: 41.4563))
+2020-04-24 23:26:57.155: Task end event: (TasklistId: 2966) ---- (Expected: 23.3 ---- (Actual: 42.73328))
+2020-04-24 23:26:57.224: Task start event: (TasklistId: 2974) ---- (Expected: 23.3 ---- (Actual: 42.80334))
+2020-04-24 23:26:58.503: Task end event: (TasklistId: 2974) ---- (Expected: 24.5 ---- (Actual: 44.08118))
+2020-04-24 23:26:59.241: Task start event: (TasklistId: 2986) ---- (Expected: 24.5 ---- (Actual: 44.82019))
+2020-04-24 23:26:59.243: Task end event: (TasklistId: 2986) ---- (Expected: 24.7 ---- (Actual: 44.82129))
+2020-04-24 23:26:59.360: Task start event: (TasklistId: 2990) ---- (Expected: 24.7 ---- (Actual: 44.93848))
+2020-04-24 23:26:59.361: Task end event: (TasklistId: 2990) ---- (Expected: 24.9 ---- (Actual: 44.93958))
+2020-04-24 23:26:59.362: Task start event: (TasklistId: 2991) ---- (Expected: 24.9 ---- (Actual: 44.94019))
+2020-04-24 23:26:59.362: Task end event: (TasklistId: 2991) ---- (Expected: 25.1 ---- (Actual: 44.9408))
+2020-04-24 23:26:59.363: Task start event: (TasklistId: 2993) ---- (Expected: 25.1 ---- (Actual: 44.94141))
+2020-04-24 23:26:59.363: Task end event: (TasklistId: 2993) ---- (Expected: 25.3 ---- (Actual: 44.94202))
+2020-04-24 23:26:59.364: Task start event: (TasklistId: 2995) ---- (Expected: 25.3 ---- (Actual: 44.94263))
+2020-04-24 23:27:00.874: Task end event: (TasklistId: 2995) ---- (Expected: 27 ---- (Actual: 46.45251))
+2020-04-24 23:27:00.891: Task start event: (TasklistId: 2997) ---- (Expected: 27 ---- (Actual: 46.4696))
+2020-04-24 23:27:00.892: Task end event: (TasklistId: 2997) ---- (Expected: 32 ---- (Actual: 46.4707))
+2020-04-24 23:27:04.557: Task start event: (TasklistId: 3000) ---- (Expected: 32 ---- (Actual: 50.13599))
+2020-04-24 23:27:07.625: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:27:07.789: Task end event: (TasklistId: 3000) ---- (Expected: 33.2 ---- (Actual: 53.3678))
+2020-04-24 23:27:07.805: Task start event: (TasklistId: 3003) ---- (Expected: 33.2 ---- (Actual: 53.38318))
+2020-04-24 23:27:07.806: Task end event: (TasklistId: 3003) ---- (Expected: 33.7 ---- (Actual: 53.38428))
+2020-04-24 23:27:07.947: Timeline end event: (TasklistId: 3010) ---- (Expected: 33.7) ---- (Actual: 53.52551)
+2020-04-24 23:27:07.975: Finish
+2020-04-24 23:27:07.995: Finish
+2020-04-24 23:27:08.007: Finish
+2020-04-24 23:27:08.023: Finish
+2020-04-24 23:27:08.041: Finish
+2020-04-24 23:27:08.060: Finish
+2020-04-24 23:27:08.071: Finish
+2020-04-24 23:27:15.327: Ending Experiment
+2020-04-24 23:27:15.743: Releasing render texture that is set as Camera.targetTexture!
+
+2020-04-24 23:27:15.766: BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneMgr/LoadingScreen(Clone)/BaconTwoScoop(Clone)/Hitbox"
+2020-04-24 23:27:15.904: RegisterScreenBox tempGuardianVars=NetCache+NetCacheFeatures
+2020-04-24 23:27:16.009: show postition = (0.0, 0.0, 0.0) (5.0, 5.0, 5.0)
+2020-04-24 23:27:28.562: BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "BaseUI(Clone)/ChatMgr(Clone)/FriendListFrame(Clone)/ItemsList"
+2020-04-24 23:27:30.329: Network.GotoGameServer -- address= 110.45.208.54:1119, game=568, client=0, spectateKey=IfaGMj reconnecting=False
+2020-04-24 23:27:35.108: Camera.main is null. FullScreenEffects will fail.
+
+2020-04-24 23:27:35.117: Camera.main is null. FullScreenEffects will fail.
+
+2020-04-24 23:27:37.192: Beginning Experiment: Gameplay
+2020-04-24 23:27:40.762: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:27:40.773: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:27:41.047: GameState.OnMetaData() - WARNING Entity 9 does not exist
+2020-04-24 23:27:42.145: GameState.OnMetaData() - WARNING Entity 9 does not exist
+2020-04-24 23:27:42.231: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:27:42.846: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:27:43.431: GameState.OnMetaData() - WARNING Entity 9 does not exist
+2020-04-24 23:27:58.735: Animator.GotoState: State could not be found
+2020-04-24 23:27:58.736: Invalid Layer Index '-1'
+2020-04-24 23:27:58.755: Animator.GotoState: State could not be found
+2020-04-24 23:27:58.756: Invalid Layer Index '-1'
+2020-04-24 23:28:12.835: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:12.957: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:12.965: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:13.025: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:13.030: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:13.060: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:13.067: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:15.211: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:15.245: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:15.249: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:15.267: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:15.270: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:15.294: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:15.299: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:21.424: Timeline start event: (TasklistId: 44) ---- (Expected Duration: 6)
+2020-04-24 23:28:21.480: Task start event: (TasklistId: 63) ---- (Expected: 0 ---- (Actual: 0.05603027))
+2020-04-24 23:28:22.962: Task end event: (TasklistId: 63) ---- (Expected: 4.5 ---- (Actual: 1.538086))
+2020-04-24 23:28:22.994: Task start event: (TasklistId: 65) ---- (Expected: 4.5 ---- (Actual: 1.569946))
+2020-04-24 23:28:23.034: Finish
+2020-04-24 23:28:23.049: Finish
+2020-04-24 23:28:23.068: Finish
+2020-04-24 23:28:23.084: Finish
+2020-04-24 23:28:23.098: Finish
+2020-04-24 23:28:23.115: Finish
+2020-04-24 23:28:23.134: Finish
+2020-04-24 23:28:24.657: Task end event: (TasklistId: 65) ---- (Expected: 6 ---- (Actual: 3.232544))
+2020-04-24 23:28:24.659: Timeline end event: (TasklistId: 65) ---- (Expected: 6) ---- (Actual: 3.232544)
+2020-04-24 23:28:25.709: Timeline start event: (TasklistId: 66) ---- (Expected Duration: 45.1)
+2020-04-24 23:28:25.710: Task start event: (TasklistId: 69) ---- (Expected: 0 ---- (Actual: 0.001220703))
+2020-04-24 23:28:26.711: Task end event: (TasklistId: 69) ---- (Expected: 1 ---- (Actual: 1.001831))
+2020-04-24 23:28:26.727: Task start event: (TasklistId: 70) ---- (Expected: 1 ---- (Actual: 1.016968))
+2020-04-24 23:28:26.949: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:27.178: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:27.223: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:27.230: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:27.252: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:27.255: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:27.278: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:27.280: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:27.681: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:27.993: Task end event: (TasklistId: 70) ---- (Expected: 2.2 ---- (Actual: 2.284058))
+2020-04-24 23:28:28.028: Task start event: (TasklistId: 76) ---- (Expected: 2.2 ---- (Actual: 2.318848))
+2020-04-24 23:28:28.178: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:29.266: Task end event: (TasklistId: 76) ---- (Expected: 3.4 ---- (Actual: 3.556885))
+2020-04-24 23:28:29.544: Task start event: (TasklistId: 81) ---- (Expected: 3.4 ---- (Actual: 3.835327))
+2020-04-24 23:28:29.545: Task end event: (TasklistId: 81) ---- (Expected: 3.6 ---- (Actual: 3.836426))
+2020-04-24 23:28:31.340: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:28:31.612: Task start event: (TasklistId: 85) ---- (Expected: 3.6 ---- (Actual: 5.902344))
+2020-04-24 23:28:31.613: Task end event: (TasklistId: 85) ---- (Expected: 3.8 ---- (Actual: 5.903564))
+2020-04-24 23:28:33.496: Task start event: (TasklistId: 87) ---- (Expected: 3.8 ---- (Actual: 7.787231))
+2020-04-24 23:28:33.497: Task end event: (TasklistId: 87) ---- (Expected: 4 ---- (Actual: 7.788208))
+2020-04-24 23:28:35.377: Task start event: (TasklistId: 89) ---- (Expected: 4 ---- (Actual: 9.667725))
+2020-04-24 23:28:35.379: Task end event: (TasklistId: 89) ---- (Expected: 4.2 ---- (Actual: 9.669067))
+2020-04-24 23:28:35.379: Task start event: (TasklistId: 90) ---- (Expected: 4.2 ---- (Actual: 9.669922))
+2020-04-24 23:28:36.656: Task end event: (TasklistId: 90) ---- (Expected: 5.4 ---- (Actual: 10.94617))
+2020-04-24 23:28:38.111: Task start event: (TasklistId: 100) ---- (Expected: 5.4 ---- (Actual: 12.40149))
+2020-04-24 23:28:39.392: Task end event: (TasklistId: 100) ---- (Expected: 6.6 ---- (Actual: 13.68201))
+2020-04-24 23:28:39.406: Task start event: (TasklistId: 106) ---- (Expected: 6.6 ---- (Actual: 13.69666))
+2020-04-24 23:28:40.673: Task end event: (TasklistId: 106) ---- (Expected: 7.8 ---- (Actual: 14.96399))
+2020-04-24 23:28:40.908: Task start event: (TasklistId: 108) ---- (Expected: 7.8 ---- (Actual: 15.19812))
+2020-04-24 23:28:40.908: Task end event: (TasklistId: 108) ---- (Expected: 8 ---- (Actual: 15.1991))
+2020-04-24 23:28:41.708: Task start event: (TasklistId: 116) ---- (Expected: 8 ---- (Actual: 15.99829))
+2020-04-24 23:28:41.709: Task end event: (TasklistId: 116) ---- (Expected: 8.200001 ---- (Actual: 15.99939))
+2020-04-24 23:28:41.887: Task start event: (TasklistId: 120) ---- (Expected: 8.200001 ---- (Actual: 16.17859))
+2020-04-24 23:28:41.888: Task end event: (TasklistId: 120) ---- (Expected: 8.400001 ---- (Actual: 16.17957))
+2020-04-24 23:28:41.889: Task start event: (TasklistId: 121) ---- (Expected: 8.400001 ---- (Actual: 16.18018))
+2020-04-24 23:28:41.890: Task end event: (TasklistId: 121) ---- (Expected: 8.6 ---- (Actual: 16.18091))
+2020-04-24 23:28:42.589: Task start event: (TasklistId: 126) ---- (Expected: 8.6 ---- (Actual: 16.87964))
+2020-04-24 23:28:42.590: Task end event: (TasklistId: 126) ---- (Expected: 8.8 ---- (Actual: 16.8811))
+2020-04-24 23:28:42.707: Task start event: (TasklistId: 130) ---- (Expected: 8.8 ---- (Actual: 16.99744))
+2020-04-24 23:28:42.708: Task end event: (TasklistId: 130) ---- (Expected: 9 ---- (Actual: 16.99866))
+2020-04-24 23:28:42.708: Task start event: (TasklistId: 131) ---- (Expected: 9 ---- (Actual: 16.99927))
+2020-04-24 23:28:42.709: Task end event: (TasklistId: 131) ---- (Expected: 9.200001 ---- (Actual: 16.99976))
+2020-04-24 23:28:42.709: Task start event: (TasklistId: 133) ---- (Expected: 9.200001 ---- (Actual: 17.00037))
+2020-04-24 23:28:42.710: Task end event: (TasklistId: 133) ---- (Expected: 9.400001 ---- (Actual: 17.00098))
+2020-04-24 23:28:42.711: Task start event: (TasklistId: 134) ---- (Expected: 9.400001 ---- (Actual: 17.00146))
+2020-04-24 23:28:43.989: Task end event: (TasklistId: 134) ---- (Expected: 10.6 ---- (Actual: 18.28015))
+2020-04-24 23:28:44.607: Task start event: (TasklistId: 143) ---- (Expected: 10.6 ---- (Actual: 18.89856))
+2020-04-24 23:28:44.608: Task end event: (TasklistId: 143) ---- (Expected: 10.8 ---- (Actual: 18.89966))
+2020-04-24 23:28:45.187: Task start event: (TasklistId: 145) ---- (Expected: 10.8 ---- (Actual: 19.47791))
+2020-04-24 23:28:45.188: Task end event: (TasklistId: 145) ---- (Expected: 11 ---- (Actual: 19.47888))
+2020-04-24 23:28:45.188: Task start event: (TasklistId: 146) ---- (Expected: 11 ---- (Actual: 19.47937))
+2020-04-24 23:28:46.455: Task end event: (TasklistId: 146) ---- (Expected: 12.2 ---- (Actual: 20.74536))
+2020-04-24 23:28:46.920: Task start event: (TasklistId: 154) ---- (Expected: 12.2 ---- (Actual: 21.21082))
+2020-04-24 23:28:48.186: Task end event: (TasklistId: 154) ---- (Expected: 13.4 ---- (Actual: 22.47729))
+2020-04-24 23:28:48.436: Task start event: (TasklistId: 162) ---- (Expected: 13.4 ---- (Actual: 22.72644))
+2020-04-24 23:28:49.702: Task end event: (TasklistId: 162) ---- (Expected: 14.6 ---- (Actual: 23.99292))
+2020-04-24 23:28:49.947: ParticlePlayAction.OnEnter() - ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject) has no ParticleSystem component. Owner=ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject)
+2020-04-24 23:28:49.949: ParticlePlayAction.OnEnter() - ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject) has no ParticleSystem component. Owner=ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject)
+2020-04-24 23:28:51.218: Task start event: (TasklistId: 171) ---- (Expected: 14.6 ---- (Actual: 25.50952))
+2020-04-24 23:28:51.219: Task end event: (TasklistId: 171) ---- (Expected: 14.8 ---- (Actual: 25.5105))
+2020-04-24 23:28:51.272: ParticlePlayAction.OnEnter() - ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject) has no ParticleSystem component. Owner=ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject)
+2020-04-24 23:28:52.519: Task start event: (TasklistId: 173) ---- (Expected: 14.8 ---- (Actual: 26.80957))
+2020-04-24 23:28:52.520: Task end event: (TasklistId: 173) ---- (Expected: 15 ---- (Actual: 26.81055))
+2020-04-24 23:28:52.520: Task start event: (TasklistId: 174) ---- (Expected: 15 ---- (Actual: 26.81116))
+2020-04-24 23:28:53.806: Task end event: (TasklistId: 174) ---- (Expected: 16.2 ---- (Actual: 28.09656))
+2020-04-24 23:28:53.818: Task start event: (TasklistId: 180) ---- (Expected: 16.2 ---- (Actual: 28.10852))
+2020-04-24 23:28:55.086: Task end event: (TasklistId: 180) ---- (Expected: 17.4 ---- (Actual: 29.3772))
+2020-04-24 23:28:55.218: ParticlePlayAction.OnEnter() - ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject) has no ParticleSystem component. Owner=ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject)
+2020-04-24 23:28:56.481: Task start event: (TasklistId: 189) ---- (Expected: 17.4 ---- (Actual: 30.77271))
+2020-04-24 23:28:56.482: Task end event: (TasklistId: 189) ---- (Expected: 17.6 ---- (Actual: 30.77368))
+2020-04-24 23:28:56.483: Task start event: (TasklistId: 191) ---- (Expected: 17.6 ---- (Actual: 30.77441))
+2020-04-24 23:28:56.484: Task end event: (TasklistId: 191) ---- (Expected: 17.8 ---- (Actual: 30.77515))
+2020-04-24 23:28:56.484: Task start event: (TasklistId: 192) ---- (Expected: 17.8 ---- (Actual: 30.77563))
+2020-04-24 23:28:58.368: Task end event: (TasklistId: 192) ---- (Expected: 19 ---- (Actual: 32.65869))
+2020-04-24 23:28:58.552: Task start event: (TasklistId: 200) ---- (Expected: 19 ---- (Actual: 32.84241))
+2020-04-24 23:28:59.834: Task end event: (TasklistId: 200) ---- (Expected: 20.2 ---- (Actual: 34.12476))
+2020-04-24 23:29:00.284: Task start event: (TasklistId: 213) ---- (Expected: 20.2 ---- (Actual: 34.57471))
+2020-04-24 23:29:00.285: Task end event: (TasklistId: 213) ---- (Expected: 20.4 ---- (Actual: 34.57556))
+2020-04-24 23:29:00.513: Task start event: (TasklistId: 219) ---- (Expected: 20.4 ---- (Actual: 34.80444))
+2020-04-24 23:29:00.514: Task end event: (TasklistId: 219) ---- (Expected: 20.6 ---- (Actual: 34.8053))
+2020-04-24 23:29:00.515: Task start event: (TasklistId: 220) ---- (Expected: 20.6 ---- (Actual: 34.80603))
+2020-04-24 23:29:01.767: Task end event: (TasklistId: 220) ---- (Expected: 21.8 ---- (Actual: 36.0575))
+2020-04-24 23:29:02.014: Task start event: (TasklistId: 226) ---- (Expected: 21.8 ---- (Actual: 36.30469))
+2020-04-24 23:29:02.015: Task end event: (TasklistId: 226) ---- (Expected: 22 ---- (Actual: 36.30566))
+2020-04-24 23:29:02.734: Task start event: (TasklistId: 234) ---- (Expected: 22 ---- (Actual: 37.02429))
+2020-04-24 23:29:02.735: Task end event: (TasklistId: 234) ---- (Expected: 22.2 ---- (Actual: 37.02588))
+2020-04-24 23:29:02.736: Task start event: (TasklistId: 235) ---- (Expected: 22.2 ---- (Actual: 37.02661))
+2020-04-24 23:29:02.797: Task end event: (TasklistId: 235) ---- (Expected: 22.4 ---- (Actual: 37.02759))
+2020-04-24 23:29:03.483: Task start event: (TasklistId: 240) ---- (Expected: 22.4 ---- (Actual: 37.77417))
+2020-04-24 23:29:03.484: Task end event: (TasklistId: 240) ---- (Expected: 22.6 ---- (Actual: 37.77515))
+2020-04-24 23:29:03.484: Task start event: (TasklistId: 241) ---- (Expected: 22.6 ---- (Actual: 37.77563))
+2020-04-24 23:29:03.485: Task end event: (TasklistId: 241) ---- (Expected: 22.8 ---- (Actual: 37.77625))
+2020-04-24 23:29:03.486: Task start event: (TasklistId: 243) ---- (Expected: 22.8 ---- (Actual: 37.77698))
+2020-04-24 23:29:03.486: Task end event: (TasklistId: 243) ---- (Expected: 23 ---- (Actual: 37.77759))
+2020-04-24 23:29:03.487: Task start event: (TasklistId: 244) ---- (Expected: 23 ---- (Actual: 37.7782))
+2020-04-24 23:29:05.232: Task end event: (TasklistId: 244) ---- (Expected: 24.2 ---- (Actual: 39.52295))
+2020-04-24 23:29:05.316: Task start event: (TasklistId: 252) ---- (Expected: 24.2 ---- (Actual: 39.60706))
+2020-04-24 23:29:06.586: Task end event: (TasklistId: 252) ---- (Expected: 25.4 ---- (Actual: 40.87634))
+2020-04-24 23:29:06.813: Task start event: (TasklistId: 260) ---- (Expected: 25.4 ---- (Actual: 41.10437))
+2020-04-24 23:29:08.080: Task end event: (TasklistId: 260) ---- (Expected: 26.6 ---- (Actual: 42.37073))
+2020-04-24 23:29:08.164: Task start event: (TasklistId: 268) ---- (Expected: 26.6 ---- (Actual: 42.45508))
+2020-04-24 23:29:09.431: Task end event: (TasklistId: 268) ---- (Expected: 27.8 ---- (Actual: 43.72217))
+2020-04-24 23:29:09.678: Task start event: (TasklistId: 274) ---- (Expected: 27.8 ---- (Actual: 43.96912))
+2020-04-24 23:29:09.679: Task end event: (TasklistId: 274) ---- (Expected: 28 ---- (Actual: 43.97009))
+2020-04-24 23:29:09.815: Task start event: (TasklistId: 278) ---- (Expected: 28 ---- (Actual: 44.10535))
+2020-04-24 23:29:10.766: BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "BaseUI(Clone)/ChatMgr(Clone)/FriendListFrame(Clone)/ItemsList"
+2020-04-24 23:29:10.912: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:29:10.945: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:29:10.949: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:29:10.981: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:29:10.984: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:29:11.005: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:29:11.010: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:29:11.097: Task end event: (TasklistId: 278) ---- (Expected: 29.2 ---- (Actual: 45.38782))
+2020-04-24 23:29:11.179: Task start event: (TasklistId: 286) ---- (Expected: 29.2 ---- (Actual: 45.46924))
+2020-04-24 23:29:12.661: Task end event: (TasklistId: 286) ---- (Expected: 30.4 ---- (Actual: 46.95203))
+2020-04-24 23:29:14.819: Task start event: (TasklistId: 295) ---- (Expected: 30.4 ---- (Actual: 49.10889))
+2020-04-24 23:29:14.821: Task end event: (TasklistId: 295) ---- (Expected: 30.6 ---- (Actual: 49.11121))
+2020-04-24 23:29:15.974: Finish
+2020-04-24 23:29:16.697: Task start event: (TasklistId: 297) ---- (Expected: 30.6 ---- (Actual: 50.98694))
+2020-04-24 23:29:16.698: Task end event: (TasklistId: 297) ---- (Expected: 30.8 ---- (Actual: 50.98804))
+2020-04-24 23:29:16.698: Task start event: (TasklistId: 298) ---- (Expected: 30.8 ---- (Actual: 50.98865))
+2020-04-24 23:29:17.957: Task end event: (TasklistId: 298) ---- (Expected: 32 ---- (Actual: 52.24744))
+2020-04-24 23:29:18.688: Task start event: (TasklistId: 307) ---- (Expected: 32 ---- (Actual: 52.97778))
+2020-04-24 23:29:18.691: Task end event: (TasklistId: 307) ---- (Expected: 32.2 ---- (Actual: 52.98132))
+2020-04-24 23:29:18.695: Task start event: (TasklistId: 308) ---- (Expected: 32.2 ---- (Actual: 52.98486))
+2020-04-24 23:29:20.467: Task end event: (TasklistId: 308) ---- (Expected: 33.4 ---- (Actual: 54.75708))
+2020-04-24 23:29:20.582: Task start event: (TasklistId: 316) ---- (Expected: 33.4 ---- (Actual: 54.87256))
+2020-04-24 23:29:21.859: Task end event: (TasklistId: 316) ---- (Expected: 34.6 ---- (Actual: 56.15027))
+2020-04-24 23:29:21.961: Task start event: (TasklistId: 325) ---- (Expected: 34.6 ---- (Actual: 56.25171))
+2020-04-24 23:29:23.461: Task end event: (TasklistId: 325) ---- (Expected: 36.3 ---- (Actual: 57.75159))
+2020-04-24 23:29:23.474: Task start event: (TasklistId: 327) ---- (Expected: 36.3 ---- (Actual: 57.76489))
+2020-04-24 23:29:23.476: Task end event: (TasklistId: 327) ---- (Expected: 40.9 ---- (Actual: 57.76611))
+2020-04-24 23:29:26.510: Task start event: (TasklistId: 330) ---- (Expected: 40.9 ---- (Actual: 60.80151))
+2020-04-24 23:29:29.557: Task end event: (TasklistId: 330) ---- (Expected: 42.1 ---- (Actual: 63.84717))
+2020-04-24 23:29:29.573: Task start event: (TasklistId: 337) ---- (Expected: 42.1 ---- (Actual: 63.8634))
+2020-04-24 23:29:29.574: Task end event: (TasklistId: 337) ---- (Expected: 42.6 ---- (Actual: 63.8645))
+2020-04-24 23:29:32.655: Task start event: (TasklistId: 339) ---- (Expected: 42.6 ---- (Actual: 66.94507))
+2020-04-24 23:29:32.656: Task end event: (TasklistId: 339) ---- (Expected: 45.1 ---- (Actual: 66.9469))
+2020-04-24 23:29:32.704: Timeline end event: (TasklistId: 344) ---- (Expected: 45.1) ---- (Actual: 66.99475)
+2020-04-24 23:29:34.259: Finish
+2020-04-24 23:29:34.290: Finish
+2020-04-24 23:29:34.308: Finish
+2020-04-24 23:29:34.328: Finish
+2020-04-24 23:29:34.340: Finish
+2020-04-24 23:29:34.356: Finish
+2020-04-24 23:29:34.393: Finish
+2020-04-24 23:29:38.971: GameState.OnMetaData() - WARNING Entity 9 does not exist
+2020-04-24 23:29:46.168: GameState.OnMetaData() - WARNING Entity 9 does not exist
+2020-04-24 23:30:04.909: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:04.938: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:04.942: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:04.958: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:04.960: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:04.980: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:04.984: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:23.462: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:23.494: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:23.499: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:23.521: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:23.524: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:23.550: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:23.553: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:30:26.707: Animator.GotoState: State could not be found
+2020-04-24 23:30:26.708: Invalid Layer Index '-1'
+2020-04-24 23:30:26.721: Animator.GotoState: State could not be found
+2020-04-24 23:30:26.721: Invalid Layer Index '-1'
+2020-04-24 23:30:49.812: Timeline start event: (TasklistId: 535) ---- (Expected Duration: 6)
+2020-04-24 23:30:49.859: Task start event: (TasklistId: 554) ---- (Expected: 0 ---- (Actual: 0.04748535))
+2020-04-24 23:30:51.366: Task end event: (TasklistId: 554) ---- (Expected: 4.5 ---- (Actual: 1.553467))
+2020-04-24 23:30:51.394: Task start event: (TasklistId: 556) ---- (Expected: 4.5 ---- (Actual: 1.581543))
+2020-04-24 23:30:51.448: Finish
+2020-04-24 23:30:51.465: Finish
+2020-04-24 23:30:51.484: Finish
+2020-04-24 23:30:51.500: Finish
+2020-04-24 23:30:51.512: Finish
+2020-04-24 23:30:51.534: Finish
+2020-04-24 23:30:51.566: Finish
+2020-04-24 23:30:53.127: Task end event: (TasklistId: 556) ---- (Expected: 6 ---- (Actual: 3.314819))
+2020-04-24 23:30:53.127: Timeline end event: (TasklistId: 556) ---- (Expected: 6) ---- (Actual: 3.314819)
+2020-04-24 23:30:54.177: Timeline start event: (TasklistId: 557) ---- (Expected Duration: 43.3)
+2020-04-24 23:30:54.838: Finish
+2020-04-24 23:30:55.396: Task start event: (TasklistId: 564) ---- (Expected: 0 ---- (Actual: 1.21936))
+2020-04-24 23:30:55.398: Task end event: (TasklistId: 564) ---- (Expected: 0.2 ---- (Actual: 1.220825))
+2020-04-24 23:30:55.594: Task start event: (TasklistId: 569) ---- (Expected: 0.2 ---- (Actual: 1.417236))
+2020-04-24 23:30:55.627: Task end event: (TasklistId: 569) ---- (Expected: 0.4 ---- (Actual: 1.450317))
+2020-04-24 23:30:56.393: Task start event: (TasklistId: 575) ---- (Expected: 0.4 ---- (Actual: 2.216553))
+2020-04-24 23:30:56.394: Task end event: (TasklistId: 575) ---- (Expected: 0.6 ---- (Actual: 2.217407))
+2020-04-24 23:30:56.395: Task start event: (TasklistId: 576) ---- (Expected: 0.6 ---- (Actual: 2.21814))
+2020-04-24 23:30:56.395: Task end event: (TasklistId: 576) ---- (Expected: 0.8 ---- (Actual: 2.218628))
+2020-04-24 23:30:56.396: Task start event: (TasklistId: 578) ---- (Expected: 0.8 ---- (Actual: 2.21936))
+2020-04-24 23:30:56.397: Task end event: (TasklistId: 578) ---- (Expected: 1 ---- (Actual: 2.219971))
+2020-04-24 23:30:56.397: Task start event: (TasklistId: 580) ---- (Expected: 1 ---- (Actual: 2.220703))
+2020-04-24 23:30:57.394: Task end event: (TasklistId: 580) ---- (Expected: 2.2 ---- (Actual: 3.217041))
+2020-04-24 23:30:57.411: Task start event: (TasklistId: 581) ---- (Expected: 2.2 ---- (Actual: 3.235352))
+2020-04-24 23:30:58.680: Task end event: (TasklistId: 581) ---- (Expected: 3.4 ---- (Actual: 4.502686))
+2020-04-24 23:30:58.693: Task start event: (TasklistId: 587) ---- (Expected: 3.4 ---- (Actual: 4.516602))
+2020-04-24 23:30:59.945: Task end event: (TasklistId: 587) ---- (Expected: 4.6 ---- (Actual: 5.768433))
+2020-04-24 23:31:00.078: Task start event: (TasklistId: 597) ---- (Expected: 4.6 ---- (Actual: 5.901611))
+2020-04-24 23:31:00.098: Task end event: (TasklistId: 597) ---- (Expected: 4.8 ---- (Actual: 5.921631))
+2020-04-24 23:31:02.082: Task start event: (TasklistId: 600) ---- (Expected: 4.8 ---- (Actual: 7.905884))
+2020-04-24 23:31:02.084: Task end event: (TasklistId: 600) ---- (Expected: 5 ---- (Actual: 7.907227))
+2020-04-24 23:31:03.978: Task start event: (TasklistId: 602) ---- (Expected: 5 ---- (Actual: 9.80127))
+2020-04-24 23:31:03.979: Task end event: (TasklistId: 602) ---- (Expected: 5.2 ---- (Actual: 9.802368))
+2020-04-24 23:31:05.997: Task start event: (TasklistId: 604) ---- (Expected: 5.2 ---- (Actual: 11.8197))
+2020-04-24 23:31:05.998: Task end event: (TasklistId: 604) ---- (Expected: 5.4 ---- (Actual: 11.82092))
+2020-04-24 23:31:05.998: Task start event: (TasklistId: 605) ---- (Expected: 5.4 ---- (Actual: 11.82153))
+2020-04-24 23:31:07.270: Task end event: (TasklistId: 605) ---- (Expected: 6.6 ---- (Actual: 13.09314))
+2020-04-24 23:31:07.392: Task start event: (TasklistId: 615) ---- (Expected: 6.6 ---- (Actual: 13.2157))
+2020-04-24 23:31:07.424: Task end event: (TasklistId: 615) ---- (Expected: 6.8 ---- (Actual: 13.24756))
+2020-04-24 23:31:08.162: Task start event: (TasklistId: 621) ---- (Expected: 6.8 ---- (Actual: 13.98486))
+2020-04-24 23:31:08.163: Task end event: (TasklistId: 621) ---- (Expected: 7 ---- (Actual: 13.98608))
+2020-04-24 23:31:08.163: Task start event: (TasklistId: 622) ---- (Expected: 7 ---- (Actual: 13.98682))
+2020-04-24 23:31:08.164: Task end event: (TasklistId: 622) ---- (Expected: 7.2 ---- (Actual: 13.9873))
+2020-04-24 23:31:08.859: Task start event: (TasklistId: 627) ---- (Expected: 7.2 ---- (Actual: 14.68213))
+2020-04-24 23:31:08.860: Task end event: (TasklistId: 627) ---- (Expected: 7.400001 ---- (Actual: 14.68323))
+2020-04-24 23:31:08.860: Task start event: (TasklistId: 628) ---- (Expected: 7.400001 ---- (Actual: 14.68384))
+2020-04-24 23:31:08.861: Task end event: (TasklistId: 628) ---- (Expected: 7.6 ---- (Actual: 14.68445))
+2020-04-24 23:31:08.862: Task start event: (TasklistId: 630) ---- (Expected: 7.6 ---- (Actual: 14.68506))
+2020-04-24 23:31:08.862: Task end event: (TasklistId: 630) ---- (Expected: 7.8 ---- (Actual: 14.68579))
+2020-04-24 23:31:08.863: Task start event: (TasklistId: 631) ---- (Expected: 7.8 ---- (Actual: 14.68652))
+2020-04-24 23:31:10.357: Task end event: (TasklistId: 631) ---- (Expected: 9 ---- (Actual: 16.18103))
+2020-04-24 23:31:10.472: Task start event: (TasklistId: 641) ---- (Expected: 9 ---- (Actual: 16.29565))
+2020-04-24 23:31:10.496: Task end event: (TasklistId: 641) ---- (Expected: 9.200001 ---- (Actual: 16.31946))
+2020-04-24 23:31:12.424: Task start event: (TasklistId: 644) ---- (Expected: 9.200001 ---- (Actual: 18.2467))
+2020-04-24 23:31:12.425: Task end event: (TasklistId: 644) ---- (Expected: 9.400001 ---- (Actual: 18.24792))
+2020-04-24 23:31:14.291: Task start event: (TasklistId: 646) ---- (Expected: 9.400001 ---- (Actual: 20.11475))
+2020-04-24 23:31:14.292: Task end event: (TasklistId: 646) ---- (Expected: 9.6 ---- (Actual: 20.11572))
+2020-04-24 23:31:16.223: Task start event: (TasklistId: 648) ---- (Expected: 9.6 ---- (Actual: 22.04602))
+2020-04-24 23:31:16.224: Task end event: (TasklistId: 648) ---- (Expected: 9.8 ---- (Actual: 22.047))
+2020-04-24 23:31:16.224: Task start event: (TasklistId: 649) ---- (Expected: 9.8 ---- (Actual: 22.04761))
+2020-04-24 23:31:17.518: Task end event: (TasklistId: 649) ---- (Expected: 11 ---- (Actual: 23.3418))
+2020-04-24 23:31:17.590: Task start event: (TasklistId: 657) ---- (Expected: 11 ---- (Actual: 23.41345))
+2020-04-24 23:31:18.853: Task end event: (TasklistId: 657) ---- (Expected: 12.2 ---- (Actual: 24.67615))
+2020-04-24 23:31:19.015: Task start event: (TasklistId: 668) ---- (Expected: 12.2 ---- (Actual: 24.83862))
+2020-04-24 23:31:19.017: Task end event: (TasklistId: 668) ---- (Expected: 12.4 ---- (Actual: 24.84009))
+2020-04-24 23:31:19.017: Task start event: (TasklistId: 669) ---- (Expected: 12.4 ---- (Actual: 24.8407))
+2020-04-24 23:31:20.270: Task end event: (TasklistId: 669) ---- (Expected: 13.6 ---- (Actual: 26.09314))
+2020-04-24 23:31:20.869: Task start event: (TasklistId: 674) ---- (Expected: 13.6 ---- (Actual: 26.69226))
+2020-04-24 23:31:20.870: Task end event: (TasklistId: 674) ---- (Expected: 13.8 ---- (Actual: 26.69312))
+2020-04-24 23:31:21.304: Task start event: (TasklistId: 678) ---- (Expected: 13.8 ---- (Actual: 27.12793))
+2020-04-24 23:31:21.305: Task end event: (TasklistId: 678) ---- (Expected: 14 ---- (Actual: 27.12903))
+2020-04-24 23:31:21.306: Task start event: (TasklistId: 679) ---- (Expected: 14 ---- (Actual: 27.12964))
+2020-04-24 23:31:22.586: Task end event: (TasklistId: 679) ---- (Expected: 15.2 ---- (Actual: 28.40979))
+2020-04-24 23:31:22.984: Task start event: (TasklistId: 684) ---- (Expected: 15.2 ---- (Actual: 28.80774))
+2020-04-24 23:31:22.985: Task end event: (TasklistId: 684) ---- (Expected: 15.4 ---- (Actual: 28.80859))
+2020-04-24 23:31:23.350: Task start event: (TasklistId: 688) ---- (Expected: 15.4 ---- (Actual: 29.1731))
+2020-04-24 23:31:23.351: Task end event: (TasklistId: 688) ---- (Expected: 15.6 ---- (Actual: 29.17432))
+2020-04-24 23:31:23.467: Task start event: (TasklistId: 693) ---- (Expected: 15.6 ---- (Actual: 29.29004))
+2020-04-24 23:31:23.496: Task end event: (TasklistId: 693) ---- (Expected: 15.8 ---- (Actual: 29.3186))
+2020-04-24 23:31:23.536: Task start event: (TasklistId: 695) ---- (Expected: 15.8 ---- (Actual: 29.35876))
+2020-04-24 23:31:24.804: Task end event: (TasklistId: 695) ---- (Expected: 17 ---- (Actual: 30.62732))
+2020-04-24 23:31:25.184: Task start event: (TasklistId: 700) ---- (Expected: 17 ---- (Actual: 31.00696))
+2020-04-24 23:31:25.185: Task end event: (TasklistId: 700) ---- (Expected: 17.2 ---- (Actual: 31.00793))
+2020-04-24 23:31:25.551: Task start event: (TasklistId: 704) ---- (Expected: 17.2 ---- (Actual: 31.37402))
+2020-04-24 23:31:25.552: Task end event: (TasklistId: 704) ---- (Expected: 17.4 ---- (Actual: 31.37537))
+2020-04-24 23:31:25.553: Task start event: (TasklistId: 705) ---- (Expected: 17.4 ---- (Actual: 31.3761))
+2020-04-24 23:31:26.819: Task end event: (TasklistId: 705) ---- (Expected: 18.6 ---- (Actual: 32.64209))
+2020-04-24 23:31:26.901: Task start event: (TasklistId: 713) ---- (Expected: 18.6 ---- (Actual: 32.72363))
+2020-04-24 23:31:28.254: Task end event: (TasklistId: 713) ---- (Expected: 19.8 ---- (Actual: 34.07715))
+2020-04-24 23:31:28.368: Task start event: (TasklistId: 723) ---- (Expected: 19.8 ---- (Actual: 34.19214))
+2020-04-24 23:31:28.423: Task end event: (TasklistId: 723) ---- (Expected: 20 ---- (Actual: 34.24646))
+2020-04-24 23:31:28.502: Task start event: (TasklistId: 725) ---- (Expected: 20 ---- (Actual: 34.3252))
+2020-04-24 23:31:29.770: Task end event: (TasklistId: 725) ---- (Expected: 21.2 ---- (Actual: 35.59338))
+2020-04-24 23:31:29.850: Task start event: (TasklistId: 733) ---- (Expected: 21.2 ---- (Actual: 35.67334))
+2020-04-24 23:31:31.134: Task end event: (TasklistId: 733) ---- (Expected: 22.4 ---- (Actual: 36.95715))
+2020-04-24 23:31:31.214: Task start event: (TasklistId: 741) ---- (Expected: 22.4 ---- (Actual: 37.03796))
+2020-04-24 23:31:32.468: Task end event: (TasklistId: 741) ---- (Expected: 23.6 ---- (Actual: 38.2915))
+2020-04-24 23:31:32.606: Task start event: (TasklistId: 751) ---- (Expected: 23.6 ---- (Actual: 38.42859))
+2020-04-24 23:31:32.654: Task end event: (TasklistId: 751) ---- (Expected: 23.8 ---- (Actual: 38.47742))
+2020-04-24 23:31:33.232: Task start event: (TasklistId: 754) ---- (Expected: 23.8 ---- (Actual: 39.05469))
+2020-04-24 23:31:33.232: Task end event: (TasklistId: 754) ---- (Expected: 24 ---- (Actual: 39.05566))
+2020-04-24 23:31:33.233: Task start event: (TasklistId: 755) ---- (Expected: 24 ---- (Actual: 39.05627))
+2020-04-24 23:31:34.949: Task end event: (TasklistId: 755) ---- (Expected: 25.2 ---- (Actual: 40.77161))
+2020-04-24 23:31:35.346: Task start event: (TasklistId: 760) ---- (Expected: 25.2 ---- (Actual: 41.16931))
+2020-04-24 23:31:35.347: Task end event: (TasklistId: 760) ---- (Expected: 25.4 ---- (Actual: 41.17053))
+2020-04-24 23:31:35.467: Task start event: (TasklistId: 765) ---- (Expected: 25.4 ---- (Actual: 41.29028))
+2020-04-24 23:31:35.488: Task end event: (TasklistId: 765) ---- (Expected: 25.6 ---- (Actual: 41.31067))
+2020-04-24 23:31:35.530: Task start event: (TasklistId: 767) ---- (Expected: 25.6 ---- (Actual: 41.35254))
+2020-04-24 23:31:36.800: Task end event: (TasklistId: 767) ---- (Expected: 26.8 ---- (Actual: 42.6228))
+2020-04-24 23:31:36.929: Task start event: (TasklistId: 777) ---- (Expected: 26.8 ---- (Actual: 42.75256))
+2020-04-24 23:31:36.961: Task end event: (TasklistId: 777) ---- (Expected: 27 ---- (Actual: 42.78455))
+2020-04-24 23:31:37.001: Task start event: (TasklistId: 779) ---- (Expected: 27 ---- (Actual: 42.82458))
+2020-04-24 23:31:38.263: Task end event: (TasklistId: 779) ---- (Expected: 28.2 ---- (Actual: 44.08594))
+2020-04-24 23:31:38.397: Task start event: (TasklistId: 789) ---- (Expected: 28.2 ---- (Actual: 44.21973))
+2020-04-24 23:31:38.418: Task end event: (TasklistId: 789) ---- (Expected: 28.4 ---- (Actual: 44.24231))
+2020-04-24 23:31:38.462: Task start event: (TasklistId: 791) ---- (Expected: 28.4 ---- (Actual: 44.28601))
+2020-04-24 23:31:39.728: Task end event: (TasklistId: 791) ---- (Expected: 29.6 ---- (Actual: 45.55176))
+2020-04-24 23:31:39.862: Task start event: (TasklistId: 801) ---- (Expected: 29.6 ---- (Actual: 45.68518))
+2020-04-24 23:31:39.906: Task end event: (TasklistId: 801) ---- (Expected: 29.8 ---- (Actual: 45.72852))
+2020-04-24 23:31:39.996: ParticlePlayAction.OnEnter() - ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject) has no ParticleSystem component. Owner=ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject)
+2020-04-24 23:31:39.997: ParticlePlayAction.OnEnter() - ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject) has no ParticleSystem component. Owner=ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject)
+2020-04-24 23:31:41.285: Task start event: (TasklistId: 804) ---- (Expected: 29.8 ---- (Actual: 47.10828))
+2020-04-24 23:31:41.286: Task end event: (TasklistId: 804) ---- (Expected: 30 ---- (Actual: 47.10938))
+2020-04-24 23:31:41.286: Task start event: (TasklistId: 805) ---- (Expected: 30 ---- (Actual: 47.10999))
+2020-04-24 23:31:43.028: Task end event: (TasklistId: 805) ---- (Expected: 31.2 ---- (Actual: 48.85156))
+2020-04-24 23:31:43.645: Task start event: (TasklistId: 814) ---- (Expected: 31.2 ---- (Actual: 49.46777))
+2020-04-24 23:31:43.645: Task end event: (TasklistId: 814) ---- (Expected: 31.4 ---- (Actual: 49.46875))
+2020-04-24 23:31:43.645: Task start event: (TasklistId: 815) ---- (Expected: 31.4 ---- (Actual: 49.46936))
+2020-04-24 23:31:45.878: Task end event: (TasklistId: 815) ---- (Expected: 32.6 ---- (Actual: 51.70166))
+2020-04-24 23:31:45.964: Task start event: (TasklistId: 823) ---- (Expected: 32.6 ---- (Actual: 51.78735))
+2020-04-24 23:31:47.229: Task end event: (TasklistId: 823) ---- (Expected: 33.8 ---- (Actual: 53.05237))
+2020-04-24 23:31:47.361: Task start event: (TasklistId: 829) ---- (Expected: 33.8 ---- (Actual: 53.18457))
+2020-04-24 23:31:47.393: Task end event: (TasklistId: 829) ---- (Expected: 34 ---- (Actual: 53.21606))
+2020-04-24 23:31:48.009: Task start event: (TasklistId: 832) ---- (Expected: 34 ---- (Actual: 53.8324))
+2020-04-24 23:31:48.010: Task end event: (TasklistId: 832) ---- (Expected: 34.2 ---- (Actual: 53.8335))
+2020-04-24 23:31:48.011: Task start event: (TasklistId: 833) ---- (Expected: 34.2 ---- (Actual: 53.83398))
+2020-04-24 23:31:49.776: Task end event: (TasklistId: 833) ---- (Expected: 35.4 ---- (Actual: 55.599))
+2020-04-24 23:31:49.909: Task start event: (TasklistId: 843) ---- (Expected: 35.4 ---- (Actual: 55.73328))
+2020-04-24 23:31:49.933: Task end event: (TasklistId: 843) ---- (Expected: 35.6 ---- (Actual: 55.75671))
+2020-04-24 23:31:49.976: Task start event: (TasklistId: 844) ---- (Expected: 35.6 ---- (Actual: 55.7998))
+2020-04-24 23:31:51.493: Task end event: (TasklistId: 844) ---- (Expected: 37.1 ---- (Actual: 57.31665))
+2020-04-24 23:31:51.507: Task start event: (TasklistId: 846) ---- (Expected: 37.1 ---- (Actual: 57.33118))
+2020-04-24 23:31:51.508: Task end event: (TasklistId: 846) ---- (Expected: 41.6 ---- (Actual: 57.33215))
+2020-04-24 23:31:54.373: Task start event: (TasklistId: 849) ---- (Expected: 41.6 ---- (Actual: 60.19604))
+2020-04-24 23:31:57.597: Task end event: (TasklistId: 849) ---- (Expected: 42.8 ---- (Actual: 63.41907))
+2020-04-24 23:31:57.612: Task start event: (TasklistId: 852) ---- (Expected: 42.8 ---- (Actual: 63.43457))
+2020-04-24 23:31:57.613: Task end event: (TasklistId: 852) ---- (Expected: 43.3 ---- (Actual: 63.43604))
+2020-04-24 23:31:59.157: Finish
+2020-04-24 23:31:59.196: Finish
+2020-04-24 23:31:59.210: Finish
+2020-04-24 23:31:59.225: Finish
+2020-04-24 23:31:59.245: Finish
+2020-04-24 23:31:59.270: Finish
+2020-04-24 23:31:59.278: Finish
+2020-04-24 23:32:00.339: Timeline end event: (TasklistId: 865) ---- (Expected: 43.3) ---- (Actual: 66.16162)
+2020-04-24 23:32:01.210: GameState.OnMetaData() - WARNING Entity 9 does not exist
+2020-04-24 23:32:08.576: GameState.OnMetaData() - WARNING Entity 9 does not exist
+2020-04-24 23:32:14.424: GameState.OnMetaData() - WARNING Entity 9 does not exist
+2020-04-24 23:32:51.925: Animator.GotoState: State could not be found
+2020-04-24 23:32:51.926: Invalid Layer Index '-1'
+2020-04-24 23:32:51.943: Animator.GotoState: State could not be found
+2020-04-24 23:32:51.946: Invalid Layer Index '-1'
+2020-04-24 23:33:14.839: Timeline start event: (TasklistId: 1116) ---- (Expected Duration: 6)
+2020-04-24 23:33:14.869: Task start event: (TasklistId: 1135) ---- (Expected: 0 ---- (Actual: 0.03100586))
+2020-04-24 23:33:16.373: Task end event: (TasklistId: 1135) ---- (Expected: 4.5 ---- (Actual: 1.53418))
+2020-04-24 23:33:16.402: Task start event: (TasklistId: 1137) ---- (Expected: 4.5 ---- (Actual: 1.56311))
+2020-04-24 23:33:16.446: Finish
+2020-04-24 23:33:16.462: Finish
+2020-04-24 23:33:16.476: Finish
+2020-04-24 23:33:16.502: Finish
+2020-04-24 23:33:16.521: Finish
+2020-04-24 23:33:16.537: Finish
+2020-04-24 23:33:16.553: Finish
+2020-04-24 23:33:18.083: Task end event: (TasklistId: 1137) ---- (Expected: 6 ---- (Actual: 3.244751))
+2020-04-24 23:33:18.084: Timeline end event: (TasklistId: 1137) ---- (Expected: 6) ---- (Actual: 3.244751)
+2020-04-24 23:33:19.132: Timeline start event: (TasklistId: 1138) ---- (Expected Duration: 42)
+2020-04-24 23:33:19.134: Task start event: (TasklistId: 1141) ---- (Expected: 0 ---- (Actual: 0.001342773))
+2020-04-24 23:33:20.153: Task end event: (TasklistId: 1141) ---- (Expected: 1 ---- (Actual: 1.020386))
+2020-04-24 23:33:20.169: Task start event: (TasklistId: 1142) ---- (Expected: 1 ---- (Actual: 1.036743))
+2020-04-24 23:33:21.454: Task end event: (TasklistId: 1142) ---- (Expected: 2.2 ---- (Actual: 2.321167))
+2020-04-24 23:33:21.470: Task start event: (TasklistId: 1148) ---- (Expected: 2.2 ---- (Actual: 2.337524))
+2020-04-24 23:33:22.744: Task end event: (TasklistId: 1148) ---- (Expected: 3.4 ---- (Actual: 3.611572))
+2020-04-24 23:33:22.883: Task start event: (TasklistId: 1153) ---- (Expected: 3.4 ---- (Actual: 3.750854))
+2020-04-24 23:33:22.884: Task end event: (TasklistId: 1153) ---- (Expected: 3.6 ---- (Actual: 3.751953))
+2020-04-24 23:33:22.885: Task start event: (TasklistId: 1154) ---- (Expected: 3.6 ---- (Actual: 3.75293))
+2020-04-24 23:33:24.169: Task end event: (TasklistId: 1154) ---- (Expected: 4.8 ---- (Actual: 5.036377))
+2020-04-24 23:33:25.564: Task start event: (TasklistId: 1162) ---- (Expected: 4.8 ---- (Actual: 6.431641))
+2020-04-24 23:33:26.799: Task end event: (TasklistId: 1162) ---- (Expected: 6 ---- (Actual: 7.666748))
+2020-04-24 23:33:28.206: Task start event: (TasklistId: 1174) ---- (Expected: 6 ---- (Actual: 9.071533))
+2020-04-24 23:33:29.473: Task end event: (TasklistId: 1174) ---- (Expected: 7.2 ---- (Actual: 10.33997))
+2020-04-24 23:33:29.716: Task start event: (TasklistId: 1176) ---- (Expected: 7.2 ---- (Actual: 10.58313))
+2020-04-24 23:33:29.718: Task end event: (TasklistId: 1176) ---- (Expected: 7.400001 ---- (Actual: 10.58508))
+2020-04-24 23:33:30.550: Task start event: (TasklistId: 1184) ---- (Expected: 7.400001 ---- (Actual: 11.41675))
+2020-04-24 23:33:30.552: Task end event: (TasklistId: 1184) ---- (Expected: 7.6 ---- (Actual: 11.41882))
+2020-04-24 23:33:30.558: Task start event: (TasklistId: 1185) ---- (Expected: 7.6 ---- (Actual: 11.42444))
+2020-04-24 23:33:30.562: Task end event: (TasklistId: 1185) ---- (Expected: 7.8 ---- (Actual: 11.42908))
+2020-04-24 23:33:31.268: Task start event: (TasklistId: 1190) ---- (Expected: 7.8 ---- (Actual: 12.13513))
+2020-04-24 23:33:31.274: Task end event: (TasklistId: 1190) ---- (Expected: 8 ---- (Actual: 12.14014))
+2020-04-24 23:33:31.276: Task start event: (TasklistId: 1191) ---- (Expected: 8 ---- (Actual: 12.14307))
+2020-04-24 23:33:31.278: Task end event: (TasklistId: 1191) ---- (Expected: 8.200001 ---- (Actual: 12.14502))
+2020-04-24 23:33:31.279: Task start event: (TasklistId: 1193) ---- (Expected: 8.200001 ---- (Actual: 12.14624))
+2020-04-24 23:33:31.280: Task end event: (TasklistId: 1193) ---- (Expected: 8.400001 ---- (Actual: 12.14722))
+2020-04-24 23:33:31.281: Task start event: (TasklistId: 1194) ---- (Expected: 8.400001 ---- (Actual: 12.14807))
+2020-04-24 23:33:32.547: Task end event: (TasklistId: 1194) ---- (Expected: 9.6 ---- (Actual: 13.41431))
+2020-04-24 23:33:33.181: Task start event: (TasklistId: 1203) ---- (Expected: 9.6 ---- (Actual: 14.04797))
+2020-04-24 23:33:33.182: Task end event: (TasklistId: 1203) ---- (Expected: 9.8 ---- (Actual: 14.04895))
+2020-04-24 23:33:33.182: Task start event: (TasklistId: 1205) ---- (Expected: 9.8 ---- (Actual: 14.0498))
+2020-04-24 23:33:33.185: Task end event: (TasklistId: 1205) ---- (Expected: 10 ---- (Actual: 14.05127))
+2020-04-24 23:33:33.189: Task start event: (TasklistId: 1206) ---- (Expected: 10 ---- (Actual: 14.05603))
+2020-04-24 23:33:34.448: Task end event: (TasklistId: 1206) ---- (Expected: 11.2 ---- (Actual: 15.31604))
+2020-04-24 23:33:34.695: Task start event: (TasklistId: 1208) ---- (Expected: 11.2 ---- (Actual: 15.56213))
+2020-04-24 23:33:34.696: Task end event: (TasklistId: 1208) ---- (Expected: 11.4 ---- (Actual: 15.56335))
+2020-04-24 23:33:34.804: Task start event: (TasklistId: 1216) ---- (Expected: 11.4 ---- (Actual: 15.67151))
+2020-04-24 23:33:36.065: Task end event: (TasklistId: 1216) ---- (Expected: 12.6 ---- (Actual: 16.93201))
+2020-04-24 23:33:36.218: ParticlePlayAction.OnEnter() - ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject) has no ParticleSystem component. Owner=ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject)
+2020-04-24 23:33:36.223: ParticlePlayAction.OnEnter() - ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject) has no ParticleSystem component. Owner=ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject)
+2020-04-24 23:33:37.495: Task start event: (TasklistId: 1225) ---- (Expected: 12.6 ---- (Actual: 18.36218))
+2020-04-24 23:33:37.496: Task end event: (TasklistId: 1225) ---- (Expected: 12.8 ---- (Actual: 18.36328))
+2020-04-24 23:33:37.497: Task start event: (TasklistId: 1227) ---- (Expected: 12.8 ---- (Actual: 18.36438))
+2020-04-24 23:33:37.498: Task end event: (TasklistId: 1227) ---- (Expected: 13 ---- (Actual: 18.36511))
+2020-04-24 23:33:37.500: Task start event: (TasklistId: 1228) ---- (Expected: 13 ---- (Actual: 18.3667))
+2020-04-24 23:33:39.379: Task end event: (TasklistId: 1228) ---- (Expected: 14.2 ---- (Actual: 20.24622))
+2020-04-24 23:33:39.845: Task start event: (TasklistId: 1243) ---- (Expected: 14.2 ---- (Actual: 20.71277))
+2020-04-24 23:33:39.846: Task end event: (TasklistId: 1243) ---- (Expected: 14.4 ---- (Actual: 20.71387))
+2020-04-24 23:33:40.197: Task start event: (TasklistId: 1251) ---- (Expected: 14.4 ---- (Actual: 21.06238))
+2020-04-24 23:33:40.202: Task end event: (TasklistId: 1251) ---- (Expected: 14.6 ---- (Actual: 21.06812))
+2020-04-24 23:33:40.205: Task start event: (TasklistId: 1252) ---- (Expected: 14.6 ---- (Actual: 21.07214))
+2020-04-24 23:33:41.460: Task end event: (TasklistId: 1252) ---- (Expected: 15.8 ---- (Actual: 22.328))
+2020-04-24 23:33:41.697: Task start event: (TasklistId: 1258) ---- (Expected: 15.8 ---- (Actual: 22.5636))
+2020-04-24 23:33:41.700: Task end event: (TasklistId: 1258) ---- (Expected: 16 ---- (Actual: 22.56567))
+2020-04-24 23:33:41.859: ParticlePlayAction.OnEnter() - ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject) has no ParticleSystem component. Owner=ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject)
+2020-04-24 23:33:43.225: Task start event: (TasklistId: 1266) ---- (Expected: 16 ---- (Actual: 24.09241))
+2020-04-24 23:33:43.276: ParticlePlayAction.OnEnter() - ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject) has no ParticleSystem component. Owner=ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject)
+2020-04-24 23:33:43.960: Task end event: (TasklistId: 1266) ---- (Expected: 16.2 ---- (Actual: 24.82751))
+2020-04-24 23:33:44.708: Task start event: (TasklistId: 1270) ---- (Expected: 16.2 ---- (Actual: 25.57495))
+2020-04-24 23:33:44.710: Task end event: (TasklistId: 1270) ---- (Expected: 16.4 ---- (Actual: 25.57739))
+2020-04-24 23:33:44.712: Task start event: (TasklistId: 1271) ---- (Expected: 16.4 ---- (Actual: 25.57947))
+2020-04-24 23:33:44.717: Task end event: (TasklistId: 1271) ---- (Expected: 16.6 ---- (Actual: 25.58228))
+2020-04-24 23:33:44.721: Task start event: (TasklistId: 1273) ---- (Expected: 16.6 ---- (Actual: 25.58789))
+2020-04-24 23:33:44.723: Task end event: (TasklistId: 1273) ---- (Expected: 16.8 ---- (Actual: 25.58997))
+2020-04-24 23:33:44.725: Task start event: (TasklistId: 1275) ---- (Expected: 16.8 ---- (Actual: 25.59216))
+2020-04-24 23:33:44.729: Task end event: (TasklistId: 1275) ---- (Expected: 17 ---- (Actual: 25.59619))
+2020-04-24 23:33:44.730: Task start event: (TasklistId: 1276) ---- (Expected: 17 ---- (Actual: 25.59753))
+2020-04-24 23:33:45.978: Task end event: (TasklistId: 1276) ---- (Expected: 18.2 ---- (Actual: 26.84534))
+2020-04-24 23:33:45.992: Task start event: (TasklistId: 1282) ---- (Expected: 18.2 ---- (Actual: 26.85901))
+2020-04-24 23:33:47.275: Task end event: (TasklistId: 1282) ---- (Expected: 19.4 ---- (Actual: 28.14233))
+2020-04-24 23:33:48.374: Task start event: (TasklistId: 1294) ---- (Expected: 19.4 ---- (Actual: 29.24194))
+2020-04-24 23:33:48.376: Task end event: (TasklistId: 1294) ---- (Expected: 19.6 ---- (Actual: 29.24402))
+2020-04-24 23:33:48.380: Task start event: (TasklistId: 1295) ---- (Expected: 19.6 ---- (Actual: 29.24756))
+2020-04-24 23:33:48.385: Task end event: (TasklistId: 1295) ---- (Expected: 19.8 ---- (Actual: 29.25208))
+2020-04-24 23:33:48.387: Task start event: (TasklistId: 1297) ---- (Expected: 19.8 ---- (Actual: 29.25439))
+2020-04-24 23:33:48.387: Task end event: (TasklistId: 1297) ---- (Expected: 20 ---- (Actual: 29.25537))
+2020-04-24 23:33:48.388: Task start event: (TasklistId: 1299) ---- (Expected: 20 ---- (Actual: 29.25623))
+2020-04-24 23:33:48.389: Task end event: (TasklistId: 1299) ---- (Expected: 20.2 ---- (Actual: 29.25708))
+2020-04-24 23:33:48.390: Task start event: (TasklistId: 1300) ---- (Expected: 20.2 ---- (Actual: 29.25806))
+2020-04-24 23:33:49.640: Task end event: (TasklistId: 1300) ---- (Expected: 21.4 ---- (Actual: 30.5083))
+2020-04-24 23:33:49.776: Task start event: (TasklistId: 1308) ---- (Expected: 21.4 ---- (Actual: 30.64319))
+2020-04-24 23:33:51.049: Task end event: (TasklistId: 1308) ---- (Expected: 22.6 ---- (Actual: 31.9165))
+2020-04-24 23:33:51.223: Task start event: (TasklistId: 1316) ---- (Expected: 22.6 ---- (Actual: 32.08997))
+2020-04-24 23:33:52.503: Task end event: (TasklistId: 1316) ---- (Expected: 23.8 ---- (Actual: 33.37048))
+2020-04-24 23:33:52.622: Task start event: (TasklistId: 1324) ---- (Expected: 23.8 ---- (Actual: 33.48975))
+2020-04-24 23:33:53.909: Task end event: (TasklistId: 1324) ---- (Expected: 25 ---- (Actual: 34.77637))
+2020-04-24 23:33:54.721: Task start event: (TasklistId: 1336) ---- (Expected: 25 ---- (Actual: 35.5885))
+2020-04-24 23:33:54.723: Task end event: (TasklistId: 1336) ---- (Expected: 25.2 ---- (Actual: 35.59033))
+2020-04-24 23:33:54.724: Task start event: (TasklistId: 1337) ---- (Expected: 25.2 ---- (Actual: 35.59155))
+2020-04-24 23:33:54.727: Task end event: (TasklistId: 1337) ---- (Expected: 25.4 ---- (Actual: 35.59314))
+2020-04-24 23:33:55.424: Task start event: (TasklistId: 1342) ---- (Expected: 25.4 ---- (Actual: 36.29138))
+2020-04-24 23:33:55.426: Task end event: (TasklistId: 1342) ---- (Expected: 25.6 ---- (Actual: 36.29297))
+2020-04-24 23:33:55.431: Task start event: (TasklistId: 1343) ---- (Expected: 25.6 ---- (Actual: 36.29797))
+2020-04-24 23:33:55.435: Task end event: (TasklistId: 1343) ---- (Expected: 25.8 ---- (Actual: 36.30139))
+2020-04-24 23:33:56.122: Task start event: (TasklistId: 1348) ---- (Expected: 25.8 ---- (Actual: 36.98865))
+2020-04-24 23:33:56.123: Task end event: (TasklistId: 1348) ---- (Expected: 26 ---- (Actual: 36.98987))
+2020-04-24 23:33:56.124: Task start event: (TasklistId: 1349) ---- (Expected: 26 ---- (Actual: 36.9906))
+2020-04-24 23:33:56.124: Task end event: (TasklistId: 1349) ---- (Expected: 26.2 ---- (Actual: 36.99133))
+2020-04-24 23:33:56.125: Task start event: (TasklistId: 1350) ---- (Expected: 26.2 ---- (Actual: 36.99207))
+2020-04-24 23:33:57.390: Task end event: (TasklistId: 1350) ---- (Expected: 27.4 ---- (Actual: 38.25769))
+2020-04-24 23:33:57.738: Task start event: (TasklistId: 1363) ---- (Expected: 27.4 ---- (Actual: 38.60522))
+2020-04-24 23:33:57.739: Task end event: (TasklistId: 1363) ---- (Expected: 27.6 ---- (Actual: 38.60632))
+2020-04-24 23:33:57.740: Task start event: (TasklistId: 1364) ---- (Expected: 27.6 ---- (Actual: 38.60706))
+2020-04-24 23:33:59.004: Task end event: (TasklistId: 1364) ---- (Expected: 28.8 ---- (Actual: 39.87134))
+2020-04-24 23:33:59.187: Task start event: (TasklistId: 1372) ---- (Expected: 28.8 ---- (Actual: 40.05408))
+2020-04-24 23:34:00.456: Task end event: (TasklistId: 1372) ---- (Expected: 30 ---- (Actual: 41.32336))
+2020-04-24 23:34:03.653: Task start event: (TasklistId: 1383) ---- (Expected: 30 ---- (Actual: 44.5199))
+2020-04-24 23:34:03.654: Task end event: (TasklistId: 1383) ---- (Expected: 30.2 ---- (Actual: 44.52087))
+2020-04-24 23:34:05.422: Task start event: (TasklistId: 1385) ---- (Expected: 30.2 ---- (Actual: 46.28955))
+2020-04-24 23:34:05.430: Task end event: (TasklistId: 1385) ---- (Expected: 30.4 ---- (Actual: 46.2959))
+2020-04-24 23:34:07.221: Task start event: (TasklistId: 1387) ---- (Expected: 30.4 ---- (Actual: 48.08813))
+2020-04-24 23:34:07.225: Task end event: (TasklistId: 1387) ---- (Expected: 30.6 ---- (Actual: 48.09143))
+2020-04-24 23:34:07.229: Task start event: (TasklistId: 1388) ---- (Expected: 30.6 ---- (Actual: 48.09595))
+2020-04-24 23:34:08.468: Task end event: (TasklistId: 1388) ---- (Expected: 31.8 ---- (Actual: 49.33472))
+2020-04-24 23:34:08.570: Task start event: (TasklistId: 1396) ---- (Expected: 31.8 ---- (Actual: 49.43762))
+2020-04-24 23:34:09.846: Task end event: (TasklistId: 1396) ---- (Expected: 33 ---- (Actual: 50.71289))
+2020-04-24 23:34:10.548: Task start event: (TasklistId: 1405) ---- (Expected: 33 ---- (Actual: 51.41492))
+2020-04-24 23:34:10.550: Task end event: (TasklistId: 1405) ---- (Expected: 33.2 ---- (Actual: 51.41675))
+2020-04-24 23:34:10.654: Task start event: (TasklistId: 1407) ---- (Expected: 33.2 ---- (Actual: 51.52124))
+2020-04-24 23:34:10.661: Task end event: (TasklistId: 1407) ---- (Expected: 33.4 ---- (Actual: 51.52686))
+2020-04-24 23:34:10.667: Task start event: (TasklistId: 1409) ---- (Expected: 33.4 ---- (Actual: 51.53333))
+2020-04-24 23:34:10.669: Task end event: (TasklistId: 1409) ---- (Expected: 33.6 ---- (Actual: 51.53577))
+2020-04-24 23:34:10.672: Task start event: (TasklistId: 1411) ---- (Expected: 33.6 ---- (Actual: 51.53833))
+2020-04-24 23:34:12.166: Task end event: (TasklistId: 1411) ---- (Expected: 35.3 ---- (Actual: 53.03394))
+2020-04-24 23:34:12.183: Task start event: (TasklistId: 1413) ---- (Expected: 35.3 ---- (Actual: 53.05066))
+2020-04-24 23:34:12.185: Task end event: (TasklistId: 1413) ---- (Expected: 40.3 ---- (Actual: 53.05249))
+2020-04-24 23:34:15.890: Task start event: (TasklistId: 1416) ---- (Expected: 40.3 ---- (Actual: 56.75732))
+2020-04-24 23:34:18.878: Task end event: (TasklistId: 1416) ---- (Expected: 41.5 ---- (Actual: 59.74609))
+2020-04-24 23:34:18.897: Task start event: (TasklistId: 1421) ---- (Expected: 41.5 ---- (Actual: 59.76428))
+2020-04-24 23:34:18.898: Task end event: (TasklistId: 1421) ---- (Expected: 42 ---- (Actual: 59.76538))
+2020-04-24 23:34:18.899: Timeline end event: (TasklistId: 1424) ---- (Expected: 42) ---- (Actual: 59.76648)
+2020-04-24 23:34:20.438: Finish
+2020-04-24 23:34:20.476: Finish
+2020-04-24 23:34:20.497: Finish
+2020-04-24 23:34:20.515: Finish
+2020-04-24 23:34:20.533: Finish
+2020-04-24 23:34:20.548: Finish
+2020-04-24 23:34:36.128: GameState.OnMetaData() - WARNING Entity 9 does not exist
+2020-04-24 23:34:55.958: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:34:56.079: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:34:56.085: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:34:56.110: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:34:56.112: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:34:56.140: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:34:56.145: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:35:06.642: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:35:06.679: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:35:06.687: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:35:06.709: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:35:06.711: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:35:06.734: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:35:06.739: DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+2020-04-24 23:35:17.561: Animator.GotoState: State could not be found
+2020-04-24 23:35:17.562: Invalid Layer Index '-1'
+2020-04-24 23:35:17.579: Animator.GotoState: State could not be found
+2020-04-24 23:35:17.580: Invalid Layer Index '-1'
+2020-04-24 23:35:40.588: Timeline start event: (TasklistId: 1631) ---- (Expected Duration: 6)
+2020-04-24 23:35:40.624: Task start event: (TasklistId: 1650) ---- (Expected: 0 ---- (Actual: 0.0357666))
+2020-04-24 23:35:42.120: Task end event: (TasklistId: 1650) ---- (Expected: 4.5 ---- (Actual: 1.53186))
+2020-04-24 23:35:42.169: Task start event: (TasklistId: 1652) ---- (Expected: 4.5 ---- (Actual: 1.580688))
+2020-04-24 23:35:42.218: Finish
+2020-04-24 23:35:42.277: Finish
+2020-04-24 23:35:42.299: Finish
+2020-04-24 23:35:42.318: Finish
+2020-04-24 23:35:42.346: Finish
+2020-04-24 23:35:42.370: Finish
+2020-04-24 23:35:42.387: Finish
+2020-04-24 23:35:43.957: Task end event: (TasklistId: 1652) ---- (Expected: 6 ---- (Actual: 3.368164))
+2020-04-24 23:35:43.963: Timeline end event: (TasklistId: 1652) ---- (Expected: 6) ---- (Actual: 3.368164)
+2020-04-24 23:35:45.021: Timeline start event: (TasklistId: 1653) ---- (Expected Duration: 40.2)
+2020-04-24 23:35:45.677: Finish
+2020-04-24 23:35:46.824: Finish
+2020-04-24 23:35:47.412: Task start event: (TasklistId: 1662) ---- (Expected: 0 ---- (Actual: 2.390625))
+2020-04-24 23:35:47.413: Task end event: (TasklistId: 1662) ---- (Expected: 0.2 ---- (Actual: 2.39209))
+2020-04-24 23:35:47.855: Task start event: (TasklistId: 1664) ---- (Expected: 0.2 ---- (Actual: 2.833252))
+2020-04-24 23:35:48.868: Task end event: (TasklistId: 1664) ---- (Expected: 1.2 ---- (Actual: 3.84668))
+2020-04-24 23:35:48.887: Task start event: (TasklistId: 1665) ---- (Expected: 1.2 ---- (Actual: 3.865479))
+2020-04-24 23:35:50.168: Task end event: (TasklistId: 1665) ---- (Expected: 2.4 ---- (Actual: 5.147095))
+2020-04-24 23:35:52.268: Task start event: (TasklistId: 1674) ---- (Expected: 2.4 ---- (Actual: 7.246948))
+2020-04-24 23:35:52.272: Task end event: (TasklistId: 1674) ---- (Expected: 2.6 ---- (Actual: 7.249634))
+2020-04-24 23:35:53.849: Task start event: (TasklistId: 1676) ---- (Expected: 2.6 ---- (Actual: 8.828735))
+2020-04-24 23:35:53.850: Task end event: (TasklistId: 1676) ---- (Expected: 2.8 ---- (Actual: 8.829834))
+2020-04-24 23:35:55.449: Task start event: (TasklistId: 1678) ---- (Expected: 2.8 ---- (Actual: 10.42871))
+2020-04-24 23:35:55.450: Task end event: (TasklistId: 1678) ---- (Expected: 3 ---- (Actual: 10.42981))
+2020-04-24 23:35:55.452: Task start event: (TasklistId: 1679) ---- (Expected: 3 ---- (Actual: 10.43066))
+2020-04-24 23:35:56.714: Task end event: (TasklistId: 1679) ---- (Expected: 4.2 ---- (Actual: 11.69324))
+2020-04-24 23:35:56.917: Task start event: (TasklistId: 1690) ---- (Expected: 4.2 ---- (Actual: 11.89648))
+2020-04-24 23:35:56.919: Task end event: (TasklistId: 1690) ---- (Expected: 4.4 ---- (Actual: 11.89832))
+2020-04-24 23:35:56.920: Task start event: (TasklistId: 1691) ---- (Expected: 4.4 ---- (Actual: 11.89917))
+2020-04-24 23:35:58.183: Task end event: (TasklistId: 1691) ---- (Expected: 5.6 ---- (Actual: 13.16138))
+2020-04-24 23:36:00.056: Task start event: (TasklistId: 1698) ---- (Expected: 5.6 ---- (Actual: 15.03418))
+2020-04-24 23:36:00.060: Task end event: (TasklistId: 1698) ---- (Expected: 5.8 ---- (Actual: 15.03833))
+2020-04-24 23:36:00.475: Task start event: (TasklistId: 1702) ---- (Expected: 5.8 ---- (Actual: 15.45398))
+2020-04-24 23:36:00.587: Task end event: (TasklistId: 1702) ---- (Expected: 6 ---- (Actual: 15.45532))
+2020-04-24 23:36:00.994: Task start event: (TasklistId: 1706) ---- (Expected: 6 ---- (Actual: 15.97278))
+2020-04-24 23:36:00.995: Task end event: (TasklistId: 1706) ---- (Expected: 6.2 ---- (Actual: 15.974))
+2020-04-24 23:36:01.381: Task start event: (TasklistId: 1710) ---- (Expected: 6.2 ---- (Actual: 16.35938))
+2020-04-24 23:36:01.382: Task end event: (TasklistId: 1710) ---- (Expected: 6.4 ---- (Actual: 16.3606))
+2020-04-24 23:36:01.740: Task start event: (TasklistId: 1714) ---- (Expected: 6.4 ---- (Actual: 16.71924))
+2020-04-24 23:36:01.741: Task end event: (TasklistId: 1714) ---- (Expected: 6.6 ---- (Actual: 16.72034))
+2020-04-24 23:36:02.129: Task start event: (TasklistId: 1718) ---- (Expected: 6.6 ---- (Actual: 17.10852))
+2020-04-24 23:36:02.131: Task end event: (TasklistId: 1718) ---- (Expected: 6.8 ---- (Actual: 17.10999))
+2020-04-24 23:36:02.498: Task start event: (TasklistId: 1722) ---- (Expected: 6.8 ---- (Actual: 17.47681))
+2020-04-24 23:36:02.502: Task end event: (TasklistId: 1722) ---- (Expected: 7 ---- (Actual: 17.48035))
+2020-04-24 23:36:02.879: Task start event: (TasklistId: 1726) ---- (Expected: 7 ---- (Actual: 17.85791))
+2020-04-24 23:36:02.880: Task end event: (TasklistId: 1726) ---- (Expected: 7.2 ---- (Actual: 17.85901))
+2020-04-24 23:36:03.245: Task start event: (TasklistId: 1730) ---- (Expected: 7.2 ---- (Actual: 18.22424))
+2020-04-24 23:36:03.246: Task end event: (TasklistId: 1730) ---- (Expected: 7.400001 ---- (Actual: 18.22571))
+2020-04-24 23:36:03.327: Task start event: (TasklistId: 1733) ---- (Expected: 7.400001 ---- (Actual: 18.30603))
+2020-04-24 23:36:04.615: Task end event: (TasklistId: 1733) ---- (Expected: 8.6 ---- (Actual: 19.59399))
+2020-04-24 23:36:05.429: Task start event: (TasklistId: 1745) ---- (Expected: 8.6 ---- (Actual: 20.40808))
+2020-04-24 23:36:05.430: Task end event: (TasklistId: 1745) ---- (Expected: 8.8 ---- (Actual: 20.40918))
+2020-04-24 23:36:05.431: Task start event: (TasklistId: 1746) ---- (Expected: 8.8 ---- (Actual: 20.41003))
+2020-04-24 23:36:05.435: Task end event: (TasklistId: 1746) ---- (Expected: 9 ---- (Actual: 20.41357))
+2020-04-24 23:36:06.140: Task start event: (TasklistId: 1751) ---- (Expected: 9 ---- (Actual: 21.1189))
+2020-04-24 23:36:06.141: Task end event: (TasklistId: 1751) ---- (Expected: 9.200001 ---- (Actual: 21.12012))
+2020-04-24 23:36:06.141: Task start event: (TasklistId: 1752) ---- (Expected: 9.200001 ---- (Actual: 21.12085))
+2020-04-24 23:36:06.142: Task end event: (TasklistId: 1752) ---- (Expected: 9.400001 ---- (Actual: 21.12158))
+2020-04-24 23:36:06.842: Task start event: (TasklistId: 1757) ---- (Expected: 9.400001 ---- (Actual: 21.82141))
+2020-04-24 23:36:06.843: Task end event: (TasklistId: 1757) ---- (Expected: 9.6 ---- (Actual: 21.823))
+2020-04-24 23:36:06.844: Task start event: (TasklistId: 1758) ---- (Expected: 9.6 ---- (Actual: 21.82373))
+2020-04-24 23:36:06.845: Task end event: (TasklistId: 1758) ---- (Expected: 9.8 ---- (Actual: 21.82446))
+2020-04-24 23:36:06.845: Task start event: (TasklistId: 1759) ---- (Expected: 9.8 ---- (Actual: 21.82507))
+2020-04-24 23:36:08.108: Task end event: (TasklistId: 1759) ---- (Expected: 11 ---- (Actual: 23.08679))
+2020-04-24 23:36:08.127: Task start event: (TasklistId: 1765) ---- (Expected: 11 ---- (Actual: 23.10596))
+2020-04-24 23:36:09.376: Task end event: (TasklistId: 1765) ---- (Expected: 12.2 ---- (Actual: 24.35583))
+2020-04-24 23:36:09.394: Task start event: (TasklistId: 1771) ---- (Expected: 12.2 ---- (Actual: 24.37329))
+2020-04-24 23:36:10.662: Task end event: (TasklistId: 1771) ---- (Expected: 13.4 ---- (Actual: 25.64026))
+2020-04-24 23:36:10.761: Task start event: (TasklistId: 1779) ---- (Expected: 13.4 ---- (Actual: 25.74072))
+2020-04-24 23:36:12.038: Task end event: (TasklistId: 1779) ---- (Expected: 14.6 ---- (Actual: 27.01721))
+2020-04-24 23:36:12.425: Task start event: (TasklistId: 1784) ---- (Expected: 14.6 ---- (Actual: 27.40405))
+2020-04-24 23:36:12.426: Task end event: (TasklistId: 1784) ---- (Expected: 14.8 ---- (Actual: 27.40588))
+2020-04-24 23:36:12.817: Task start event: (TasklistId: 1788) ---- (Expected: 14.8 ---- (Actual: 27.79578))
+2020-04-24 23:36:12.818: Task end event: (TasklistId: 1788) ---- (Expected: 15 ---- (Actual: 27.79724))
+2020-04-24 23:36:13.193: Task start event: (TasklistId: 1792) ---- (Expected: 15 ---- (Actual: 28.172))
+2020-04-24 23:36:13.195: Task end event: (TasklistId: 1792) ---- (Expected: 15.2 ---- (Actual: 28.17371))
+2020-04-24 23:36:13.311: Task start event: (TasklistId: 1795) ---- (Expected: 15.2 ---- (Actual: 28.28955))
+2020-04-24 23:36:14.578: Task end event: (TasklistId: 1795) ---- (Expected: 16.4 ---- (Actual: 29.55688))
+2020-04-24 23:36:14.795: Task start event: (TasklistId: 1803) ---- (Expected: 16.4 ---- (Actual: 29.77368))
+2020-04-24 23:36:16.084: Task end event: (TasklistId: 1803) ---- (Expected: 17.6 ---- (Actual: 31.06067))
+2020-04-24 23:36:16.462: Task start event: (TasklistId: 1808) ---- (Expected: 17.6 ---- (Actual: 31.43982))
+2020-04-24 23:36:16.465: Task end event: (TasklistId: 1808) ---- (Expected: 17.8 ---- (Actual: 31.44336))
+2020-04-24 23:36:16.825: Task start event: (TasklistId: 1812) ---- (Expected: 17.8 ---- (Actual: 31.80383))
+2020-04-24 23:36:16.826: Task end event: (TasklistId: 1812) ---- (Expected: 18 ---- (Actual: 31.80493))
+2020-04-24 23:36:17.210: Task start event: (TasklistId: 1816) ---- (Expected: 18 ---- (Actual: 32.18933))
+2020-04-24 23:36:17.219: Task end event: (TasklistId: 1816) ---- (Expected: 18.2 ---- (Actual: 32.19763))
+2020-04-24 23:36:17.291: Task start event: (TasklistId: 1819) ---- (Expected: 18.2 ---- (Actual: 32.27063))
+2020-04-24 23:36:18.544: Task end event: (TasklistId: 1819) ---- (Expected: 19.4 ---- (Actual: 33.52271))
+2020-04-24 23:36:18.724: ParticlePlayAction.OnEnter() - ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject) has no ParticleSystem component. Owner=ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject)
+2020-04-24 23:36:20.156: Task start event: (TasklistId: 1831) ---- (Expected: 19.4 ---- (Actual: 35.13574))
+2020-04-24 23:36:20.206: ParticlePlayAction.OnEnter() - ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject) has no ParticleSystem component. Owner=ShadowSpirit_Rise_Impact(Clone) (UnityEngine.GameObject)
+2020-04-24 23:36:20.891: Task end event: (TasklistId: 1831) ---- (Expected: 19.6 ---- (Actual: 35.86975))
+2020-04-24 23:36:21.471: Task start event: (TasklistId: 1832) ---- (Expected: 19.6 ---- (Actual: 36.45068))
+2020-04-24 23:36:21.496: Task end event: (TasklistId: 1832) ---- (Expected: 19.8 ---- (Actual: 36.47314))
+2020-04-24 23:36:22.053: Task start event: (TasklistId: 1833) ---- (Expected: 19.8 ---- (Actual: 37.03174))
+2020-04-24 23:36:23.340: Task end event: (TasklistId: 1833) ---- (Expected: 21 ---- (Actual: 38.31909))
+2020-04-24 23:36:23.738: Task start event: (TasklistId: 1838) ---- (Expected: 21 ---- (Actual: 38.71729))
+2020-04-24 23:36:23.740: Task end event: (TasklistId: 1838) ---- (Expected: 21.2 ---- (Actual: 38.71851))
+2020-04-24 23:36:24.123: Task start event: (TasklistId: 1842) ---- (Expected: 21.2 ---- (Actual: 39.10229))
+2020-04-24 23:36:24.124: Task end event: (TasklistId: 1842) ---- (Expected: 21.4 ---- (Actual: 39.10327))
+2020-04-24 23:36:24.506: Task start event: (TasklistId: 1846) ---- (Expected: 21.4 ---- (Actual: 39.48584))
+2020-04-24 23:36:24.509: Task end event: (TasklistId: 1846) ---- (Expected: 21.6 ---- (Actual: 39.48767))
+2020-04-24 23:36:25.398: Task start event: (TasklistId: 1870) ---- (Expected: 21.6 ---- (Actual: 40.37732))
+2020-04-24 23:36:25.400: Task end event: (TasklistId: 1870) ---- (Expected: 21.8 ---- (Actual: 40.37903))
+2020-04-24 23:36:25.802: Task start event: (TasklistId: 1874) ---- (Expected: 21.8 ---- (Actual: 40.77991))
+2020-04-24 23:36:25.805: Task end event: (TasklistId: 1874) ---- (Expected: 22 ---- (Actual: 40.78418))
+2020-04-24 23:36:26.193: Task start event: (TasklistId: 1878) ---- (Expected: 22 ---- (Actual: 41.1709))
+2020-04-24 23:36:26.198: Task end event: (TasklistId: 1878) ---- (Expected: 22.2 ---- (Actual: 41.17664))
+2020-04-24 23:36:26.571: Task start event: (TasklistId: 1882) ---- (Expected: 22.2 ---- (Actual: 41.55017))
+2020-04-24 23:36:26.573: Task end event: (TasklistId: 1882) ---- (Expected: 22.4 ---- (Actual: 41.55164))
+2020-04-24 23:36:26.573: Task start event: (TasklistId: 1883) ---- (Expected: 22.4 ---- (Actual: 41.55212))
+2020-04-24 23:36:27.867: Task end event: (TasklistId: 1883) ---- (Expected: 23.6 ---- (Actual: 42.84644))
+2020-04-24 23:36:28.649: Task start event: (TasklistId: 1895) ---- (Expected: 23.6 ---- (Actual: 43.6283))
+2020-04-24 23:36:28.651: Task end event: (TasklistId: 1895) ---- (Expected: 23.8 ---- (Actual: 43.63037))
+2020-04-24 23:36:28.654: Task start event: (TasklistId: 1896) ---- (Expected: 23.8 ---- (Actual: 43.63293))
+2020-04-24 23:36:28.657: Task end event: (TasklistId: 1896) ---- (Expected: 24 ---- (Actual: 43.63623))
+2020-04-24 23:36:28.660: Task start event: (TasklistId: 1897) ---- (Expected: 24 ---- (Actual: 43.63879))
+2020-04-24 23:36:29.921: Task end event: (TasklistId: 1897) ---- (Expected: 25.2 ---- (Actual: 44.89978))
+2020-04-24 23:36:30.381: Task start event: (TasklistId: 1905) ---- (Expected: 25.2 ---- (Actual: 45.35986))
+2020-04-24 23:36:31.655: Task end event: (TasklistId: 1905) ---- (Expected: 26.4 ---- (Actual: 46.63416))
+2020-04-24 23:36:31.750: Task start event: (TasklistId: 1913) ---- (Expected: 26.4 ---- (Actual: 46.72974))
+2020-04-24 23:36:33.022: Task end event: (TasklistId: 1913) ---- (Expected: 27.6 ---- (Actual: 48.00012))
+2020-04-24 23:36:33.118: Task start event: (TasklistId: 1921) ---- (Expected: 27.6 ---- (Actual: 48.09631))
+2020-04-24 23:36:34.355: Task end event: (TasklistId: 1921) ---- (Expected: 28.8 ---- (Actual: 49.33386))
+2020-04-24 23:36:35.068: Task start event: (TasklistId: 1930) ---- (Expected: 28.8 ---- (Actual: 50.04761))
+2020-04-24 23:36:35.069: Task end event: (TasklistId: 1930) ---- (Expected: 29 ---- (Actual: 50.04871))
+2020-04-24 23:36:35.070: Task start event: (TasklistId: 1931) ---- (Expected: 29 ---- (Actual: 50.04944))
+2020-04-24 23:36:36.848: Task end event: (TasklistId: 1931) ---- (Expected: 30.2 ---- (Actual: 51.82739))
+2020-04-24 23:36:36.935: Task start event: (TasklistId: 1939) ---- (Expected: 30.2 ---- (Actual: 51.91357))
+2020-04-24 23:36:38.201: Task end event: (TasklistId: 1939) ---- (Expected: 31.4 ---- (Actual: 53.1803))
+2020-04-24 23:36:38.304: Task start event: (TasklistId: 1947) ---- (Expected: 31.4 ---- (Actual: 53.28149))
+2020-04-24 23:36:39.581: Task end event: (TasklistId: 1947) ---- (Expected: 32.6 ---- (Actual: 54.55994))
+2020-04-24 23:36:39.676: Task start event: (TasklistId: 1954) ---- (Expected: 32.6 ---- (Actual: 54.6543))
+2020-04-24 23:36:41.183: Task end event: (TasklistId: 1954) ---- (Expected: 34.1 ---- (Actual: 56.16187))
+2020-04-24 23:36:41.198: Task start event: (TasklistId: 1956) ---- (Expected: 34.1 ---- (Actual: 56.17749))
+2020-04-24 23:36:41.200: Task end event: (TasklistId: 1956) ---- (Expected: 38.5 ---- (Actual: 56.17883))
+2020-04-24 23:36:43.908: Task start event: (TasklistId: 1959) ---- (Expected: 38.5 ---- (Actual: 58.88684))
+2020-04-24 23:36:47.129: Task end event: (TasklistId: 1959) ---- (Expected: 39.7 ---- (Actual: 62.10828))
+2020-04-24 23:36:47.148: Task start event: (TasklistId: 1962) ---- (Expected: 39.7 ---- (Actual: 62.12708))
+2020-04-24 23:36:47.149: Task end event: (TasklistId: 1962) ---- (Expected: 40.2 ---- (Actual: 62.12817))
+2020-04-24 23:36:47.244: Finish
+2020-04-24 23:36:47.262: Finish
+2020-04-24 23:36:47.291: Finish
+2020-04-24 23:36:47.313: Finish
+2020-04-24 23:36:47.330: Finish
+2020-04-24 23:36:47.350: Finish
+2020-04-24 23:36:47.365: Finish
+2020-04-24 23:36:58.793: Ending Experiment
+2020-04-24 23:36:59.021: BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "SceneMgr/LoadingScreen(Clone)/BaconTwoScoop(Clone)/Hitbox"
+2020-04-24 23:36:59.309: Releasing render texture that is set as Camera.targetTexture!
+
+2020-04-24 23:36:59.460: RegisterScreenBox tempGuardianVars=NetCache+NetCacheFeatures
+2020-04-24 23:36:59.522: show postition = (0.0, 0.0, 0.0) (5.0, 5.0, 5.0)

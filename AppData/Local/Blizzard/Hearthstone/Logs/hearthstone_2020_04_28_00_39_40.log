@@ -1,0 +1,223 @@
+2020-04-28 00:39:40.493: Logging Unity output to: C:/Users/USER/AppData/Local/Blizzard/Hearthstone/Logs/hearthstone_2020_04_28_00_39_40.log
+2020-04-28 00:39:40.505: Command Line: -launch -uid hs_beta
+2020-04-28 00:39:41.380: GAME_SAVE_SUBKEY DBF Asset has 0 records! Something went wrong generating it. Try checking the generated XMLs in the DBF folder.
+
+2020-04-28 00:39:41.381: GLOBAL DBF Asset has 0 records! Something went wrong generating it. Try checking the generated XMLs in the DBF folder.
+
+2020-04-28 00:39:41.473: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/actors0.unity3d, 17246460
+2020-04-28 00:39:41.527: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds5.unity3d, 12600603
+2020-04-28 00:39:41.539: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds6.unity3d, 14346948
+2020-04-28 00:39:41.540: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds9.unity3d, 9284468
+2020-04-28 00:39:41.570: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds0.unity3d, 5469889
+2020-04-28 00:39:41.570: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds1.unity3d, 5114613
+2020-04-28 00:39:41.571: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds2.unity3d, 4533111
+2020-04-28 00:39:41.572: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds11.unity3d, 15569017
+2020-04-28 00:39:41.572: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds12.unity3d, 7362533
+2020-04-28 00:39:41.573: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds15.unity3d, 12337746
+2020-04-28 00:39:41.585: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds8.unity3d, 8416879
+2020-04-28 00:39:41.586: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds10.unity3d, 5702535
+2020-04-28 00:39:41.587: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds13.unity3d, 5944684
+2020-04-28 00:39:41.587: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds14.unity3d, 6872214
+2020-04-28 00:39:41.588: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds18.unity3d, 4932324
+2020-04-28 00:39:41.588: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/soundskokr0.unity3d, 3856173
+2020-04-28 00:39:41.589: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/soundskokr1.unity3d, 3051151
+2020-04-28 00:39:41.589: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/soundskokr2.unity3d, 3299493
+2020-04-28 00:39:41.590: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/soundskokr3.unity3d, 7996182
+2020-04-28 00:39:41.591: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/soundskokr4.unity3d, 3576089
+2020-04-28 00:39:41.604: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds16.unity3d, 8388985
+2020-04-28 00:39:41.605: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/boards1.unity3d, 26333480
+2020-04-28 00:39:41.606: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/boards2.unity3d, 17333007
+2020-04-28 00:39:41.654: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cards0.unity3d, 4482602
+2020-04-28 00:39:41.667: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds3.unity3d, 5292573
+2020-04-28 00:39:41.668: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds7.unity3d, 9338154
+2020-04-28 00:39:41.668: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/boards3.unity3d, 25585599
+2020-04-28 00:39:41.669: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials5.unity3d, 19796843
+2020-04-28 00:39:41.683: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardbacks0.unity3d, 52530508
+2020-04-28 00:39:41.684: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials1.unity3d, 23152139
+2020-04-28 00:39:41.684: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials2.unity3d, 22648734
+2020-04-28 00:39:41.685: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials3.unity3d, 23116364
+2020-04-28 00:39:41.686: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials6.unity3d, 19641390
+2020-04-28 00:39:41.686: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh1.unity3d, 48612664
+2020-04-28 00:39:41.699: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials4.unity3d, 22105153
+2020-04-28 00:39:41.699: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials7.unity3d, 22224765
+2020-04-28 00:39:41.700: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh0.unity3d, 47557158
+2020-04-28 00:39:41.700: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh2.unity3d, 45215892
+2020-04-28 00:39:41.701: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh3.unity3d, 43874053
+2020-04-28 00:39:41.702: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh4.unity3d, 48666262
+2020-04-28 00:39:41.702: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh5.unity3d, 44297222
+2020-04-28 00:39:41.703: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh6.unity3d, 41290971
+2020-04-28 00:39:41.703: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh8.unity3d, 43420737
+2020-04-28 00:39:41.715: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/boards4.unity3d, 27144285
+2020-04-28 00:39:42.059: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh7.unity3d, 41392414
+2020-04-28 00:39:42.061: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh11.unity3d, 47838905
+2020-04-28 00:39:42.138: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds19.unity3d, 5501323
+2020-04-28 00:39:42.165: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds17.unity3d, 18404088
+2020-04-28 00:39:42.166: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/boards0.unity3d, 15427673
+2020-04-28 00:39:42.316: *** BattleNet version: Product = 17.0.0.0, Data = 17001
+2020-04-28 00:39:42.410: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh10.unity3d, 40462732
+2020-04-28 00:39:42.411: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh12.unity3d, 43253121
+2020-04-28 00:39:42.412: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh13.unity3d, 46165488
+2020-04-28 00:39:42.643: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh15.unity3d, 42274295
+2020-04-28 00:39:42.665: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials8.unity3d, 21361672
+2020-04-28 00:39:42.666: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh9.unity3d, 49979897
+2020-04-28 00:39:42.667: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh14.unity3d, 46107556
+2020-04-28 00:39:42.668: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh18.unity3d, 45046031
+2020-04-28 00:39:42.668: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh19.unity3d, 44619313
+2020-04-28 00:39:42.680: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh16.unity3d, 43729478
+2020-04-28 00:39:42.681: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic0.unity3d, 15331962
+2020-04-28 00:39:42.759: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic6.unity3d, 38097194
+2020-04-28 00:39:42.761: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic7.unity3d, 22957738
+2020-04-28 00:39:42.776: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic4.unity3d, 19841590
+2020-04-28 00:39:42.809: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshighkokr0.unity3d, 648881
+2020-04-28 00:39:42.810: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic5.unity3d, 22104728
+2020-04-28 00:39:42.855: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/fonts0.unity3d, 4802589
+2020-04-28 00:39:42.856: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects0.unity3d, 22816944
+2020-04-28 00:39:42.878: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/fontskokr0.unity3d, 1692577
+2020-04-28 00:39:42.892: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects4.unity3d, 15938852
+2020-04-28 00:39:42.939: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic1.unity3d, 61891308
+2020-04-28 00:39:42.941: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects6.unity3d, 16269619
+2020-04-28 00:39:42.958: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials9.unity3d, 22460902
+2020-04-28 00:39:42.983: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects5.unity3d, 16352787
+2020-04-28 00:39:43.014: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects9.unity3d, 19644539
+2020-04-28 00:39:43.045: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects1.unity3d, 12439981
+2020-04-28 00:39:43.072: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects11.unity3d, 16630796
+2020-04-28 00:39:43.103: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic9.unity3d, 19523545
+2020-04-28 00:39:43.104: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects3.unity3d, 18267818
+2020-04-28 00:39:43.156: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects7.unity3d, 18668675
+2020-04-28 00:39:43.159: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds1.unity3d, 37797024
+2020-04-28 00:39:43.211: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/sounds4.unity3d, 15640941
+2020-04-28 00:39:43.214: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects8.unity3d, 17476169
+2020-04-28 00:39:43.233: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/legendarystingers0.unity3d, 4399741
+2020-04-28 00:39:43.283: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic2.unity3d, 11473859
+2020-04-28 00:39:43.285: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds0.unity3d, 33688116
+2020-04-28 00:39:43.317: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic3.unity3d, 28902548
+2020-04-28 00:39:43.319: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/expansionmusic8.unity3d, 53908559
+2020-04-28 00:39:43.346: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects12.unity3d, 20792812
+2020-04-28 00:39:43.377: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds3.unity3d, 36431468
+2020-04-28 00:39:43.396: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds5.unity3d, 35205411
+2020-04-28 00:39:43.421: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds8.unity3d, 34777044
+2020-04-28 00:39:43.452: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects13.unity3d, 24922923
+2020-04-28 00:39:43.484: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds2.unity3d, 35760143
+2020-04-28 00:39:43.497: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/cardtextureshigh17.unity3d, 41746955
+2020-04-28 00:39:43.516: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds4.unity3d, 33169842
+2020-04-28 00:39:43.534: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr5.unity3d, 43687783
+2020-04-28 00:39:43.547: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr4.unity3d, 43537630
+2020-04-28 00:39:43.563: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr1.unity3d, 42455378
+2020-04-28 00:39:43.590: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds6.unity3d, 35565183
+2020-04-28 00:39:43.590: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr3.unity3d, 42785393
+2020-04-28 00:39:43.602: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/otherminionsounds0.unity3d, 58500133
+2020-04-28 00:39:43.619: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/otherminionsoundskokr1.unity3d, 55321167
+2020-04-28 00:39:43.636: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/otherminionsoundskokr0.unity3d, 54134888
+2020-04-28 00:39:43.655: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/otherminionsounds1.unity3d, 56629975
+2020-04-28 00:39:43.670: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/playsounds0.unity3d, 47507993
+2020-04-28 00:39:43.684: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr8.unity3d, 41392614
+2020-04-28 00:39:43.707: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds7.unity3d, 34705646
+2020-04-28 00:39:43.725: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/playsoundskokr0.unity3d, 53643977
+2020-04-28 00:39:43.740: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/premiummaterials0.unity3d, 21546623
+2020-04-28 00:39:43.740: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr6.unity3d, 44225095
+2020-04-28 00:39:43.755: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spellsounds0.unity3d, 56341603
+2020-04-28 00:39:43.783: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/heromusic0.unity3d, 38634335
+2020-04-28 00:39:43.784: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spellsounds1.unity3d, 52330980
+2020-04-28 00:39:43.844: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells1.unity3d, 24167889
+2020-04-28 00:39:43.889: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells2.unity3d, 24017160
+2020-04-28 00:39:43.904: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/playsounds2.unity3d, 45774514
+2020-04-28 00:39:43.920: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/otherminionsoundskokr2.unity3d, 53560888
+2020-04-28 00:39:43.973: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells0.unity3d, 25975916
+2020-04-28 00:39:43.987: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/playsounds1.unity3d, 46959165
+2020-04-28 00:39:44.004: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects10.unity3d, 23233939
+2020-04-28 00:39:44.052: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells3.unity3d, 21699018
+2020-04-28 00:39:44.067: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr0.unity3d, 38275360
+2020-04-28 00:39:44.083: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr9.unity3d, 43454010
+2020-04-28 00:39:44.106: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/uiscreens0.unity3d, 9357798
+2020-04-28 00:39:44.132: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr2.unity3d, 39005353
+2020-04-28 00:39:44.133: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/otherminionsounds2.unity3d, 59042250
+2020-04-28 00:39:44.150: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/gameobjects2.unity3d, 19298035
+2020-04-28 00:39:44.180: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsounds9.unity3d, 34637696
+2020-04-28 00:39:44.198: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/missionsoundskokr7.unity3d, 42147860
+2020-04-28 00:39:44.218: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/tutorial1.unity3d, 15718792
+2020-04-28 00:39:44.233: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textures2.unity3d, 18705579
+2020-04-28 00:39:44.233: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textures4.unity3d, 21752473
+2020-04-28 00:39:44.234: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/materials0.unity3d, 10645568
+2020-04-28 00:39:44.247: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/tutorialkokr0.unity3d, 6416342
+2020-04-28 00:39:44.270: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textures3.unity3d, 20982603
+2020-04-28 00:39:44.270: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/tutorial3.unity3d, 6166610
+2020-04-28 00:39:44.333: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells7.unity3d, 22609109
+2020-04-28 00:39:44.334: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/tutorial2.unity3d, 11267107
+2020-04-28 00:39:44.335: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/scriptableobject0.unity3d, 11507
+2020-04-28 00:39:44.352: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/tutorial4.unity3d, 11546817
+2020-04-28 00:39:44.364: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/uberanimations0.unity3d, 852994
+2020-04-28 00:39:44.439: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells4.unity3d, 20603808
+2020-04-28 00:39:44.440: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textureskokr0.unity3d, 4887021
+2020-04-28 00:39:44.630: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textures5.unity3d, 21797540
+2020-04-28 00:39:44.735: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textures0.unity3d, 24892204
+2020-04-28 00:39:44.874: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells5.unity3d, 23240948
+2020-04-28 00:39:44.875: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/textures1.unity3d, 25270093
+2020-04-28 00:39:44.981: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/spells6.unity3d, 23674422
+2020-04-28 00:39:45.492: [UpdateManager] Load AssetBundle - D:/Hearthstone/Data/win/tutorial0.unity3d, 31575208
+2020-04-28 00:39:47.354: System Info:
+2020-04-28 00:39:47.357: SystemInfo - Device Name: DESKTOP-13RIOQ2
+2020-04-28 00:39:47.359: SystemInfo - Device Model: GL63 8RD (Micro-Star International Co., Ltd.)
+2020-04-28 00:39:47.361: SystemInfo - OS: Windows 10  (10.0.0) 64bit
+2020-04-28 00:39:47.363: SystemInfo - CPU Type: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz
+2020-04-28 00:39:47.364: SystemInfo - CPU Cores: 12
+2020-04-28 00:39:47.366: SystemInfo - System Memory: 8036
+2020-04-28 00:39:47.368: SystemInfo - Screen Resolution: 1920x1080
+2020-04-28 00:39:47.370: SystemInfo - Screen DPI: 120
+2020-04-28 00:39:47.371: SystemInfo - GPU ID: 7308
+2020-04-28 00:39:47.373: SystemInfo - GPU Name: NVIDIA GeForce GTX 1050 Ti
+2020-04-28 00:39:47.375: SystemInfo - GPU Vendor: NVIDIA
+2020-04-28 00:39:47.376: SystemInfo - GPU Memory: 3072
+2020-04-28 00:39:47.378: SystemInfo - GPU Shader Level: 50
+2020-04-28 00:39:47.380: SystemInfo - GPU NPOT Support: Full
+2020-04-28 00:39:47.381: SystemInfo - Graphics API (version): Direct3D 11.0 [level 11.1]
+2020-04-28 00:39:47.383: SystemInfo - Graphics API (type): Direct3D11
+2020-04-28 00:39:47.385: SystemInfo - Graphics Supported Render Target Count: 8
+2020-04-28 00:39:47.386: SystemInfo - Graphics Supports 3D Textures: True
+2020-04-28 00:39:47.387: SystemInfo - Graphics Supports Compute Shaders: True
+2020-04-28 00:39:47.389: SystemInfo - Graphics Supports Image Effects: True
+2020-04-28 00:39:47.391: SystemInfo - Graphics Supports Render To Cubemap: True
+2020-04-28 00:39:47.393: SystemInfo - Graphics Supports Shadows: True
+2020-04-28 00:39:47.396: SystemInfo - Graphics Supports Sparse Textures: True
+2020-04-28 00:39:47.396: SystemInfo - Graphics RenderTextureFormat.ARGBHalf: True
+2020-04-28 00:39:47.398: SystemInfo - Graphics Metal Support: False
+2020-04-28 00:39:54.283: show postition = (0.0, 0.0, 0.0) (5.0, 5.0, 5.0)
+2020-04-28 00:39:55.864: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-28 00:39:55.865: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-28 00:39:55.865: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-28 00:39:55.866: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-28 00:39:55.866: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-28 00:39:55.867: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-28 00:39:55.867: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-28 00:39:55.868: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-28 00:39:55.869: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-28 00:39:55.869: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-28 00:39:55.870: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-28 00:39:55.870: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-28 00:39:55.871: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-28 00:39:55.872: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-28 00:39:55.873: Network.GetProfileNotices(): Unrecognized profile notice
+
+2020-04-28 00:39:55.874: Network.GetProfileNotices(): Unhandled notice type! This notice will be lost!
+
+2020-04-28 00:40:02.264: Base User Folder  : C:/Users/USER/AppData/LocalLow/Blizzard Entertainment/Hearthstone
+2020-04-28 00:40:02.265: Base Global Folder: C:/Users/USER/AppData/LocalLow/Blizzard Entertainment
+2020-04-28 00:40:02.266: Base Common Folder: Telemetry
+2020-04-28 00:40:02.301: RegisterScreenBox tempGuardianVars=NetCache+NetCacheFeatures
+2020-04-28 00:40:02.657: [HealthyGaming] CAIS ServerEnabledForPlatform=False AccountCAISForChina=False Country=KOR TimeSec=23.65006 PlayedTimeMin=0 RestedTimeMin=0 SessionStartTime=1819173184
+2020-04-28 00:40:17.235: BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "BaseUI(Clone)/ChatMgr(Clone)/FriendListFrame(Clone)/ItemsList"
