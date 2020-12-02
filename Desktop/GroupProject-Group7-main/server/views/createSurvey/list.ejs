@@ -1,0 +1,100 @@
+
+<%- include ../partials/header.ejs %>
+<%- include ../partials/main_nav.ejs %>
+
+
+<br><br><br><br>
+<!-- Main Content -->
+  <div class="row justify-content-md-center">
+  <div class="col-8" style="color:#453D30; font-family: Garamond;">
+  <h2 class="display-3 text-center">Manage Survey</h2>
+  <hr class="my-4">
+  </div>
+  </div>
+  <br>
+  <div class="row justify-content-md-center">
+  <div class="col-md-offset-3 col-md-8">
+     
+     
+     <!-- Repeatable Template Row -->
+     <% for(let count = 0; count < SurveyList.length; count++) { %>
+       <%let onAndOff = 'ON'; if(SurveyList[count].onOff === false){onAndOff = 'OFF';}%>  
+       <form class="form" method="POST">
+        
+        <table class="table table-bordered table-striped table-hover" style="color:#453D30; font-family: Garamond;">         
+
+          <!-- Header Row -->
+          <br><br>
+
+        <tr style="color:#453D30">
+         <td colspan="2" class="text-center "> <h5>Title: <%= SurveyList[count].title %></h5> </td>
+         <td class="text-center "> <h5>Creator: <%= SurveyList[count].writer %> </h5></td>
+         <td class="text-center "><h5 style="color:#453D30; font-family: Garamond;">Survey: <%= onAndOff%></h5></td>
+
+
+       </tr>
+          
+          <tr style="background-color:white;">
+          <th class="text-center ">No.</th>
+          <th width="600px;" class="text-center ">Question</th>
+          <th class="text-center ">Question Type</th>
+          <th  width="180px;" rowspan="4"><br><a href="/survey-list/edit/<%= SurveyList[count]._id %>" class="btn btn-outline-primary btn-sm" role="button">
+          <i class="far fa-edit"></i> Edit </a>&nbsp;&nbsp;
+         <a href="/survey-list/delete/<%= SurveyList[count]._id %>" class="btn btn-outline-danger btn-sm" role="button">
+          <i class="far fa-trash-alt"></i> Delete </a>
+          <br>
+          <br>
+          <br>
+          <a href="/result/<%= SurveyList[count].title %>" class="btn btn-outline-secondary btn-sm" role="button">
+         <i class="far fa-chart-bar"></i> Result </a>
+         <a href="/survey-list/setting/<%= SurveyList[count]._id %>" class="btn btn-outline-info btn-sm" role="button">
+         <i class="fas fa-cog"></i> Setting </a>
+          </th>
+          </tr>
+         
+         
+         <tr style="background-color:white;">
+         <td class="text-center ">&nbsp;&nbsp;&nbsp;&nbsp;<%= SurveyList[count].questionNum1 %>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+         <td class="text-center ">&nbsp;&nbsp;&nbsp;&nbsp;<%= SurveyList[count].question1 %>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+         <td class="text-center ">&nbsp;&nbsp;&nbsp;&nbsp;<%= SurveyList[count].questionType1 %>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+         </tr>
+
+         <tr style="background-color:white;">
+         <td class="text-center ">&nbsp;&nbsp;&nbsp;&nbsp;<%= SurveyList[count].questionNum2 %>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+         <td class="text-center ">&nbsp;&nbsp;&nbsp;&nbsp;<%= SurveyList[count].question2 %>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+         <td class="text-center ">&nbsp;&nbsp;&nbsp;&nbsp;<%= SurveyList[count].questionType2 %>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+         </tr>
+
+         <tr style="background-color:white;">
+         <td class="text-center ">&nbsp;&nbsp;&nbsp;&nbsp;<%= SurveyList[count].questionNum3 %>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+         <td class="text-center ">&nbsp;&nbsp;&nbsp;&nbsp;<%= SurveyList[count].question3 %>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+         <td class="text-center ">&nbsp;&nbsp;&nbsp;&nbsp;<%= SurveyList[count].questionType3 %>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+         </tr>
+
+
+     <% } %>
+
+   </table>
+
+
+
+  <a href="/survey-list/add" class="btn btn-secondary" role="button">
+  <i class="fas fa-plus-circle"></i> Create a Survey</a>
+
+  <button type="submit" class="btn btn-outline-primary">Submit</button>
+      </div>
+
+  </form>
+
+
+  </div>
+  </div>
+
+  </main>
+<br><br><br><br>
+
+    
+
+<%- include ../partials/bottom_nav.ejs %>
+<%- include ../partials/footer.ejs %>
+
