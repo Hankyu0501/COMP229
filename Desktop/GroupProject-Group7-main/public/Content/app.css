@@ -142,12 +142,10 @@
   border:2px solid #C2D6FF;
   border-radius:40px 0 40px 0
 }
-
 #btnColor
 {
   background-color: #A98B80;
   border-color: #A98B80;
-  font-size: 25px;
 }
 #btnColor1{
   background-color: #A98B80;
@@ -160,12 +158,7 @@
 {
   font-size: 160%;
 }
-#contact2
-{
-  position:relative;
-  left:-20%;
-  font-size: 160%;
-}
+
 #contact3
 {
   font-size: 25px;;
@@ -175,6 +168,7 @@
 {
   font-size:60px;
   font-family: Garamond;
+  color: black;
 }
 #manage1
 {
@@ -388,3 +382,7 @@ ul li.liAddproperties:nth-child(3n) a{
   top:-5px; */
   background:#ccf;
 }
+
+
+/* For Cantact, list and setting Pages by Hankyu */
+
